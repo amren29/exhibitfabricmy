@@ -60,7 +60,7 @@ export function CartSidebar({ isOpen, onClose }: CartSidebarProps) {
       />
 
       {/* Sidebar */}
-      <div className="fixed right-0 top-0 h-full w-full sm:w-[480px] bg-white shadow-2xl z-50 flex flex-col">
+      <div className="fixed right-0 top-0 h-screen w-full sm:w-[480px] bg-white shadow-2xl z-50 flex flex-col">
         {/* Header */}
         <div className="flex items-center justify-between p-4 border-b">
           <div className="flex items-center gap-2">
