@@ -22,18 +22,18 @@ export function CartSidebar({ isOpen, onClose }: CartSidebarProps) {
   const totalItems = getTotalItems()
   const totalPrice = calculateTotalPrice(cart)
 
-  const handleQuantityIncrease = (id: string, currentQuantity: number) => {
-    updateQuantity(id, currentQuantity + 1)
+  const handleQuantityIncrease = (id: string, currentQuantity: number, priceOption?: string) => {
+    updateQuantity(id, currentQuantity + 1, priceOption)
   }
 
-  const handleQuantityDecrease = (id: string, currentQuantity: number) => {
+  const handleQuantityDecrease = (id: string, currentQuantity: number, priceOption?: string) => {
     if (currentQuantity > 1) {
-      updateQuantity(id, currentQuantity - 1)
+      updateQuantity(id, currentQuantity - 1, priceOption)
     }
   }
 
-  const handleRemove = (id: string, name: string) => {
-    removeFromCart(id)
+  const handleRemove = (id: string, name: string, priceOption?: string) => {
+    removeFromCart(id, priceOption)
     toast.success('Product removed', {
       description: `${name} has been removed from your cart.`,
     })
@@ -84,7 +84,7 @@ export function CartSidebar({ isOpen, onClose }: CartSidebarProps) {
         </div>
 
         {/* Cart Items */}
-        <div className="flex-1 overflow-y-auto p-4">
+        <div className="flex-1 overflow-y-auto p-4 bg-gray-50">
           {cart.length === 0 ? (
             <div className="flex flex-col items-center justify-center h-full text-center">
               <svg className="w-20 h-20 text-gray-300 mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -97,9 +97,9 @@ export function CartSidebar({ isOpen, onClose }: CartSidebarProps) {
               </Button>
             </div>
           ) : (
-            <div className="space-y-4">
-              {cart.map((item) => (
-                <div key={item.id} className="bg-white border rounded-lg p-3 hover:shadow-md transition-shadow">
+            <div className="space-y-3">
+              {cart.map((item, index) => (
+                <div key={`${item.id}-${item.priceOption || 'default'}-${index}`} className="bg-white border border-gray-200 rounded-lg p-3 shadow-sm hover:shadow-md transition-shadow">
                   <div className="flex gap-3">
                     {/* Product Image */}
                     <div className="flex-shrink-0 w-20 h-20 bg-gray-100 rounded-lg flex items-center justify-center">
@@ -123,7 +123,7 @@ export function CartSidebar({ isOpen, onClose }: CartSidebarProps) {
                           )}
                         </div>
                         <button
-                          onClick={() => handleRemove(item.id, item.name)}
+                          onClick={() => handleRemove(item.id, item.name, item.priceOption)}
                           className="text-gray-400 hover:text-red-500 transition-colors"
                           aria-label="Remove item"
                         >
@@ -135,7 +135,7 @@ export function CartSidebar({ isOpen, onClose }: CartSidebarProps) {
                       <div className="flex items-center justify-between mt-2">
                         <div className="flex items-center gap-2 border rounded-lg">
                           <button
-                            onClick={() => handleQuantityDecrease(item.id, item.quantity)}
+                            onClick={() => handleQuantityDecrease(item.id, item.quantity, item.priceOption)}
                             className="p-1 hover:bg-gray-100 transition-colors"
                             aria-label="Decrease quantity"
                           >
@@ -145,7 +145,7 @@ export function CartSidebar({ isOpen, onClose }: CartSidebarProps) {
                             {item.quantity}
                           </span>
                           <button
-                            onClick={() => handleQuantityIncrease(item.id, item.quantity)}
+                            onClick={() => handleQuantityIncrease(item.id, item.quantity, item.priceOption)}
                             className="p-1 hover:bg-gray-100 transition-colors"
                             aria-label="Increase quantity"
                           >
@@ -154,7 +154,15 @@ export function CartSidebar({ isOpen, onClose }: CartSidebarProps) {
                         </div>
                         <div className="text-right">
                           <div className="text-sm font-bold text-primary">{formatPrice(item.price)}</div>
-                          <div className="text-xs text-gray-500">{formatPrice(`RM ${parseFloat(item.price.replace(/[^\d.]/g, '')) / item.quantity}`)} each</div>
+                          <div className="text-xs text-gray-500">
+                            {(() => {
+                              const numericPrice = parseFloat(item.price.replace(/[^\d.]/g, ''));
+                              if (!isNaN(numericPrice) && item.quantity > 0) {
+                                return `${formatPrice(`RM ${(numericPrice / item.quantity).toFixed(2)}`)} each`;
+                              }
+                              return '';
+                            })()}
+                          </div>
                         </div>
                       </div>
 

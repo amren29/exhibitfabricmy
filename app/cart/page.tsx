@@ -16,18 +16,18 @@ export default function CartPage() {
   const totalItems = getTotalItems()
   const totalPrice = calculateTotalPrice(cart)
 
-  const handleQuantityIncrease = (id: string, currentQuantity: number) => {
-    updateQuantity(id, currentQuantity + 1)
+  const handleQuantityIncrease = (id: string, currentQuantity: number, priceOption?: string) => {
+    updateQuantity(id, currentQuantity + 1, priceOption)
   }
 
-  const handleQuantityDecrease = (id: string, currentQuantity: number) => {
+  const handleQuantityDecrease = (id: string, currentQuantity: number, priceOption?: string) => {
     if (currentQuantity > 1) {
-      updateQuantity(id, currentQuantity - 1)
+      updateQuantity(id, currentQuantity - 1, priceOption)
     }
   }
 
-  const handleRemove = (id: string, name: string) => {
-    removeFromCart(id)
+  const handleRemove = (id: string, name: string, priceOption?: string) => {
+    removeFromCart(id, priceOption)
     toast.success('Product removed', {
       description: `${name} has been removed from your cart.`,
     })
@@ -124,7 +124,7 @@ export default function CartPage() {
                           )}
                         </div>
                         <button
-                          onClick={() => handleRemove(item.id, item.name)}
+                          onClick={() => handleRemove(item.id, item.name, item.priceOption)}
                           className="text-red-500 hover:text-red-700 transition-colors p-1.5"
                           aria-label="Remove item"
                         >
@@ -153,7 +153,7 @@ export default function CartPage() {
                         {/* Quantity Controls */}
                         <div className="flex items-center gap-2.5">
                           <button
-                            onClick={() => handleQuantityDecrease(item.id, item.quantity)}
+                            onClick={() => handleQuantityDecrease(item.id, item.quantity, item.priceOption)}
                             className="w-7 h-7 rounded-lg border border-gray-300 flex items-center justify-center hover:bg-gray-100 transition-colors"
                             aria-label="Decrease quantity"
                           >
@@ -163,7 +163,7 @@ export default function CartPage() {
                             {item.quantity}
                           </span>
                           <button
-                            onClick={() => handleQuantityIncrease(item.id, item.quantity)}
+                            onClick={() => handleQuantityIncrease(item.id, item.quantity, item.priceOption)}
                             className="w-7 h-7 rounded-lg border border-gray-300 flex items-center justify-center hover:bg-gray-100 transition-colors"
                             aria-label="Increase quantity"
                           >
