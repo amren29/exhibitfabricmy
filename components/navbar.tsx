@@ -9,9 +9,11 @@ import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 import { useCart } from "@/contexts/CartContext";
 import { CartSidebar } from "@/components/CartSidebar";
+import { SearchModal } from "@/components/SearchModal";
 
 export function Navbar() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [isSearchOpen, setIsSearchOpen] = useState(false);
   const pathname = usePathname();
   const { getTotalItems, isCartOpen, openCart, closeCart } = useCart();
   const totalItems = getTotalItems();
@@ -47,6 +49,7 @@ export function Navbar() {
               </Link>
             ))}
             <button
+              onClick={() => setIsSearchOpen(true)}
               className="text-muted-foreground hover:text-primary transition-colors"
               aria-label="Search"
             >
@@ -69,6 +72,7 @@ export function Navbar() {
           {/* Mobile Menu Button & Cart */}
           <div className="md:hidden flex items-center space-x-4">
             <button
+              onClick={() => setIsSearchOpen(true)}
               className="text-muted-foreground"
               aria-label="Search"
             >
@@ -126,6 +130,9 @@ export function Navbar() {
 
     {/* Cart Sidebar */}
     <CartSidebar isOpen={isCartOpen} onClose={closeCart} />
+
+    {/* Search Modal */}
+    <SearchModal isOpen={isSearchOpen} onClose={() => setIsSearchOpen(false)} />
     </>
   );
 }
