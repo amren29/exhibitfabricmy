@@ -1,0 +1,3155 @@
+{
+  "categories": [
+    "Display System",
+    "Tension System - Straight",
+    "Tension System - Curved & Special",
+    "Tension System - Booth & Structure",
+    "Fabric System",
+    "Promotional System",
+    "Display Stand",
+    "Exhibition Booth 3x3",
+    "Exhibition Booth 6x3",
+    "Exhibition Booth 6x6",
+    "SEG Light Box",
+    "Ads Print",
+    "Other Services"
+  ],
+  "products": [
+    {
+      "id": "POP-UP-3X3C",
+      "name": "Pop Up Curve 3x3",
+      "category": "Display System",
+      "description": "Curved pop-up display system with seamless fabric graphics. Perfect for creating eye-catching booth displays at exhibitions and trade shows.",
+      "specification": "Material: Tension Fabric, Frame: Aluminum Curve System, Printing: Dye-sublimation, Setup: Tool-free pop-up assembly",
+      "size": "344 cm (W) × 232 cm (H)",
+      "price": "RM 1750.00",
+      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=600&h=400&fit=crop",
+      "features": [
+        "Curved display design",
+        "Tool-free assembly",
+        "Lightweight at 26.2 kg",
+        "Includes carrying case"
+      ]
+    },
+    {
+      "id": "POP-UP-3X4C",
+      "name": "Pop Up Curve 3x4",
+      "category": "Display System",
+      "description": "Large curved pop-up display system for maximum visual impact. Ideal for larger booth spaces and brand showcases.",
+      "specification": "Material: Tension Fabric, Frame: Aluminum Curve System, Printing: Dye-sublimation, Setup: Tool-free pop-up assembly",
+      "size": "414 cm (W) × 232 cm (H)",
+      "price": "RM 2250.00",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
+      "features": [
+        "Large curved display",
+        "Tool-free assembly",
+        "26.2 kg weight",
+        "Professional finish"
+      ]
+    },
+    {
+      "id": "POP-UP-2X3",
+      "name": "Pop Up Straight 2x3",
+      "category": "Display System",
+      "description": "Compact straight pop-up display perfect for smaller booth spaces. Easy setup with professional results.",
+      "specification": "Material: Tension Fabric, Frame: Aluminum Straight System, Printing: Dye-sublimation, Setup: Pop-up assembly",
+      "size": "284 cm (W) × 232 cm (H)",
+      "price": "RM 1500.00",
+      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop",
+      "features": [
+        "Straight display design",
+        "Compact size",
+        "26.2 kg weight",
+        "Quick setup"
+      ]
+    },
+    {
+      "id": "POP-UP-3X3",
+      "name": "Pop Up Straight 3x3",
+      "category": "Display System",
+      "description": "Standard straight pop-up display system. Most popular size for trade show booths and exhibitions.",
+      "specification": "Material: Tension Fabric, Frame: Aluminum Straight System, Printing: Dye-sublimation, Setup: Pop-up assembly",
+      "size": "359 cm (W) × 232 cm (H)",
+      "price": "RM 1750.00",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "features": [
+        "Standard exhibition size",
+        "Straight design",
+        "26.2 kg weight",
+        "Easy transport"
+      ]
+    },
+    {
+      "id": "POP-UP-3X4",
+      "name": "Pop Up Straight 3x4",
+      "category": "Display System",
+      "description": "Large straight pop-up display for maximum coverage. Perfect for main booth backdrops.",
+      "specification": "Material: Tension Fabric, Frame: Aluminum Straight System, Printing: Dye-sublimation, Setup: Pop-up assembly",
+      "size": "434 cm (W) × 232 cm (H)",
+      "price": "RM 2250.00",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+      "features": [
+        "Large display area",
+        "Straight design",
+        "26.2 kg weight",
+        "Professional setup"
+      ]
+    },
+    {
+      "id": "PPT",
+      "name": "Pop Up Promotion Table",
+      "category": "Display System",
+      "description": "Portable promotional table with custom fabric graphics. Perfect for product demonstrations and customer interactions.",
+      "specification": "Material: Fabric Wrap, Frame: Aluminum, Printing: Full-color sublimation, Weight: 15.3 kg",
+      "size": "Printing area: 85 in × 35 in",
+      "price": "RM 625.00",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "features": [
+        "Lightweight at 15.3 kg",
+        "Custom fabric graphics",
+        "Portable design",
+        "Easy assembly"
+      ]
+    },
+    {
+      "id": "CASING",
+      "name": "Hard Casing Display",
+      "category": "Display System",
+      "description": "Durable hard casing display system with protective exterior. Ideal for frequent transport and setup.",
+      "specification": "Material: Hard Case + Fabric Graphics, Frame: Aluminum, Size: 184 cm × 80 cm, Weight: 12.1 kg",
+      "size": "184 cm × 80 cm",
+      "price": "RM 1000.00",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
+      "features": [
+        "Hard protective casing",
+        "12.1 kg weight",
+        "Durable construction",
+        "Travel-ready"
+      ]
+    },
+    {
+      "id": "POP-UP-VELCRO",
+      "name": "Velcro Pop Up",
+      "category": "Display System",
+      "description": "Velcro-based pop-up display system for easy graphic changes. Optional side covers available.",
+      "specification": "Material: Velcro Fabric System, Frame: Aluminum, Size: 230 cm × 230 cm, Side cover: +RM 100",
+      "size": "230 cm × 230 cm",
+      "price": "RM 1750.00",
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=400&fit=crop",
+      "features": [
+        "Velcro attachment system",
+        "Easy graphic replacement",
+        "Square design",
+        "Optional side covers"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-3X6.5",
+      "name": "Tension Straight 90x200",
+      "category": "Tension System - Straight",
+      "description": "Compact tension fabric display. Perfect for narrow spaces and side displays.",
+      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 5 kg",
+      "size": "90 cm (W) × 200 cm (H)",
+      "price": "RM 750.00 (Single Sided) / RM 1000.00 (Double Sided)",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+      "features": [
+        "Lightweight 5 kg",
+        "Single or double sided",
+        "SEG fabric system",
+        "Narrow profile"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-1X2",
+      "name": "Tension Straight 100x200",
+      "category": "Tension System - Straight",
+      "description": "Standard narrow tension display. Great for corridor and aisle applications.",
+      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 5 kg",
+      "size": "100 cm (W) × 200 cm (H)",
+      "price": "RM 1250.00 (Single Sided) / RM 1500.00 (Double Sided)",
+      "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=600&h=400&fit=crop",
+      "features": [
+        "5 kg weight",
+        "Versatile sizing",
+        "Professional finish",
+        "Easy setup"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-6X6",
+      "name": "Tension Straight 180x180",
+      "category": "Tension System - Straight",
+      "description": "Square tension fabric display. Ideal for symmetrical booth designs.",
+      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 5.5 kg",
+      "size": "180 cm (W) × 180 cm (H)",
+      "price": "RM 1750.00 (Single Sided) / RM 2250.00 (Double Sided)",
+      "image": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=600&h=400&fit=crop",
+      "features": [
+        "Square design",
+        "5.5 kg weight",
+        "Symmetrical display",
+        "SEG system"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-2.25X1.2",
+      "name": "Tension Straight 220x120",
+      "category": "Tension System - Straight",
+      "description": "Wide but shorter tension display. Perfect for counter backdrops and tabletop displays.",
+      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 5.3 kg",
+      "size": "220 cm (W) × 120 cm (H)",
+      "price": "RM 1500.00 (Single Sided) / RM 1750.00 (Double Sided)",
+      "image": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?w=600&h=400&fit=crop",
+      "features": [
+        "Wide format",
+        "Counter height",
+        "5.3 kg weight",
+        "Backdrop design"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-6X8",
+      "name": "Tension Straight 240x180",
+      "category": "Tension System - Straight",
+      "description": "Large tension fabric display for impactful booth presentations.",
+      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 6 kg",
+      "size": "240 cm (W) × 180 cm (H)",
+      "price": "RM 2000.00 (Single Sided) / RM 2500.00 (Double Sided)",
+      "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=600&h=400&fit=crop",
+      "features": [
+        "Large display area",
+        "6 kg weight",
+        "Professional graphics",
+        "Versatile use"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-8X8",
+      "name": "Tension Straight 245x225",
+      "category": "Tension System - Straight",
+      "description": "Standard exhibition height tension display. Most popular size for trade shows.",
+      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 6.5 kg",
+      "size": "245 cm (W) × 225 cm (H)",
+      "price": "RM 2000.00 (Single Sided) / RM 2500.00 (Double Sided)",
+      "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600&h=400&fit=crop",
+      "features": [
+        "Exhibition height",
+        "6.5 kg weight",
+        "Standard sizing",
+        "Professional finish"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-10X8",
+      "name": "Tension Straight 295x225",
+      "category": "Tension System - Straight",
+      "description": "Wide tension display for main booth backdrops. Creates impressive visual impact.",
+      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 7 kg",
+      "size": "295 cm (W) × 225 cm (H)",
+      "price": "RM 2500.00 (Single Sided) / RM 3000.00 (Double Sided)",
+      "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=600&h=400&fit=crop",
+      "features": [
+        "Wide backdrop",
+        "7 kg weight",
+        "High visibility",
+        "SEG fabric"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-2.25X4",
+      "name": "Tension Straight 400x225",
+      "category": "Tension System - Straight",
+      "description": "Extra-wide tension display for large booth spaces. Maximum brand exposure.",
+      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 7 kg",
+      "size": "400 cm (W) × 225 cm (H)",
+      "price": "RM 3750.00 (Single Sided) / RM 4375.00 (Double Sided)",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop",
+      "features": [
+        "Extra wide display",
+        "7 kg weight",
+        "Large format",
+        "Modular system"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-3X4",
+      "name": "Tension Straight 400x300",
+      "category": "Tension System - Straight",
+      "description": "Extra-wide and tall tension display. Premium size for flagship booth presentations.",
+      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 7 kg",
+      "size": "400 cm (W) × 300 cm (H)",
+      "price": "RM 4000.00 (Single Sided) / RM 4625.00 (Double Sided)",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&h=400&fit=crop",
+      "features": [
+        "Premium size",
+        "Extra tall design",
+        "7 kg weight",
+        "Flagship displays"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-2.25X5",
+      "name": "Tension Straight 500x225",
+      "category": "Tension System - Straight",
+      "description": "5-meter wide tension display for expansive booth designs.",
+      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 12.1 kg",
+      "size": "500 cm (W) × 225 cm (H)",
+      "price": "RM 4000.00 (Single Sided) / RM 4625.00 (Double Sided)",
+      "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=600&h=400&fit=crop",
+      "features": [
+        "5-meter width",
+        "12.1 kg weight",
+        "Expansive display",
+        "Modular design"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-10X17",
+      "name": "Tension Straight 500x300",
+      "category": "Tension System - Straight",
+      "description": "5-meter wide, 3-meter tall premium display. Maximum impact for large exhibitions.",
+      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 12.1 kg",
+      "size": "500 cm (W) × 300 cm (H)",
+      "price": "RM 4250.00 (Single Sided) / RM 5000.00 (Double Sided)",
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop",
+      "features": [
+        "Premium large size",
+        "3m height",
+        "12.1 kg weight",
+        "Maximum impact"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-2.25X6",
+      "name": "Tension Straight 600x225",
+      "category": "Tension System - Straight",
+      "description": "6-meter wide tension display for expansive brand walls.",
+      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 12.4 kg",
+      "size": "600 cm (W) × 225 cm (H)",
+      "price": "RM 4500.00 (Single Sided) / RM 5500.00 (Double Sided)",
+      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&h=400&fit=crop",
+      "features": [
+        "6-meter width",
+        "12.4 kg weight",
+        "Brand wall",
+        "Large format"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-10X20",
+      "name": "Tension Straight 600x300",
+      "category": "Tension System - Straight",
+      "description": "Ultimate large-format tension display. 6m wide × 3m tall for maximum presence.",
+      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 12.4 kg",
+      "size": "600 cm (W) × 300 cm (H)",
+      "price": "RM 5000.00 (Single Sided) / RM 6250.00 (Double Sided)",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&h=400&fit=crop",
+      "features": [
+        "Ultimate size",
+        "6m × 3m display",
+        "12.4 kg weight",
+        "Premium exhibitions"
+      ]
+    },
+    {
+      "id": "POP-UP-S.SHAPE",
+      "name": "S-Shape Curve Display",
+      "category": "Tension System - Curved & Special",
+      "description": "Unique S-shaped curved tension display for dynamic booth designs.",
+      "specification": "Material: SEG Tension Fabric, Frame: S-Curve Aluminum, Printing: Single/Double sided, Weight: 7 kg",
+      "size": "295 cm (W) × 225 cm (H)",
+      "price": "RM 3000.00 (Single Sided) / RM 3500.00 (Double Sided)",
+      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&h=400&fit=crop",
+      "features": [
+        "S-curve design",
+        "Unique shape",
+        "7 kg weight",
+        "Eye-catching"
+      ]
+    },
+    {
+      "id": "CURVE-8X8",
+      "name": "Curved Display 245x225",
+      "category": "Tension System - Curved & Special",
+      "description": "Standard curved tension display. Creates dimensional depth in booth design.",
+      "specification": "Material: SEG Tension Fabric, Frame: Curved Aluminum, Printing: Single/Double sided, Weight: 6.5 kg",
+      "size": "245 cm (W) × 225 cm (H)",
+      "price": "RM 2500.00 (Single Sided) / RM 3000.00 (Double Sided)",
+      "image": "https://images.unsplash.com/photo-1464938050520-ef2270bb8ce8?w=600&h=400&fit=crop",
+      "features": [
+        "Curved design",
+        "Standard size",
+        "6.5 kg weight",
+        "3D effect"
+      ]
+    },
+    {
+      "id": "CURVE-11.5X8",
+      "name": "Curved Display 345x225",
+      "category": "Tension System - Curved & Special",
+      "description": "Large curved tension display for impactful presentations.",
+      "specification": "Material: SEG Tension Fabric, Frame: Curved Aluminum, Printing: Single/Double sided, Weight: 7.5 kg",
+      "size": "345 cm (W) × 225 cm (H)",
+      "price": "RM 3500.00 (Single Sided) / RM 3750.00 (Double Sided)",
+      "image": "https://images.unsplash.com/photo-1478146896981-b80fe463b330?w=600&h=400&fit=crop",
+      "features": [
+        "Large curve",
+        "Wide display",
+        "7.5 kg weight",
+        "Impressive design"
+      ]
+    },
+    {
+      "id": "CURVE-11.8X8",
+      "name": "Curved Display 360x225",
+      "category": "Tension System - Curved & Special",
+      "description": "Extra-wide curved tension display for premium booth designs.",
+      "specification": "Material: SEG Tension Fabric, Frame: Curved Aluminum, Printing: Single/Double sided, Weight: 7.5 kg",
+      "size": "360 cm (W) × 225 cm (H)",
+      "price": "RM 4000.00 (Single Sided) / RM 4250.00 (Double Sided)",
+      "image": "https://images.unsplash.com/photo-1551818255-e6e10975bc17?w=600&h=400&fit=crop",
+      "features": [
+        "Extra-wide curve",
+        "Premium design",
+        "7.5 kg weight",
+        "High-end booths"
+      ]
+    },
+    {
+      "id": "POP-UP-S1",
+      "name": "S-Shape Display 1",
+      "category": "Tension System - Curved & Special",
+      "description": "Tall S-shaped display for vertical branding and wayfinding.",
+      "specification": "Material: SEG Tension Fabric, Frame: S-Shape Aluminum, Printing: Single/Double sided, Weight: 6 kg",
+      "size": "80 cm (W) × 275 cm (H)",
+      "price": "RM 1000.00 (Single Sided) / RM 1250.00 (Double Sided)",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=600&h=400&fit=crop",
+      "features": [
+        "Tall S-shape",
+        "Vertical design",
+        "6 kg weight",
+        "Wayfinding use"
+      ]
+    },
+    {
+      "id": "POP-UP-S2",
+      "name": "S-Shape Display 2",
+      "category": "Tension System - Curved & Special",
+      "description": "Extra-tall S-shaped display for maximum vertical presence.",
+      "specification": "Material: SEG Tension Fabric, Frame: S-Shape Aluminum, Printing: Single/Double sided, Weight: 6 kg",
+      "size": "80 cm (W) × 300 cm (H)",
+      "price": "RM 1125.00 (Single Sided) / RM 1375.00 (Double Sided)",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=600&h=400&fit=crop",
+      "features": [
+        "Extra-tall S-shape",
+        "3m height",
+        "6 kg weight",
+        "Vertical branding"
+      ]
+    },
+    {
+      "id": "TENSION-ANGLE-90",
+      "name": "Tension Stand Angle 90cm",
+      "category": "Tension System - Curved & Special",
+      "description": "Angled tension display stand for corner and directional applications.",
+      "specification": "Material: SEG Tension Fabric, Frame: Angle Aluminum, Height: 225-255 cm adjustable, Weight: 7 kg",
+      "size": "90 cm (W) × 225-255 cm (H)",
+      "price": "RM 1000.00 (Single Sided) / RM 1125.00 (Double Sided)",
+      "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=600&h=400&fit=crop",
+      "features": [
+        "Angle display",
+        "Adjustable height",
+        "7 kg weight",
+        "Corner application"
+      ]
+    },
+    {
+      "id": "TENSION-ANGLE-120",
+      "name": "Tension Stand Angle 120cm",
+      "category": "Tension System - Curved & Special",
+      "description": "Wider angled tension display for larger corner spaces.",
+      "specification": "Material: SEG Tension Fabric, Frame: Angle Aluminum, Height: 225-255 cm adjustable, Weight: 7 kg",
+      "size": "120 cm (W) × 225-255 cm (H)",
+      "price": "RM 1250.00 (Single Sided) / RM 1375.00 (Double Sided)",
+      "image": "https://images.unsplash.com/photo-1510906594845-bc082582c8cc?w=600&h=400&fit=crop",
+      "features": [
+        "Wide angle display",
+        "Adjustable height",
+        "7 kg weight",
+        "Larger corners"
+      ]
+    },
+    {
+      "id": "FAST-TENSION-TABLE",
+      "name": "Fast Tension Table",
+      "category": "Tension System - Curved & Special",
+      "description": "Quick-setup tension fabric table cover. Available in square and round designs.",
+      "specification": "Material: Stretch Fabric, Sizes: Square 96×38 in / Round 68×38 in, Weight: 10 kg, Price includes print",
+      "size": "Square: 96×38 in / Round: 68×38 in",
+      "price": "RM 1250.00",
+      "image": "https://images.unsplash.com/photo-1523759734441-581b1a3e9bda?w=600&h=400&fit=crop",
+      "features": [
+        "Quick setup",
+        "Square or round",
+        "10 kg weight",
+        "Includes printing"
+      ]
+    },
+    {
+      "id": "TOWER-CURVE",
+      "name": "Tower Booth (Curve)",
+      "category": "Tension System - Curved & Special",
+      "description": "Curved tower display for vertical branding. Lightweight and portable.",
+      "specification": "Material: Tension Fabric, Frame: Curved Tower Aluminum, Printing: Single sided, Weight: 2.4 kg",
+      "size": "86 cm (W) × 205 cm (H)",
+      "price": "RM 650",
+      "image": "https://images.unsplash.com/photo-1604328702546-f3e2e5c59c90?w=600&h=400&fit=crop",
+      "features": [
+        "Tower design",
+        "Curved shape",
+        "Only 2.4 kg",
+        "Portable"
+      ]
+    },
+    {
+      "id": "TEN-TABLE",
+      "name": "Fast Tension Table Display",
+      "category": "Tension System - Booth & Structure",
+      "description": "Professional tension table cover with branded graphics. Square and round options available.",
+      "specification": "Material: Stretch Fabric, Sizes: 96×38 in (Sq), 68×38 in (Rd), Weight: 10 kg, Print included",
+      "size": "Square: 96×38 in / Round: 68×38 in",
+      "price": "RM 1250.00",
+      "image": "https://images.unsplash.com/photo-1534670007418-fbb7f6cf32c3?w=600&h=400&fit=crop",
+      "features": [
+        "Branded table cover",
+        "Square or round",
+        "10 kg weight",
+        "Print included"
+      ]
+    },
+    {
+      "id": "TEN-BD",
+      "name": "Tower Display (Curve)",
+      "category": "Tension System - Booth & Structure",
+      "description": "Freestanding curved tower for wayfinding and vertical branding.",
+      "specification": "Material: Tension Fabric, Frame: Curved Tower, Size: 86×205 cm, Weight: 2.4 kg",
+      "size": "86 cm × 205 cm",
+      "price": "RM 1625.00",
+      "image": "https://images.unsplash.com/photo-1579762593131-8c0feb45bd1f?w=600&h=400&fit=crop",
+      "features": [
+        "Freestanding tower",
+        "Curved design",
+        "2.4 kg only",
+        "Wayfinding"
+      ]
+    },
+    {
+      "id": "TEN-WB",
+      "name": "Tube Fabric Wall Box",
+      "category": "Tension System - Booth & Structure",
+      "description": "Large fabric wall box structure for creating booth walls and partitions.",
+      "specification": "Material: Tube Frame + Fabric, Size: 300×225×40 cm, Weight: 8 kg",
+      "size": "300 cm × 225 cm × 40 cm (D)",
+      "price": "RM 5000.00",
+      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=600&h=400&fit=crop",
+      "features": [
+        "Wall structure",
+        "Large format",
+        "8 kg weight",
+        "Booth partition"
+      ]
+    },
+    {
+      "id": "TEN-DU",
+      "name": "Tube Drum Shape Display",
+      "category": "Tension System - Booth & Structure",
+      "description": "Unique drum-shaped display structure for 360-degree branding.",
+      "specification": "Material: Tube Frame + Fabric, Size: 250×225×40 cm, Weight: 12 kg",
+      "size": "250 cm × 225 cm × 40 cm (D)",
+      "price": "RM 5500.00",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
+      "features": [
+        "Drum shape",
+        "360° branding",
+        "12 kg weight",
+        "Unique design"
+      ]
+    },
+    {
+      "id": "TEN-GW",
+      "name": "Tube Gateway Structure",
+      "category": "Tension System - Booth & Structure",
+      "description": "Gateway arch structure for booth entrances and photo opportunities.",
+      "specification": "Material: Tube Frame + Fabric, Size: 300×225×100 cm, Weight: 11 kg",
+      "size": "300 cm × 225 cm × 100 cm (D)",
+      "price": "RM 6500.00",
+      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop",
+      "features": [
+        "Gateway arch",
+        "Entrance feature",
+        "11 kg weight",
+        "Photo backdrop"
+      ]
+    },
+    {
+      "id": "TEN-HBB",
+      "name": "Hanging Banner Box",
+      "category": "Tension System - Booth & Structure",
+      "description": "Suspended fabric box for overhead branding and ceiling displays.",
+      "specification": "Material: Tube Frame + Fabric, Size: 300×300×100 cm, Weight: 12 kg",
+      "size": "300 cm × 300 cm × 100 cm (D)",
+      "price": "RM 7500.00",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "features": [
+        "Hanging display",
+        "Overhead branding",
+        "12 kg weight",
+        "Ceiling mount"
+      ]
+    },
+    {
+      "id": "TEN-CW",
+      "name": "Conference Wall Structure",
+      "category": "Tension System - Booth & Structure",
+      "description": "Modular wall structure for conference rooms and meeting spaces.",
+      "specification": "Material: Tube Frame + Fabric, Size: 300×225 cm, Weight: 8 kg",
+      "size": "300 cm × 225 cm",
+      "price": "RM 5250.00",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+      "features": [
+        "Conference wall",
+        "Modular design",
+        "8 kg weight",
+        "Meeting spaces"
+      ]
+    },
+    {
+      "id": "TEN-AC",
+      "name": "Tension Stand Design 3",
+      "category": "Tension System - Booth & Structure",
+      "description": "Advanced tension stand design for custom booth configurations.",
+      "specification": "Material: Tube Frame + Fabric, Size: 275×225×100 cm, Weight: 8 kg",
+      "size": "275 cm × 225 cm × 100 cm (D)",
+      "price": "RM 7500.00",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "features": [
+        "Custom design",
+        "Modular system",
+        "8 kg weight",
+        "Flexible config"
+      ]
+    },
+    {
+      "id": "TENSION-BOOTH-STAND",
+      "name": "Tension Booth Stand Combo S1/S2",
+      "category": "Tension System - Booth & Structure",
+      "description": "Complete booth stand combo with multiple display configurations.",
+      "specification": "Material: Tube Frame + Fabric, S1: 100×281 cm; S2: 200×235 cm, Print included",
+      "size": "S1: 100×281 cm / S2: 200×235 cm",
+      "price": "RM 11250.00",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
+      "features": [
+        "Complete combo",
+        "Two configurations",
+        "Print included",
+        "Full booth solution"
+      ]
+    },
+    {
+      "id": "FLAG-3M",
+      "name": "Flag Stand (Teardrop) 3M",
+      "category": "Fabric System",
+      "description": "Standard teardrop flag for outdoor events and promotions. Lightweight and portable design with dye-sublimation printing.",
+      "specification": "Material: Dye-sublimation Fabric, Frame: Fiberglass pole, Base: Ground spike or water base, Weight: 4 kg",
+      "size": "3M height",
+      "price": "RM 120 (Frame only) / RM 250 (inc. print)",
+      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&h=400&fit=crop",
+      "features": [
+        "Teardrop shape",
+        "3M height",
+        "4 kg weight",
+        "Portable"
+      ]
+    },
+    {
+      "id": "FLAG-4M",
+      "name": "Flag Stand (Teardrop) 4M",
+      "category": "Fabric System",
+      "description": "Medium-height teardrop flag for enhanced visibility at outdoor events. Perfect for roadside promotions.",
+      "specification": "Material: Dye-sublimation Fabric, Frame: Fiberglass pole, Base: Ground spike or water base, Weight: 4 kg",
+      "size": "4M height",
+      "price": "RM 140 (Frame only) / RM 300 (inc. print)",
+      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&h=400&fit=crop",
+      "features": [
+        "Teardrop shape",
+        "4M height",
+        "4 kg weight",
+        "High visibility"
+      ]
+    },
+    {
+      "id": "FLAG-5M",
+      "name": "Flag Stand (Teardrop) 5M",
+      "category": "Fabric System",
+      "description": "Tall teardrop flag for maximum visibility. Ideal for large outdoor events and festivals.",
+      "specification": "Material: Dye-sublimation Fabric, Frame: Fiberglass pole, Base: Ground spike or water base, Weight: 4 kg",
+      "size": "5M height",
+      "price": "RM 160 (Frame only) / RM 350 (inc. print)",
+      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&h=400&fit=crop",
+      "features": [
+        "Teardrop shape",
+        "5M height",
+        "4 kg weight",
+        "Maximum visibility"
+      ]
+    },
+    {
+      "id": "FLAG-KNIFE-3M",
+      "name": "Flag Stand (Knife) 3M",
+      "category": "Fabric System",
+      "description": "Knife-style blade flag with sharp, modern design. Available in 3M, 4M, and 5M heights with same pricing as teardrop.",
+      "specification": "Material: Dye-sublimation Fabric, Frame: Fiberglass pole, Base: Ground spike or water base, Weight: 4 kg",
+      "size": "3M height",
+      "price": "RM 120 (Frame only) / RM 250 (inc. print)",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+      "features": [
+        "Knife-style blade",
+        "3M height",
+        "4 kg weight",
+        "Modern design"
+      ]
+    },
+    {
+      "id": "FLAG-FEATHER-3M",
+      "name": "Flag Stand (Tail Feather) 3M",
+      "category": "Fabric System",
+      "description": "Feather-style flag with elegant curved design. Perfect for upscale events and branded displays.",
+      "specification": "Material: Dye-sublimation Fabric, Frame: Fiberglass pole, Base: Ground spike or water base, Weight: 4 kg",
+      "size": "3M height",
+      "price": "RM 120 (Frame only) / RM 250 (inc. print)",
+      "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=600&h=400&fit=crop",
+      "features": [
+        "Feather-style",
+        "3M height",
+        "4 kg weight",
+        "Elegant design"
+      ]
+    },
+    {
+      "id": "FLAG-AB",
+      "name": "Flying Flag Backpack",
+      "category": "Fabric System",
+      "description": "Wearable advertising flag backpack for mobile promotions. Perfect for street marketing and events.",
+      "specification": "Material: Dye-sublimation Fabric, Frame: Lightweight pole, Harness: Adjustable backpack, Weight: 1 kg",
+      "size": "67 cm × 115 cm",
+      "price": "RM 500.00",
+      "image": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=600&h=400&fit=crop",
+      "features": [
+        "Wearable design",
+        "Lightweight 1 kg",
+        "Mobile advertising",
+        "Adjustable harness"
+      ]
+    },
+    {
+      "id": "WBF",
+      "name": "Flying Flag Stand (Water-Based) 3M",
+      "category": "Fabric System",
+      "description": "Water-based flying flag stand for safe outdoor use. No ground penetration needed.",
+      "specification": "Material: Dye-sublimation Fabric, Frame: Fiberglass pole, Base: Water-fillable base, Weight: 1.2 kg (empty)",
+      "size": "3M height",
+      "price": "RM 112.50",
+      "image": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?w=600&h=400&fit=crop",
+      "features": [
+        "Water base",
+        "3M height",
+        "1.2 kg weight",
+        "Portable"
+      ]
+    },
+    {
+      "id": "WBF-5M",
+      "name": "Flying Flag Stand (Water-Based) 5M",
+      "category": "Fabric System",
+      "description": "Tall water-based flying flag stand for maximum visibility without ground stakes.",
+      "specification": "Material: Dye-sublimation Fabric, Frame: Fiberglass pole, Base: Water-fillable base, Weight: 5 kg (empty)",
+      "size": "5M height",
+      "price": "RM 625.00",
+      "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=600&h=400&fit=crop",
+      "features": [
+        "Water base",
+        "5M height",
+        "5 kg weight",
+        "High visibility"
+      ]
+    },
+    {
+      "id": "FLYING-FLAG-30",
+      "name": "Flying Flag Stand 30 in × 13 ft",
+      "category": "Fabric System",
+      "description": "Standard tall fabric display flag for outdoor promotions and events.",
+      "specification": "Material: Dye-sublimation Fabric, Frame: Fiberglass pole, Base: Ground spike, Weight: 4 kg",
+      "size": "30 in × 13 ft",
+      "price": "RM 250 (Frame only) / RM 350 (inc. print)",
+      "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600&h=400&fit=crop",
+      "features": [
+        "Tall display",
+        "30 in width",
+        "4 kg weight",
+        "Outdoor use"
+      ]
+    },
+    {
+      "id": "FLYING-FLAG-33",
+      "name": "Flying Flag Stand 33 in × 13 ft",
+      "category": "Fabric System",
+      "description": "Wider tall fabric display flag for enhanced visibility and branding.",
+      "specification": "Material: Dye-sublimation Fabric, Frame: Fiberglass pole, Base: Ground spike, Weight: 4 kg",
+      "size": "33 in × 13 ft",
+      "price": "RM 250 (Frame only) / RM 400 (inc. print)",
+      "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=600&h=400&fit=crop",
+      "features": [
+        "Tall display",
+        "33 in width",
+        "4 kg weight",
+        "Wide format"
+      ]
+    },
+    {
+      "id": "OFAB",
+      "name": "Outdoor Fabric A Board",
+      "category": "Fabric System",
+      "description": "Outdoor fabric A-board for promotions and wayfinding. Wind-resistant mesh fabric design.",
+      "specification": "Material: Mesh Fabric, Frame: Metal A-frame, Printing: Full-color, Weight: 10 kg",
+      "size": "160 cm × 90 cm",
+      "price": "RM 625.00",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop",
+      "features": [
+        "A-board design",
+        "Wind-resistant",
+        "10 kg weight",
+        "Outdoor use"
+      ]
+    },
+    {
+      "id": "F.A-STAND",
+      "name": "Mesh Fabric A Stand",
+      "category": "Fabric System",
+      "description": "Light, semi-transparent mesh fabric stand for outdoor displays. Allows wind to pass through.",
+      "specification": "Material: Mesh Fabric, Frame: Lightweight aluminum, Printing: Full-color, Weight: 0.5 kg",
+      "size": "2 m × 1 m",
+      "price": "RM 625.00",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&h=400&fit=crop",
+      "features": [
+        "Mesh fabric",
+        "Semi-transparent",
+        "Only 0.5 kg",
+        "Wind-resistant"
+      ]
+    },
+    {
+      "id": "APT",
+      "name": "Aluminium Promotion Table",
+      "category": "Promotional System",
+      "description": "Premium aluminum promotion counter with custom graphics. Professional display for product demonstrations and customer interactions.",
+      "specification": "Material: Aluminum frame + Fabric graphics, Printing: Dye-sublimation, Weight: 10.2 kg",
+      "size": "Top 60.5×25.5 cm • Center 50.5×86.5 cm • Side 23×86.5 cm",
+      "price": "RM 600.00",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "features": [
+        "Aluminum construction",
+        "Professional finish",
+        "10.2 kg weight",
+        "Custom graphics"
+      ]
+    },
+    {
+      "id": "APT-WO-WHEEL",
+      "name": "Aluminium Promotion Table (Without Wheels)",
+      "category": "Promotional System",
+      "description": "Premium aluminum promotion counter without wheels for stationary displays. Same specifications as standard APT.",
+      "specification": "Material: Aluminum frame + Fabric graphics, Printing: Dye-sublimation, Weight: 10.2 kg",
+      "size": "Top 60.5×25.5 cm • Center 50.5×86.5 cm • Side 23×86.5 cm",
+      "price": "RM 600.00",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+      "features": [
+        "Aluminum construction",
+        "Stationary design",
+        "10.2 kg weight",
+        "Professional display"
+      ]
+    },
+    {
+      "id": "IPT",
+      "name": "Iron Promotion Table",
+      "category": "Promotional System",
+      "description": "Budget-friendly metal promotion counter for cost-effective displays and product showcases.",
+      "specification": "Material: Iron frame + Fabric graphics, Printing: Dye-sublimation, Weight: 7.3 kg",
+      "size": "Top 80×20 cm • Center 70×70 cm • Side 30×70 cm",
+      "price": "RM 250.00",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "features": [
+        "Budget-friendly",
+        "Iron construction",
+        "7.3 kg weight",
+        "Durable design"
+      ]
+    },
+    {
+      "id": "PT",
+      "name": "Promotion Table (Square)",
+      "category": "Promotional System",
+      "description": "Square promotion table with flat-front design. Perfect for product displays and sampling.",
+      "specification": "Material: Metal frame + Fabric graphics, Printing: Dye-sublimation, Weight: 7 kg",
+      "size": "Top 81×30 cm • Bottom 182.5×81 cm",
+      "price": "RM 350.00",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
+      "features": [
+        "Square design",
+        "Flat-front",
+        "7 kg weight",
+        "Versatile use"
+      ]
+    },
+    {
+      "id": "LDS-TABLE-A",
+      "name": "Table Lucky Draw Stand (Large)",
+      "category": "Promotional System",
+      "description": "Large tabletop lucky draw drum with acrylic or metal finish. Perfect for promotions and contests.",
+      "specification": "Material: Acrylic/Metal, Size: 80×80 cm, Weight: 5 kg",
+      "size": "80 cm × 80 cm",
+      "price": "RM 120 (Frame only) / RM 130 (inc. print)",
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=400&fit=crop",
+      "features": [
+        "Large size",
+        "Acrylic/metal",
+        "5 kg weight",
+        "Table-top"
+      ]
+    },
+    {
+      "id": "LDS-TABLE-B",
+      "name": "Table Lucky Draw Stand (Small)",
+      "category": "Promotional System",
+      "description": "Compact tabletop lucky draw drum for smaller events and promotions.",
+      "specification": "Material: Acrylic/Metal, Size: 59.7×59.7 cm, Weight: 5 kg",
+      "size": "59.7 cm × 59.7 cm",
+      "price": "RM 60 (Frame only) / RM 70 (inc. print)",
+      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=600&h=400&fit=crop",
+      "features": [
+        "Compact size",
+        "Acrylic/metal",
+        "5 kg weight",
+        "Budget-friendly"
+      ]
+    },
+    {
+      "id": "LDS-60CM",
+      "name": "Lucky Draw Stand (Floor) 60cm",
+      "category": "Promotional System",
+      "description": "Freestanding floor lucky draw drum for events and promotions. 60cm size.",
+      "specification": "Material: Metal drum, Frame: Floor stand, Weight: 2 kg",
+      "size": "60 cm diameter",
+      "price": "RM 100",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
+      "features": [
+        "Floor standing",
+        "60cm drum",
+        "2 kg weight",
+        "Lottery drum"
+      ]
+    },
+    {
+      "id": "LDS-80CM",
+      "name": "Lucky Draw Stand (Floor) 80cm",
+      "category": "Promotional System",
+      "description": "Large freestanding floor lucky draw drum for bigger events. 80cm size.",
+      "specification": "Material: Metal drum, Frame: Floor stand, Weight: 2 kg",
+      "size": "80 cm diameter",
+      "price": "RM 170",
+      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop",
+      "features": [
+        "Floor standing",
+        "80cm drum",
+        "2 kg weight",
+        "Large capacity"
+      ]
+    },
+    {
+      "id": "CT3-STAND",
+      "name": "Tripod Stand",
+      "category": "Display Stand",
+      "description": "Basic adjustable tripod stand for banners and displays. Simple and reliable design.",
+      "specification": "Material: Metal tripod, Height: Max 6 ft adjustable, Weight: 1 kg",
+      "size": "Custom × Max 6 ft",
+      "price": "RM 37.50",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+      "features": [
+        "Adjustable height",
+        "Tripod design",
+        "1 kg weight",
+        "Budget-friendly"
+      ]
+    },
+    {
+      "id": "T-STAND-RB",
+      "name": "T-Stand (Round Base)",
+      "category": "Display Stand",
+      "description": "T-Stand with weighted round base for stability. Ideal for indoor displays.",
+      "specification": "Material: Metal stand, Base: Weighted round base, Height: Max 6 ft, Weight: 1.8 kg",
+      "size": "Custom × Max 6 ft",
+      "price": "RM 62.50",
+      "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=600&h=400&fit=crop",
+      "features": [
+        "Round base",
+        "Weighted design",
+        "1.8 kg weight",
+        "Stable display"
+      ]
+    },
+    {
+      "id": "T-STAND-WB",
+      "name": "T-Stand (Water Base)",
+      "category": "Display Stand",
+      "description": "T-Stand with water-fillable base for outdoor use. No ground penetration required.",
+      "specification": "Material: Metal stand, Base: Water-fillable, Height: Max 6 ft, Weight: 1.8 kg",
+      "size": "Custom × Max 6 ft",
+      "price": "RM 25",
+      "image": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=600&h=400&fit=crop",
+      "features": [
+        "Water base",
+        "Outdoor use",
+        "1.8 kg weight",
+        "Portable"
+      ]
+    },
+    {
+      "id": "X-STAND-32",
+      "name": "X-Stand (Gear)",
+      "category": "Display Stand",
+      "description": "Classic gear X-frame banner stand. Lightweight and portable for quick setup.",
+      "specification": "Material: Metal X-frame, Banner sizes: 2×5 ft / 2×6 ft, Weight: 0.5 kg",
+      "size": "2×5 ft / 2×6 ft",
+      "price": "RM 37.50",
+      "image": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?w=600&h=400&fit=crop",
+      "features": [
+        "X-frame design",
+        "Lightweight 0.5 kg",
+        "Quick setup",
+        "Portable"
+      ]
+    },
+    {
+      "id": "X-STAND-3C",
+      "name": "X-Stand (Korea)",
+      "category": "Display Stand",
+      "description": "Reinforced Korean-type X-stand with superior stability. Premium construction.",
+      "specification": "Material: Reinforced metal X-frame, Banner size: 2.5×6 ft, Weight: 1.1 kg",
+      "size": "2.5×6 ft",
+      "price": "RM 62.50",
+      "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=600&h=400&fit=crop",
+      "features": [
+        "Korean type",
+        "Reinforced frame",
+        "1.1 kg weight",
+        "Premium quality"
+      ]
+    },
+    {
+      "id": "X-STAND-MINI-A4",
+      "name": "Mini X-Stand (A4)",
+      "category": "Display Stand",
+      "description": "Table-size A4 banner stand for countertop displays and point-of-sale.",
+      "specification": "Material: Metal mini X-frame, Banner size: A4, Weight: 0.2 kg",
+      "size": "A4",
+      "price": "RM 12.50",
+      "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600&h=400&fit=crop",
+      "features": [
+        "A4 size",
+        "Table-top",
+        "Only 0.2 kg",
+        "Budget-friendly"
+      ]
+    },
+    {
+      "id": "X-STAND-MINI-A3",
+      "name": "Mini X-Stand (A3)",
+      "category": "Display Stand",
+      "description": "Table-size A3 banner stand for larger countertop displays.",
+      "specification": "Material: Metal mini X-frame, Banner size: A3, Weight: 0.2 kg",
+      "size": "A3",
+      "price": "RM 5 (Frame only) / RM 9 (inc. print)",
+      "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=600&h=400&fit=crop",
+      "features": [
+        "A3 size",
+        "Table-top",
+        "Only 0.2 kg",
+        "Versatile use"
+      ]
+    },
+    {
+      "id": "X-STAND-BPACK",
+      "name": "Backpack X-Stand",
+      "category": "Display Stand",
+      "description": "Portable wearable banner with backpack carrying system. Perfect for mobile advertising.",
+      "specification": "Material: Lightweight X-frame + Backpack, Banner size: 45×120 cm, Weight: 0.5 kg",
+      "size": "45 cm × 120 cm",
+      "price": "RM 100",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop",
+      "features": [
+        "Wearable design",
+        "Backpack system",
+        "0.5 kg weight",
+        "Mobile advertising"
+      ]
+    },
+    {
+      "id": "EWS",
+      "name": "Easel Wooden Stand (Small)",
+      "category": "Display Stand",
+      "description": "Natural wood easel stand for elegant displays. 1.5m height.",
+      "specification": "Material: Natural wood, Height: 1.5 m, Weight: 2 kg",
+      "size": "1.5 m height",
+      "price": "RM 40",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&h=400&fit=crop",
+      "features": [
+        "Natural wood",
+        "1.5m height",
+        "2 kg weight",
+        "Elegant design"
+      ]
+    },
+    {
+      "id": "EWS-1.7M",
+      "name": "Easel Wooden Stand (Large)",
+      "category": "Display Stand",
+      "description": "Large natural wood easel stand for bigger displays. 1.7m height.",
+      "specification": "Material: Natural wood, Height: 1.7 m, Weight: 3 kg",
+      "size": "1.7 m height",
+      "price": "RM 60",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "features": [
+        "Natural wood",
+        "1.7m height",
+        "3 kg weight",
+        "Large format"
+      ]
+    },
+    {
+      "id": "PS-B",
+      "name": "Poster Stand",
+      "category": "Display Stand",
+      "description": "Simple metal frame poster stand for A1 size displays. Basic and functional.",
+      "specification": "Material: Metal frame, Poster size: A1, Weight: 1 kg",
+      "size": "A1 Size",
+      "price": "RM 20",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+      "features": [
+        "A1 size",
+        "Metal frame",
+        "1 kg weight",
+        "Simple design"
+      ]
+    },
+    {
+      "id": "DS-POSTER-STAND",
+      "name": "Double Side Poster Stand",
+      "category": "Display Stand",
+      "description": "Dual-side poster stand for maximum visibility. Display on both sides.",
+      "specification": "Material: Metal frame, Poster size: Custom max 6 ft, Weight: 3 kg",
+      "size": "Custom × Max 6 ft",
+      "price": "RM 100.00",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "features": [
+        "Double-sided",
+        "Custom size",
+        "3 kg weight",
+        "High visibility"
+      ]
+    },
+    {
+      "id": "RPS",
+      "name": "Rotating Poster Stand",
+      "category": "Display Stand",
+      "description": "Rotating poster stand with spinning top for dynamic displays. A1 size.",
+      "specification": "Material: Metal frame, Poster size: A1, Weight: 3.4 kg, Feature: Rotating top",
+      "size": "A1 Size",
+      "price": "RM 40 / RM 60",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
+      "features": [
+        "Rotating top",
+        "A1 size",
+        "3.4 kg weight",
+        "Dynamic display"
+      ]
+    },
+    {
+      "id": "DS-S",
+      "name": "Door Stand (Small)",
+      "category": "Display Stand",
+      "description": "Swing-type door frame stand for entrances and walkways. 80×180 cm size.",
+      "specification": "Material: Metal frame, Size: 80×180 cm, Weight: 4 kg",
+      "size": "80 cm × 180 cm",
+      "price": "RM 35",
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=400&fit=crop",
+      "features": [
+        "Swing-type",
+        "Door frame",
+        "4 kg weight",
+        "Entrance display"
+      ]
+    },
+    {
+      "id": "ABS",
+      "name": "A-Board Stand",
+      "category": "Display Stand",
+      "description": "Metal sandwich board A-frame for sidewalk and entrance displays.",
+      "specification": "Material: Metal A-frame, Size: 60×80 cm, Weight: 2.4 kg",
+      "size": "60 cm × 80 cm",
+      "price": "RM 60 (w/o board) / RM 80 (with board)",
+      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=600&h=400&fit=crop",
+      "features": [
+        "A-board design",
+        "Sidewalk display",
+        "2.4 kg weight",
+        "Sandwich board"
+      ]
+    },
+    {
+      "id": "PS-A3",
+      "name": "A3 Poster Stand",
+      "category": "Display Stand",
+      "description": "Table poster stand for A3 size displays. Perfect for countertop promotions.",
+      "specification": "Material: Metal frame, Poster size: A3, Weight: 3.2 kg",
+      "size": "A3 Size",
+      "price": "RM 80",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
+      "features": [
+        "A3 size",
+        "Table-top",
+        "3.2 kg weight",
+        "Countertop display"
+      ]
+    },
+    {
+      "id": "ZZ-STAND",
+      "name": "Zig Zag Stand",
+      "category": "Display Stand",
+      "description": "Literature rack with zig-zag folding design for brochures and flyers. A4 size.",
+      "specification": "Material: Metal frame, Document size: A4, Weight: 5.2 kg",
+      "size": "A4 Size",
+      "price": "RM 500.00",
+      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop",
+      "features": [
+        "Zig-zag design",
+        "Literature rack",
+        "5.2 kg weight",
+        "A4 documents"
+      ]
+    },
+    {
+      "id": "IBT",
+      "name": "Iron Brochure Table",
+      "category": "Display Stand",
+      "description": "Small info stand table for brochures and promotional materials. A3 size.",
+      "specification": "Material: Iron frame, Document size: A3, Weight: 5 kg",
+      "size": "A3 Size",
+      "price": "RM 200",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+      "features": [
+        "A3 size",
+        "Info table",
+        "5 kg weight",
+        "Brochure display"
+      ]
+    },
+    {
+      "id": "BRO-STAND",
+      "name": "Brochure Stand",
+      "category": "Display Stand",
+      "description": "Floor display stand for A4 brochures and marketing materials. Multi-tier design.",
+      "specification": "Material: Metal frame, Document size: A4, Weight: 5.1 kg",
+      "size": "A4 Size",
+      "price": "RM 625.00",
+      "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=600&h=400&fit=crop",
+      "features": [
+        "Floor standing",
+        "A4 documents",
+        "5.1 kg weight",
+        "Multi-tier"
+      ]
+    },
+    {
+      "id": "A-STAND-HB",
+      "name": "A-Stand (H-B)",
+      "category": "Display Stand",
+      "description": "Foldable A-frame stand with banner support. Custom size up to 6.5 ft height.",
+      "specification": "Material: Metal A-frame, Height: Max 6.5 ft, Weight: 1.1 kg",
+      "size": "Custom × 6.5 ft",
+      "price": "Contact for pricing",
+      "image": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=600&h=400&fit=crop",
+      "features": [
+        "Foldable design",
+        "6.5 ft max height",
+        "1.1 kg weight",
+        "Custom size"
+      ]
+    },
+    {
+      "id": "BOOTH-3X3-01",
+      "name": "Exhibition Booth 3x3 - Essential",
+      "category": "Exhibition Booth 3x3",
+      "description": "Entry-level 3x3m exhibition booth with basic structure and fabric graphics. Perfect for first-time exhibitors.",
+      "specification": "Material: Aluminum frame + Fabric graphics, Size: 3m × 3m, Setup: Modular system",
+      "size": "3m × 3m",
+      "price": "RM 3,500",
+      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=600&h=400&fit=crop",
+      "features": [
+        "Basic structure",
+        "Fabric backdrop",
+        "Easy assembly",
+        "Compact design"
+      ]
+    },
+    {
+      "id": "BOOTH-3X3-02",
+      "name": "Exhibition Booth 3x3 - Standard",
+      "category": "Exhibition Booth 3x3",
+      "description": "Standard 3x3m booth with enhanced graphics and basic lighting. Ideal for small to medium exhibitions.",
+      "specification": "Material: Aluminum frame + SEG fabric, Size: 3m × 3m, Includes: Basic LED lighting",
+      "size": "3m × 3m",
+      "price": "RM 4,000",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
+      "features": [
+        "SEG fabric system",
+        "Basic LED lights",
+        "Enhanced graphics",
+        "Tool-free setup"
+      ]
+    },
+    {
+      "id": "BOOTH-3X3-03",
+      "name": "Exhibition Booth 3x3 - Plus",
+      "category": "Exhibition Booth 3x3",
+      "description": "Enhanced 3x3m booth featuring premium fabric graphics with counter table and storage.",
+      "specification": "Material: Aluminum frame + Premium fabric, Size: 3m × 3m, Includes: Counter table, storage",
+      "size": "3m × 3m",
+      "price": "RM 4,500",
+      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop",
+      "features": [
+        "Premium fabric",
+        "Counter included",
+        "Storage space",
+        "Professional finish"
+      ]
+    },
+    {
+      "id": "BOOTH-3X3-04",
+      "name": "Exhibition Booth 3x3 - Professional",
+      "category": "Exhibition Booth 3x3",
+      "description": "Professional 3x3m booth with double-sided graphics and improved lighting system.",
+      "specification": "Material: Aluminum frame + Double-sided fabric, Size: 3m × 3m, Includes: LED spotlights, counter",
+      "size": "3m × 3m",
+      "price": "RM 5,000",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "features": [
+        "Double-sided graphics",
+        "LED spotlights",
+        "Professional counter",
+        "Cable management"
+      ]
+    },
+    {
+      "id": "BOOTH-3X3-05",
+      "name": "Exhibition Booth 3x3 - Premium",
+      "category": "Exhibition Booth 3x3",
+      "description": "Premium 3x3m booth with curved backwall and advanced lighting. Includes reception counter and monitor mount.",
+      "specification": "Material: Aluminum frame + Curved SEG fabric, Size: 3m × 3m, Includes: Monitor mount, premium counter",
+      "size": "3m × 3m",
+      "price": "RM 5,500",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+      "features": [
+        "Curved backwall",
+        "Monitor mount",
+        "Premium counter",
+        "Advanced lighting"
+      ]
+    },
+    {
+      "id": "BOOTH-3X3-06",
+      "name": "Exhibition Booth 3x3 - Deluxe",
+      "category": "Exhibition Booth 3x3",
+      "description": "Deluxe 3x3m booth featuring modular walls and integrated display shelving system.",
+      "specification": "Material: Modular aluminum + Premium fabric, Size: 3m × 3m, Includes: Display shelves, storage cabinet",
+      "size": "3m × 3m",
+      "price": "RM 6,000",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "features": [
+        "Modular walls",
+        "Display shelving",
+        "Storage cabinet",
+        "Flexible layout"
+      ]
+    },
+    {
+      "id": "BOOTH-3X3-07",
+      "name": "Exhibition Booth 3x3 - Executive",
+      "category": "Exhibition Booth 3x3",
+      "description": "Executive 3x3m booth with semi-private meeting area and premium finish materials.",
+      "specification": "Material: Premium aluminum + Fabric walls, Size: 3m × 3m, Includes: Meeting table, chairs, lighting",
+      "size": "3m × 3m",
+      "price": "RM 6,500",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
+      "features": [
+        "Meeting area",
+        "Premium finish",
+        "Furniture included",
+        "Semi-private space"
+      ]
+    },
+    {
+      "id": "BOOTH-3X3-08",
+      "name": "Exhibition Booth 3x3 - Corporate",
+      "category": "Exhibition Booth 3x3",
+      "description": "Corporate-grade 3x3m booth with branded canopy and multimedia display capabilities.",
+      "specification": "Material: Premium frame + Branded fabric, Size: 3m × 3m, Includes: Canopy, TV mount, sound system",
+      "size": "3m × 3m",
+      "price": "RM 7,000",
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=400&fit=crop",
+      "features": [
+        "Branded canopy",
+        "Multimedia ready",
+        "Sound system",
+        "Corporate finish"
+      ]
+    },
+    {
+      "id": "BOOTH-3X3-09",
+      "name": "Exhibition Booth 3x3 - Elite",
+      "category": "Exhibition Booth 3x3",
+      "description": "Elite 3x3m booth with two-story structure and elevated platform for enhanced visibility.",
+      "specification": "Material: Reinforced aluminum + Multi-level fabric, Size: 3m × 3m, Includes: Elevated platform, stairs",
+      "size": "3m × 3m",
+      "price": "RM 7,500",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
+      "features": [
+        "Two-story design",
+        "Elevated platform",
+        "Increased visibility",
+        "Premium materials"
+      ]
+    },
+    {
+      "id": "BOOTH-3X3-10",
+      "name": "Exhibition Booth 3x3 - Signature",
+      "category": "Exhibition Booth 3x3",
+      "description": "Signature 3x3m booth with custom architectural elements and integrated product displays.",
+      "specification": "Material: Custom aluminum + Designer fabric, Size: 3m × 3m, Includes: Custom displays, premium lighting",
+      "size": "3m × 3m",
+      "price": "RM 8,000",
+      "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=600&h=400&fit=crop",
+      "features": [
+        "Custom architecture",
+        "Product displays",
+        "Designer elements",
+        "Premium lighting"
+      ]
+    },
+    {
+      "id": "BOOTH-3X3-11",
+      "name": "Exhibition Booth 3x3 - Prestige",
+      "category": "Exhibition Booth 3x3",
+      "description": "Prestige 3x3m booth featuring luxury finishes with private consultation room.",
+      "specification": "Material: Luxury aluminum frame + Premium fabric, Size: 3m × 3m, Includes: Private room, high-end furniture",
+      "size": "3m × 3m",
+      "price": "RM 8,500",
+      "image": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=600&h=400&fit=crop",
+      "features": [
+        "Private consultation room",
+        "Luxury finishes",
+        "High-end furniture",
+        "Executive styling"
+      ]
+    },
+    {
+      "id": "BOOTH-3X3-12",
+      "name": "Exhibition Booth 3x3 - Ultimate",
+      "category": "Exhibition Booth 3x3",
+      "description": "Ultimate 3x3m booth with interactive digital displays and advanced AV system.",
+      "specification": "Material: Premium frame + Interactive displays, Size: 3m × 3m, Includes: Touchscreens, AV system",
+      "size": "3m × 3m",
+      "price": "RM 9,000",
+      "image": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?w=600&h=400&fit=crop",
+      "features": [
+        "Interactive displays",
+        "Advanced AV",
+        "Touchscreen technology",
+        "Digital integration"
+      ]
+    },
+    {
+      "id": "BOOTH-3X3-13",
+      "name": "Exhibition Booth 3x3 - Platinum",
+      "category": "Exhibition Booth 3x3",
+      "description": "Platinum 3x3m booth with 360-degree branding and illuminated flooring system.",
+      "specification": "Material: Premium aluminum + 360° fabric, Size: 3m × 3m, Includes: LED flooring, ambient lighting",
+      "size": "3m × 3m",
+      "price": "RM 9,500",
+      "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=600&h=400&fit=crop",
+      "features": [
+        "360° branding",
+        "LED flooring",
+        "Ambient lighting",
+        "Complete coverage"
+      ]
+    },
+    {
+      "id": "BOOTH-3X3-14",
+      "name": "Exhibition Booth 3x3 - Diamond",
+      "category": "Exhibition Booth 3x3",
+      "description": "Diamond-tier 3x3m booth with premium finishes and integrated hospitality area.",
+      "specification": "Material: Diamond-grade frame + Luxury fabric, Size: 3m × 3m, Includes: Hospitality bar, premium seating",
+      "size": "3m × 3m",
+      "price": "RM 10,000",
+      "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600&h=400&fit=crop",
+      "features": [
+        "Hospitality area",
+        "Premium bar",
+        "Luxury seating",
+        "VIP experience"
+      ]
+    },
+    {
+      "id": "BOOTH-3X3-15",
+      "name": "Exhibition Booth 3x3 - Luxury",
+      "category": "Exhibition Booth 3x3",
+      "description": "Luxury 3x3m booth with custom lighting design and premium display cases.",
+      "specification": "Material: Luxury frame + Designer fabric, Size: 3m × 3m, Includes: Display cases, custom lighting design",
+      "size": "3m × 3m",
+      "price": "RM 10,500",
+      "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=600&h=400&fit=crop",
+      "features": [
+        "Custom lighting",
+        "Display cases",
+        "Luxury materials",
+        "Designer elements"
+      ]
+    },
+    {
+      "id": "BOOTH-3X3-16",
+      "name": "Exhibition Booth 3x3 - Imperial",
+      "category": "Exhibition Booth 3x3",
+      "description": "Imperial 3x3m booth featuring smart technology integration and automated features.",
+      "specification": "Material: Smart-tech frame + High-tech fabric, Size: 3m × 3m, Includes: Smart controls, automation",
+      "size": "3m × 3m",
+      "price": "RM 11,000",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop",
+      "features": [
+        "Smart technology",
+        "Automated controls",
+        "Tech integration",
+        "Modern innovation"
+      ]
+    },
+    {
+      "id": "BOOTH-3X3-17",
+      "name": "Exhibition Booth 3x3 - Supreme",
+      "category": "Exhibition Booth 3x3",
+      "description": "Supreme 3x3m booth with theatrical lighting and immersive brand experience design.",
+      "specification": "Material: Premium theatrical frame + Immersive fabric, Size: 3m × 3m, Includes: Theatrical lighting, effects",
+      "size": "3m × 3m",
+      "price": "RM 11,500",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&h=400&fit=crop",
+      "features": [
+        "Theatrical lighting",
+        "Immersive experience",
+        "Special effects",
+        "Brand storytelling"
+      ]
+    },
+    {
+      "id": "BOOTH-3X3-18",
+      "name": "Exhibition Booth 3x3 - Opulent",
+      "category": "Exhibition Booth 3x3",
+      "description": "Opulent 3x3m booth with premium materials, VIP lounge, and concierge service station.",
+      "specification": "Material: Opulent frame + Luxury fabric, Size: 3m × 3m, Includes: VIP lounge, concierge desk",
+      "size": "3m × 3m",
+      "price": "RM 12,000",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "features": [
+        "VIP lounge",
+        "Concierge station",
+        "Premium materials",
+        "Luxury experience"
+      ]
+    },
+    {
+      "id": "BOOTH-3X3-19",
+      "name": "Exhibition Booth 3x3 - Majestic",
+      "category": "Exhibition Booth 3x3",
+      "description": "Majestic 3x3m booth with full multimedia suite and professional broadcasting capabilities.",
+      "specification": "Material: Broadcast-grade frame + Professional fabric, Size: 3m × 3m, Includes: Broadcast setup, multimedia",
+      "size": "3m × 3m",
+      "price": "RM 12,500",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+      "features": [
+        "Broadcast capability",
+        "Full multimedia",
+        "Professional AV",
+        "Live streaming ready"
+      ]
+    },
+    {
+      "id": "BOOTH-3X3-20",
+      "name": "Exhibition Booth 3x3 - Sovereign",
+      "category": "Exhibition Booth 3x3",
+      "description": "Sovereign 3x3m booth - the ultimate exhibition solution with custom design, premium finishes, and complete white-glove service.",
+      "specification": "Material: Custom premium frame + Designer fabric, Size: 3m × 3m, Includes: Full custom design, white-glove service",
+      "size": "3m × 3m",
+      "price": "RM 13,000",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "features": [
+        "Fully custom design",
+        "White-glove service",
+        "Ultimate luxury",
+        "Premium everything"
+      ]
+    },
+    {
+      "id": "BOOTH-6X3-01",
+      "name": "Exhibition Booth 6x3 - Essential",
+      "category": "Exhibition Booth 6x3",
+      "description": "Entry-level 6x3m exhibition booth with basic structure and fabric graphics. Ideal for larger exhibition spaces.",
+      "specification": "Material: Aluminum frame + Fabric graphics, Size: 6m × 3m, Setup: Modular system",
+      "size": "6m × 3m",
+      "price": "RM 3,500",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
+      "features": [
+        "Large format",
+        "Basic structure",
+        "Fabric backdrop",
+        "Easy assembly"
+      ]
+    },
+    {
+      "id": "BOOTH-6X3-02",
+      "name": "Exhibition Booth 6x3 - Standard",
+      "category": "Exhibition Booth 6x3",
+      "description": "Standard 6x3m booth with enhanced graphics and basic lighting system for medium exhibitions.",
+      "specification": "Material: Aluminum frame + SEG fabric, Size: 6m × 3m, Includes: Basic LED lighting",
+      "size": "6m × 3m",
+      "price": "RM 4,000",
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=400&fit=crop",
+      "features": [
+        "Wide format",
+        "SEG fabric system",
+        "Basic LED lights",
+        "Enhanced graphics"
+      ]
+    },
+    {
+      "id": "BOOTH-6X3-03",
+      "name": "Exhibition Booth 6x3 - Plus",
+      "category": "Exhibition Booth 6x3",
+      "description": "Enhanced 6x3m booth with premium fabric graphics, counter table, and storage solutions.",
+      "specification": "Material: Aluminum frame + Premium fabric, Size: 6m × 3m, Includes: Counter table, storage units",
+      "size": "6m × 3m",
+      "price": "RM 4,500",
+      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=600&h=400&fit=crop",
+      "features": [
+        "Premium fabric",
+        "Counter included",
+        "Storage units",
+        "Professional finish"
+      ]
+    },
+    {
+      "id": "BOOTH-6X3-04",
+      "name": "Exhibition Booth 6x3 - Professional",
+      "category": "Exhibition Booth 6x3",
+      "description": "Professional 6x3m booth with double-sided graphics and improved lighting system.",
+      "specification": "Material: Aluminum frame + Double-sided fabric, Size: 6m × 3m, Includes: LED spotlights, reception counter",
+      "size": "6m × 3m",
+      "price": "RM 5,000",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
+      "features": [
+        "Double-sided graphics",
+        "LED spotlights",
+        "Reception counter",
+        "Wide visibility"
+      ]
+    },
+    {
+      "id": "BOOTH-6X3-05",
+      "name": "Exhibition Booth 6x3 - Premium",
+      "category": "Exhibition Booth 6x3",
+      "description": "Premium 6x3m booth with curved backwall and advanced lighting. Includes multiple monitor mounts.",
+      "specification": "Material: Aluminum frame + Curved SEG fabric, Size: 6m × 3m, Includes: Multiple monitor mounts, premium counter",
+      "size": "6m × 3m",
+      "price": "RM 5,500",
+      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop",
+      "features": [
+        "Curved backwall",
+        "Multiple monitors",
+        "Premium counter",
+        "Advanced lighting"
+      ]
+    },
+    {
+      "id": "BOOTH-6X3-06",
+      "name": "Exhibition Booth 6x3 - Deluxe",
+      "category": "Exhibition Booth 6x3",
+      "description": "Deluxe 6x3m booth featuring modular walls and integrated display shelving throughout.",
+      "specification": "Material: Modular aluminum + Premium fabric, Size: 6m × 3m, Includes: Display shelves, storage cabinets",
+      "size": "6m × 3m",
+      "price": "RM 6,000",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "features": [
+        "Modular walls",
+        "Display shelving",
+        "Storage cabinets",
+        "Flexible layout"
+      ]
+    },
+    {
+      "id": "BOOTH-6X3-07",
+      "name": "Exhibition Booth 6x3 - Executive",
+      "category": "Exhibition Booth 6x3",
+      "description": "Executive 6x3m booth with dedicated meeting area and premium finish materials.",
+      "specification": "Material: Premium aluminum + Fabric walls, Size: 6m × 3m, Includes: Meeting area, furniture, lighting",
+      "size": "6m × 3m",
+      "price": "RM 6,500",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+      "features": [
+        "Meeting area",
+        "Premium finish",
+        "Executive furniture",
+        "Private space"
+      ]
+    },
+    {
+      "id": "BOOTH-6X3-08",
+      "name": "Exhibition Booth 6x3 - Corporate",
+      "category": "Exhibition Booth 6x3",
+      "description": "Corporate-grade 6x3m booth with branded canopy and complete multimedia display setup.",
+      "specification": "Material: Premium frame + Branded fabric, Size: 6m × 3m, Includes: Canopy, multiple TV mounts, sound system",
+      "size": "6m × 3m",
+      "price": "RM 7,000",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "features": [
+        "Branded canopy",
+        "Multiple displays",
+        "Sound system",
+        "Corporate branding"
+      ]
+    },
+    {
+      "id": "BOOTH-6X3-09",
+      "name": "Exhibition Booth 6x3 - Elite",
+      "category": "Exhibition Booth 6x3",
+      "description": "Elite 6x3m booth with two-story structure and spacious elevated platform.",
+      "specification": "Material: Reinforced aluminum + Multi-level fabric, Size: 6m × 3m, Includes: Large elevated platform, stairs",
+      "size": "6m × 3m",
+      "price": "RM 7,500",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
+      "features": [
+        "Two-story design",
+        "Large platform",
+        "Maximum visibility",
+        "Premium structure"
+      ]
+    },
+    {
+      "id": "BOOTH-6X3-10",
+      "name": "Exhibition Booth 6x3 - Signature",
+      "category": "Exhibition Booth 6x3",
+      "description": "Signature 6x3m booth with custom architectural elements and integrated product displays.",
+      "specification": "Material: Custom aluminum + Designer fabric, Size: 6m × 3m, Includes: Custom displays, premium lighting",
+      "size": "6m × 3m",
+      "price": "RM 8,000",
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=400&fit=crop",
+      "features": [
+        "Custom architecture",
+        "Product displays",
+        "Designer elements",
+        "Signature lighting"
+      ]
+    },
+    {
+      "id": "BOOTH-6X3-11",
+      "name": "Exhibition Booth 6x3 - Prestige",
+      "category": "Exhibition Booth 6x3",
+      "description": "Prestige 6x3m booth featuring luxury finishes with private consultation rooms.",
+      "specification": "Material: Luxury aluminum frame + Premium fabric, Size: 6m × 3m, Includes: Private rooms, high-end furniture",
+      "size": "6m × 3m",
+      "price": "RM 8,500",
+      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=600&h=400&fit=crop",
+      "features": [
+        "Private rooms",
+        "Luxury finishes",
+        "High-end furniture",
+        "Executive styling"
+      ]
+    },
+    {
+      "id": "BOOTH-6X3-12",
+      "name": "Exhibition Booth 6x3 - Ultimate",
+      "category": "Exhibition Booth 6x3",
+      "description": "Ultimate 6x3m booth with interactive digital walls and advanced AV throughout.",
+      "specification": "Material: Premium frame + Interactive displays, Size: 6m × 3m, Includes: Interactive walls, AV system",
+      "size": "6m × 3m",
+      "price": "RM 9,000",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
+      "features": [
+        "Interactive walls",
+        "Advanced AV",
+        "Digital integration",
+        "Touchscreen tech"
+      ]
+    },
+    {
+      "id": "BOOTH-6X3-13",
+      "name": "Exhibition Booth 6x3 - Platinum",
+      "category": "Exhibition Booth 6x3",
+      "description": "Platinum 6x3m booth with complete 360-degree branding and illuminated flooring throughout.",
+      "specification": "Material: Premium aluminum + 360° fabric, Size: 6m × 3m, Includes: LED flooring, ambient lighting system",
+      "size": "6m × 3m",
+      "price": "RM 9,500",
+      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop",
+      "features": [
+        "360° branding",
+        "LED flooring",
+        "Ambient lighting",
+        "Complete coverage"
+      ]
+    },
+    {
+      "id": "BOOTH-6X3-14",
+      "name": "Exhibition Booth 6x3 - Diamond",
+      "category": "Exhibition Booth 6x3",
+      "description": "Diamond-tier 6x3m booth with premium finishes and fully integrated hospitality area.",
+      "specification": "Material: Diamond-grade frame + Luxury fabric, Size: 6m × 3m, Includes: Full hospitality bar, premium lounge",
+      "size": "6m × 3m",
+      "price": "RM 10,000",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "features": [
+        "Full hospitality area",
+        "Premium bar",
+        "Luxury lounge",
+        "VIP experience"
+      ]
+    },
+    {
+      "id": "BOOTH-6X3-15",
+      "name": "Exhibition Booth 6x3 - Luxury",
+      "category": "Exhibition Booth 6x3",
+      "description": "Luxury 6x3m booth with custom lighting design throughout and premium display cases.",
+      "specification": "Material: Luxury frame + Designer fabric, Size: 6m × 3m, Includes: Multiple display cases, custom lighting",
+      "size": "6m × 3m",
+      "price": "RM 10,500",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+      "features": [
+        "Custom lighting",
+        "Multiple display cases",
+        "Luxury materials",
+        "Designer finish"
+      ]
+    },
+    {
+      "id": "BOOTH-6X3-16",
+      "name": "Exhibition Booth 6x3 - Imperial",
+      "category": "Exhibition Booth 6x3",
+      "description": "Imperial 6x3m booth featuring smart technology integration throughout with automated features.",
+      "specification": "Material: Smart-tech frame + High-tech fabric, Size: 6m × 3m, Includes: Smart controls, full automation",
+      "size": "6m × 3m",
+      "price": "RM 11,000",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "features": [
+        "Smart technology",
+        "Full automation",
+        "Tech integration",
+        "Modern innovation"
+      ]
+    },
+    {
+      "id": "BOOTH-6X3-17",
+      "name": "Exhibition Booth 6x3 - Supreme",
+      "category": "Exhibition Booth 6x3",
+      "description": "Supreme 6x3m booth with theatrical lighting and complete immersive brand experience.",
+      "specification": "Material: Premium theatrical frame + Immersive fabric, Size: 6m × 3m, Includes: Theatrical lighting, special effects",
+      "size": "6m × 3m",
+      "price": "RM 11,500",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
+      "features": [
+        "Theatrical lighting",
+        "Immersive experience",
+        "Special effects",
+        "Brand storytelling"
+      ]
+    },
+    {
+      "id": "BOOTH-6X3-18",
+      "name": "Exhibition Booth 6x3 - Opulent",
+      "category": "Exhibition Booth 6x3",
+      "description": "Opulent 6x3m booth with premium materials throughout, VIP lounge, and full concierge service.",
+      "specification": "Material: Opulent frame + Luxury fabric, Size: 6m × 3m, Includes: VIP lounge, full concierge setup",
+      "size": "6m × 3m",
+      "price": "RM 12,000",
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=400&fit=crop",
+      "features": [
+        "VIP lounge",
+        "Full concierge",
+        "Premium materials",
+        "Luxury experience"
+      ]
+    },
+    {
+      "id": "BOOTH-6X3-19",
+      "name": "Exhibition Booth 6x3 - Majestic",
+      "category": "Exhibition Booth 6x3",
+      "description": "Majestic 6x3m booth with complete multimedia suite and professional broadcasting capabilities.",
+      "specification": "Material: Broadcast-grade frame + Professional fabric, Size: 6m × 3m, Includes: Full broadcast setup, multimedia suite",
+      "size": "6m × 3m",
+      "price": "RM 12,500",
+      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=600&h=400&fit=crop",
+      "features": [
+        "Broadcast capability",
+        "Full multimedia suite",
+        "Professional AV",
+        "Live streaming ready"
+      ]
+    },
+    {
+      "id": "BOOTH-6X3-20",
+      "name": "Exhibition Booth 6x3 - Sovereign",
+      "category": "Exhibition Booth 6x3",
+      "description": "Sovereign 6x3m booth - the ultimate large-format exhibition solution with fully custom design and complete white-glove service.",
+      "specification": "Material: Custom premium frame + Designer fabric, Size: 6m × 3m, Includes: Fully custom design, complete white-glove service",
+      "size": "6m × 3m",
+      "price": "RM 13,000",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
+      "features": [
+        "Fully custom design",
+        "White-glove service",
+        "Ultimate luxury",
+        "Premium everything"
+      ]
+    },
+    {
+      "id": "BOOTH-6X6-01",
+      "name": "Exhibition Booth 6x6 - Essential",
+      "category": "Exhibition Booth 6x6",
+      "description": "Entry-level 6x6m exhibition booth with spacious layout and basic structure. Perfect for large exhibition presence.",
+      "specification": "Material: Aluminum frame + Fabric graphics, Size: 6m × 6m, Setup: Modular system",
+      "size": "6m × 6m",
+      "price": "RM 3,500",
+      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop",
+      "features": [
+        "Large square format",
+        "Spacious layout",
+        "Basic structure",
+        "Easy assembly"
+      ]
+    },
+    {
+      "id": "BOOTH-6X6-02",
+      "name": "Exhibition Booth 6x6 - Standard",
+      "category": "Exhibition Booth 6x6",
+      "description": "Standard 6x6m booth with enhanced graphics and comprehensive lighting system for major exhibitions.",
+      "specification": "Material: Aluminum frame + SEG fabric, Size: 6m × 6m, Includes: LED lighting system",
+      "size": "6m × 6m",
+      "price": "RM 4,000",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "features": [
+        "Large square booth",
+        "SEG fabric system",
+        "LED lighting",
+        "Enhanced graphics"
+      ]
+    },
+    {
+      "id": "BOOTH-6X6-03",
+      "name": "Exhibition Booth 6x6 - Plus",
+      "category": "Exhibition Booth 6x6",
+      "description": "Enhanced 6x6m booth with premium fabric graphics, multiple counter areas, and extensive storage.",
+      "specification": "Material: Aluminum frame + Premium fabric, Size: 6m × 6m, Includes: Multiple counters, storage units",
+      "size": "6m × 6m",
+      "price": "RM 4,500",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+      "features": [
+        "Premium fabric",
+        "Multiple counters",
+        "Extensive storage",
+        "Professional finish"
+      ]
+    },
+    {
+      "id": "BOOTH-6X6-04",
+      "name": "Exhibition Booth 6x6 - Professional",
+      "category": "Exhibition Booth 6x6",
+      "description": "Professional 6x6m booth with 360-degree graphics and advanced lighting throughout.",
+      "specification": "Material: Aluminum frame + Multi-sided fabric, Size: 6m × 6m, Includes: LED spotlights, reception area",
+      "size": "6m × 6m",
+      "price": "RM 5,000",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "features": [
+        "360° graphics",
+        "LED spotlights",
+        "Reception area",
+        "All-around visibility"
+      ]
+    },
+    {
+      "id": "BOOTH-6X6-05",
+      "name": "Exhibition Booth 6x6 - Premium",
+      "category": "Exhibition Booth 6x6",
+      "description": "Premium 6x6m booth with curved elements and advanced lighting. Multiple display zones with monitor arrays.",
+      "specification": "Material: Aluminum frame + Curved SEG fabric, Size: 6m × 6m, Includes: Monitor arrays, premium counters",
+      "size": "6m × 6m",
+      "price": "RM 5,500",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
+      "features": [
+        "Curved elements",
+        "Monitor arrays",
+        "Multiple zones",
+        "Advanced lighting"
+      ]
+    },
+    {
+      "id": "BOOTH-6X6-06",
+      "name": "Exhibition Booth 6x6 - Deluxe",
+      "category": "Exhibition Booth 6x6",
+      "description": "Deluxe 6x6m booth featuring modular walls and integrated display systems throughout entire space.",
+      "specification": "Material: Modular aluminum + Premium fabric, Size: 6m × 6m, Includes: Display systems, storage rooms",
+      "size": "6m × 6m",
+      "price": "RM 6,000",
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=400&fit=crop",
+      "features": [
+        "Modular walls",
+        "Display systems",
+        "Storage rooms",
+        "Flexible design"
+      ]
+    },
+    {
+      "id": "BOOTH-6X6-07",
+      "name": "Exhibition Booth 6x6 - Executive",
+      "category": "Exhibition Booth 6x6",
+      "description": "Executive 6x6m booth with private meeting rooms and premium finish materials throughout.",
+      "specification": "Material: Premium aluminum + Fabric walls, Size: 6m × 6m, Includes: Private meeting rooms, executive furniture",
+      "size": "6m × 6m",
+      "price": "RM 6,500",
+      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=600&h=400&fit=crop",
+      "features": [
+        "Private meeting rooms",
+        "Premium finish",
+        "Executive furniture",
+        "Multiple zones"
+      ]
+    },
+    {
+      "id": "BOOTH-6X6-08",
+      "name": "Exhibition Booth 6x6 - Corporate",
+      "category": "Exhibition Booth 6x6",
+      "description": "Corporate-grade 6x6m booth with branded canopy and complete multimedia display infrastructure.",
+      "specification": "Material: Premium frame + Branded fabric, Size: 6m × 6m, Includes: Overhead canopy, multiple screens, sound",
+      "size": "6m × 6m",
+      "price": "RM 7,000",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
+      "features": [
+        "Overhead canopy",
+        "Multiple screens",
+        "Sound system",
+        "Corporate branding"
+      ]
+    },
+    {
+      "id": "BOOTH-6X6-09",
+      "name": "Exhibition Booth 6x6 - Elite",
+      "category": "Exhibition Booth 6x6",
+      "description": "Elite 6x6m booth with two-story structure and expansive elevated platform with stairs.",
+      "specification": "Material: Reinforced aluminum + Multi-level fabric, Size: 6m × 6m, Includes: Large elevated platform, stairs",
+      "size": "6m × 6m",
+      "price": "RM 7,500",
+      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop",
+      "features": [
+        "Two-story design",
+        "Expansive platform",
+        "Commanding presence",
+        "Premium structure"
+      ]
+    },
+    {
+      "id": "BOOTH-6X6-10",
+      "name": "Exhibition Booth 6x6 - Signature",
+      "category": "Exhibition Booth 6x6",
+      "description": "Signature 6x6m booth with custom architectural elements and dedicated product display areas.",
+      "specification": "Material: Custom aluminum + Designer fabric, Size: 6m × 6m, Includes: Custom displays, signature lighting",
+      "size": "6m × 6m",
+      "price": "RM 8,000",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "features": [
+        "Custom architecture",
+        "Product display areas",
+        "Designer elements",
+        "Signature lighting"
+      ]
+    },
+    {
+      "id": "BOOTH-6X6-11",
+      "name": "Exhibition Booth 6x6 - Prestige",
+      "category": "Exhibition Booth 6x6",
+      "description": "Prestige 6x6m booth featuring luxury finishes with multiple private consultation rooms.",
+      "specification": "Material: Luxury aluminum frame + Premium fabric, Size: 6m × 6m, Includes: Multiple private rooms, luxury furniture",
+      "size": "6m × 6m",
+      "price": "RM 8,500",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+      "features": [
+        "Multiple private rooms",
+        "Luxury finishes",
+        "High-end furniture",
+        "Executive styling"
+      ]
+    },
+    {
+      "id": "BOOTH-6X6-12",
+      "name": "Exhibition Booth 6x6 - Ultimate",
+      "category": "Exhibition Booth 6x6",
+      "description": "Ultimate 6x6m booth with interactive digital experiences and advanced AV infrastructure throughout.",
+      "specification": "Material: Premium frame + Interactive displays, Size: 6m × 6m, Includes: Interactive experiences, AV infrastructure",
+      "size": "6m × 6m",
+      "price": "RM 9,000",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "features": [
+        "Interactive experiences",
+        "Advanced AV",
+        "Digital integration",
+        "Immersive technology"
+      ]
+    },
+    {
+      "id": "BOOTH-6X6-13",
+      "name": "Exhibition Booth 6x6 - Platinum",
+      "category": "Exhibition Booth 6x6",
+      "description": "Platinum 6x6m booth with complete 360-degree branding and illuminated flooring throughout entire space.",
+      "specification": "Material: Premium aluminum + 360° fabric, Size: 6m × 6m, Includes: Full LED flooring, ambient lighting",
+      "size": "6m × 6m",
+      "price": "RM 9,500",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
+      "features": [
+        "360° branding",
+        "Full LED flooring",
+        "Ambient lighting",
+        "Complete coverage"
+      ]
+    },
+    {
+      "id": "BOOTH-6X6-14",
+      "name": "Exhibition Booth 6x6 - Diamond",
+      "category": "Exhibition Booth 6x6",
+      "description": "Diamond-tier 6x6m booth with premium finishes and complete hospitality center with lounge.",
+      "specification": "Material: Diamond-grade frame + Luxury fabric, Size: 6m × 6m, Includes: Hospitality center, premium lounge",
+      "size": "6m × 6m",
+      "price": "RM 10,000",
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=400&fit=crop",
+      "features": [
+        "Hospitality center",
+        "Premium lounge",
+        "Luxury seating",
+        "VIP experience"
+      ]
+    },
+    {
+      "id": "BOOTH-6X6-15",
+      "name": "Exhibition Booth 6x6 - Luxury",
+      "category": "Exhibition Booth 6x6",
+      "description": "Luxury 6x6m booth with custom lighting design throughout and premium display case galleries.",
+      "specification": "Material: Luxury frame + Designer fabric, Size: 6m × 6m, Includes: Display case galleries, custom lighting",
+      "size": "6m × 6m",
+      "price": "RM 10,500",
+      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=600&h=400&fit=crop",
+      "features": [
+        "Custom lighting",
+        "Display galleries",
+        "Luxury materials",
+        "Designer finish"
+      ]
+    },
+    {
+      "id": "BOOTH-6X6-16",
+      "name": "Exhibition Booth 6x6 - Imperial",
+      "category": "Exhibition Booth 6x6",
+      "description": "Imperial 6x6m booth featuring complete smart technology integration with full automation throughout.",
+      "specification": "Material: Smart-tech frame + High-tech fabric, Size: 6m × 6m, Includes: Smart controls, complete automation",
+      "size": "6m × 6m",
+      "price": "RM 11,000",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
+      "features": [
+        "Smart technology",
+        "Complete automation",
+        "Tech integration",
+        "AI-enabled features"
+      ]
+    },
+    {
+      "id": "BOOTH-6X6-17",
+      "name": "Exhibition Booth 6x6 - Supreme",
+      "category": "Exhibition Booth 6x6",
+      "description": "Supreme 6x6m booth with theatrical lighting and fully immersive brand experience environment.",
+      "specification": "Material: Premium theatrical frame + Immersive fabric, Size: 6m × 6m, Includes: Theatrical lighting, special effects",
+      "size": "6m × 6m",
+      "price": "RM 11,500",
+      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop",
+      "features": [
+        "Theatrical lighting",
+        "Immersive environment",
+        "Special effects",
+        "Brand storytelling"
+      ]
+    },
+    {
+      "id": "BOOTH-6X6-18",
+      "name": "Exhibition Booth 6x6 - Opulent",
+      "category": "Exhibition Booth 6x6",
+      "description": "Opulent 6x6m booth with premium materials throughout, complete VIP lounge, and full concierge service.",
+      "specification": "Material: Opulent frame + Luxury fabric, Size: 6m × 6m, Includes: Complete VIP lounge, full concierge",
+      "size": "6m × 6m",
+      "price": "RM 12,000",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "features": [
+        "Complete VIP lounge",
+        "Full concierge",
+        "Premium materials",
+        "Luxury experience"
+      ]
+    },
+    {
+      "id": "BOOTH-6X6-19",
+      "name": "Exhibition Booth 6x6 - Majestic",
+      "category": "Exhibition Booth 6x6",
+      "description": "Majestic 6x6m booth with complete multimedia production suite and professional broadcasting studio.",
+      "specification": "Material: Broadcast-grade frame + Professional fabric, Size: 6m × 6m, Includes: Production suite, broadcast studio",
+      "size": "6m × 6m",
+      "price": "RM 12,500",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+      "features": [
+        "Production suite",
+        "Broadcast studio",
+        "Professional AV",
+        "Live streaming ready"
+      ]
+    },
+    {
+      "id": "BOOTH-6X6-20",
+      "name": "Exhibition Booth 6x6 - Sovereign",
+      "category": "Exhibition Booth 6x6",
+      "description": "Sovereign 6x6m booth - the ultimate premium exhibition solution with fully custom design, premium finishes throughout, and complete white-glove service.",
+      "specification": "Material: Custom premium frame + Designer fabric, Size: 6m × 6m, Includes: Fully custom design, white-glove service",
+      "size": "6m × 6m",
+      "price": "RM 13,000",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "features": [
+        "Fully custom design",
+        "White-glove service",
+        "Ultimate luxury",
+        "Premium everything"
+      ]
+    },
+    {
+      "id": "SEG-LB-01",
+      "name": "SEG Light Box - Compact",
+      "category": "SEG Light Box",
+      "description": "Entry-level SEG fabric light box with edge-lit LED technology. Perfect for retail displays and small promotions.",
+      "specification": "Material: SEG fabric + Aluminum frame, Lighting: Edge-lit LED, Thickness: 30mm, Power: 12V LED",
+      "size": "Custom size",
+      "price": "RM 3,500",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "features": [
+        "Edge-lit LED",
+        "30mm slim profile",
+        "SEG fabric",
+        "Energy efficient"
+      ]
+    },
+    {
+      "id": "SEG-LB-02",
+      "name": "SEG Light Box - Standard",
+      "category": "SEG Light Box",
+      "description": "Standard SEG light box with uniform LED illumination. Ideal for indoor advertising and branding.",
+      "specification": "Material: SEG fabric + Aluminum frame, Lighting: LED strips, Thickness: 40mm, Power: Energy-saving LED",
+      "size": "Custom size",
+      "price": "RM 4,000",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+      "features": [
+        "Uniform LED lighting",
+        "40mm profile",
+        "Tool-free fabric change",
+        "Bright display"
+      ]
+    },
+    {
+      "id": "SEG-LB-03",
+      "name": "SEG Light Box - Plus",
+      "category": "SEG Light Box",
+      "description": "Enhanced SEG light box with high-brightness LED and magnetic frame system for easy maintenance.",
+      "specification": "Material: SEG fabric + Magnetic frame, Lighting: High-brightness LED, Thickness: 45mm, Color: 6500K daylight",
+      "size": "Custom size",
+      "price": "RM 4,500",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "features": [
+        "High-brightness LED",
+        "Magnetic frame",
+        "Easy maintenance",
+        "Daylight color"
+      ]
+    },
+    {
+      "id": "SEG-LB-04",
+      "name": "SEG Light Box - Professional",
+      "category": "SEG Light Box",
+      "description": "Professional-grade SEG light box with double-sided illumination capability and premium frame finish.",
+      "specification": "Material: Premium SEG fabric + Aluminum, Lighting: Double-sided LED, Thickness: 60mm, Power: Low-voltage LED",
+      "size": "Custom size",
+      "price": "RM 5,000",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
+      "features": [
+        "Double-sided display",
+        "Premium finish",
+        "60mm depth",
+        "Professional grade"
+      ]
+    },
+    {
+      "id": "SEG-LB-05",
+      "name": "SEG Light Box - Premium",
+      "category": "SEG Light Box",
+      "description": "Premium SEG light box with adjustable brightness and color temperature control for optimal display.",
+      "specification": "Material: Premium SEG + Aluminum, Lighting: Adjustable LED, Controls: Brightness & color temp, Thickness: 50mm",
+      "size": "Custom size",
+      "price": "RM 5,500",
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=400&fit=crop",
+      "features": [
+        "Adjustable brightness",
+        "Color temperature control",
+        "Premium materials",
+        "Smart controls"
+      ]
+    },
+    {
+      "id": "SEG-LB-06",
+      "name": "SEG Light Box - Deluxe",
+      "category": "SEG Light Box",
+      "description": "Deluxe SEG light box featuring ultra-thin design with high-output LED technology and seamless corners.",
+      "specification": "Material: Premium SEG + Ultra-thin frame, Lighting: High-output LED, Thickness: 25mm, Corners: Seamless",
+      "size": "Custom size",
+      "price": "RM 6,000",
+      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=600&h=400&fit=crop",
+      "features": [
+        "Ultra-thin 25mm",
+        "High-output LED",
+        "Seamless corners",
+        "Modern design"
+      ]
+    },
+    {
+      "id": "SEG-LB-07",
+      "name": "SEG Light Box - Executive",
+      "category": "SEG Light Box",
+      "description": "Executive SEG light box with frameless design and integrated dimming system for ambiance control.",
+      "specification": "Material: Frameless SEG + Aluminum back, Lighting: Dimmable LED, Controls: Remote dimming, Thickness: 35mm",
+      "size": "Custom size",
+      "price": "RM 6,500",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
+      "features": [
+        "Frameless design",
+        "Remote dimming",
+        "Ambiance control",
+        "Executive finish"
+      ]
+    },
+    {
+      "id": "SEG-LB-08",
+      "name": "SEG Light Box - Corporate",
+      "category": "SEG Light Box",
+      "description": "Corporate-grade SEG light box with modular design and RGB LED capability for dynamic displays.",
+      "specification": "Material: Modular SEG + Premium frame, Lighting: RGB LED strips, Controls: Color changing, Power: Smart LED",
+      "size": "Custom size",
+      "price": "RM 7,000",
+      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop",
+      "features": [
+        "RGB LED capability",
+        "Color changing",
+        "Modular design",
+        "Dynamic display"
+      ]
+    },
+    {
+      "id": "SEG-LB-09",
+      "name": "SEG Light Box - Elite",
+      "category": "SEG Light Box",
+      "description": "Elite SEG light box with edge-to-edge illumination and weatherproof construction for outdoor use.",
+      "specification": "Material: Weatherproof SEG + Sealed frame, Lighting: Edge-to-edge LED, Rating: IP65, Thickness: 75mm",
+      "size": "Custom size",
+      "price": "RM 7,500",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "features": [
+        "Weatherproof IP65",
+        "Edge-to-edge light",
+        "Outdoor rated",
+        "Sealed construction"
+      ]
+    },
+    {
+      "id": "SEG-LB-10",
+      "name": "SEG Light Box - Signature",
+      "category": "SEG Light Box",
+      "description": "Signature SEG light box with 3D depth effect and layered fabric system for dimensional displays.",
+      "specification": "Material: Layered SEG + 3D frame, Lighting: Depth LED, Effect: 3D dimensional, Thickness: 100mm",
+      "size": "Custom size",
+      "price": "RM 8,000",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+      "features": [
+        "3D depth effect",
+        "Layered fabric",
+        "Dimensional display",
+        "Signature design"
+      ]
+    },
+    {
+      "id": "SEG-LB-11",
+      "name": "SEG Light Box - Prestige",
+      "category": "SEG Light Box",
+      "description": "Prestige SEG light box with crystal-clear acrylic and premium LED for museum-quality illumination.",
+      "specification": "Material: Premium SEG + Crystal acrylic, Lighting: Museum-grade LED, Color: 98 CRI, Thickness: 55mm",
+      "size": "Custom size",
+      "price": "RM 8,500",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "features": [
+        "Museum-quality light",
+        "Crystal acrylic",
+        "98 CRI rating",
+        "Premium display"
+      ]
+    },
+    {
+      "id": "SEG-LB-12",
+      "name": "SEG Light Box - Ultimate",
+      "category": "SEG Light Box",
+      "description": "Ultimate SEG light box with smart connectivity and app-controlled lighting for interactive displays.",
+      "specification": "Material: Smart SEG + IoT frame, Lighting: App-controlled LED, Features: WiFi/Bluetooth, Thickness: 50mm",
+      "size": "Custom size",
+      "price": "RM 9,000",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
+      "features": [
+        "App-controlled",
+        "WiFi/Bluetooth",
+        "Smart connectivity",
+        "Interactive display"
+      ]
+    },
+    {
+      "id": "SEG-LB-13",
+      "name": "SEG Light Box - Platinum",
+      "category": "SEG Light Box",
+      "description": "Platinum SEG light box with animated LED sequencing and programmable light patterns.",
+      "specification": "Material: Premium SEG + Smart frame, Lighting: Animated LED, Controls: Programmable, Features: Motion effects",
+      "size": "Custom size",
+      "price": "RM 9,500",
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=400&fit=crop",
+      "features": [
+        "Animated lighting",
+        "Programmable patterns",
+        "Motion effects",
+        "Dynamic display"
+      ]
+    },
+    {
+      "id": "SEG-LB-14",
+      "name": "SEG Light Box - Diamond",
+      "category": "SEG Light Box",
+      "description": "Diamond-tier SEG light box with integrated sensors and auto-brightness adjustment for optimal viewing.",
+      "specification": "Material: Sensor SEG + Intelligent frame, Lighting: Auto-adjust LED, Sensors: Ambient light, Power: Smart control",
+      "size": "Custom size",
+      "price": "RM 10,000",
+      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=600&h=400&fit=crop",
+      "features": [
+        "Ambient sensors",
+        "Auto-brightness",
+        "Intelligent control",
+        "Optimal viewing"
+      ]
+    },
+    {
+      "id": "SEG-LB-15",
+      "name": "SEG Light Box - Luxury",
+      "category": "SEG Light Box",
+      "description": "Luxury SEG light box with architectural-grade materials and custom color-matched LED lighting.",
+      "specification": "Material: Architectural SEG + Custom frame, Lighting: Color-matched LED, Finish: Custom powder coat, Premium build",
+      "size": "Custom size",
+      "price": "RM 10,500",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
+      "features": [
+        "Architectural grade",
+        "Color-matched LED",
+        "Custom finish",
+        "Luxury materials"
+      ]
+    },
+    {
+      "id": "SEG-LB-16",
+      "name": "SEG Light Box - Imperial",
+      "category": "SEG Light Box",
+      "description": "Imperial SEG light box with integrated digital display capability and hybrid LED/OLED technology.",
+      "specification": "Material: Hybrid SEG + Digital frame, Lighting: LED/OLED hybrid, Features: Digital integration, Smart display",
+      "size": "Custom size",
+      "price": "RM 11,000",
+      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop",
+      "features": [
+        "Hybrid LED/OLED",
+        "Digital integration",
+        "Smart display",
+        "Advanced technology"
+      ]
+    },
+    {
+      "id": "SEG-LB-17",
+      "name": "SEG Light Box - Supreme",
+      "category": "SEG Light Box",
+      "description": "Supreme SEG light box with theatrical-grade lighting and professional color rendering for shows.",
+      "specification": "Material: Professional SEG + Theater frame, Lighting: Theatrical LED, Color: 99+ CRI, Controls: DMX compatible",
+      "size": "Custom size",
+      "price": "RM 11,500",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "features": [
+        "Theatrical grade",
+        "DMX compatible",
+        "99+ CRI rating",
+        "Professional shows"
+      ]
+    },
+    {
+      "id": "SEG-LB-18",
+      "name": "SEG Light Box - Opulent",
+      "category": "SEG Light Box",
+      "description": "Opulent SEG light box with holographic capability and multi-layer depth display technology.",
+      "specification": "Material: Holographic SEG + Multi-layer frame, Lighting: Holographic LED, Effect: Multi-depth, Layers: 3D depth",
+      "size": "Custom size",
+      "price": "RM 12,000",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+      "features": [
+        "Holographic display",
+        "Multi-layer depth",
+        "3D effect",
+        "Cutting-edge tech"
+      ]
+    },
+    {
+      "id": "SEG-LB-19",
+      "name": "SEG Light Box - Majestic",
+      "category": "SEG Light Box",
+      "description": "Majestic SEG light box with AI-powered content optimization and adaptive display technology.",
+      "specification": "Material: AI-optimized SEG + Smart frame, Lighting: Adaptive LED, Features: AI content optimization, Real-time adjust",
+      "size": "Custom size",
+      "price": "RM 12,500",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "features": [
+        "AI-powered",
+        "Content optimization",
+        "Adaptive display",
+        "Real-time adjustment"
+      ]
+    },
+    {
+      "id": "SEG-LB-20",
+      "name": "SEG Light Box - Sovereign",
+      "category": "SEG Light Box",
+      "description": "Sovereign SEG light box - the ultimate illuminated display solution with fully custom design, laser-cut precision, and complete integration services.",
+      "specification": "Material: Custom SEG + Precision frame, Lighting: Fully customized LED, Features: Laser precision, Full integration",
+      "size": "Fully custom",
+      "price": "RM 13,000",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
+      "features": [
+        "Fully custom design",
+        "Laser precision",
+        "Complete integration",
+        "Ultimate quality"
+      ]
+    },
+    {
+      "id": "ADS-BANNER",
+      "name": "Banner Printing",
+      "category": "Ads Print",
+      "description": "High-quality banner printing for indoor and outdoor advertising. Durable, weather-resistant materials with vibrant colors.",
+      "specification": "Material: PVC/Vinyl Banner, Printing: Large format digital printing, Finish: Matte/Glossy options, Reinforced edges with eyelets",
+      "size": "Custom size available",
+      "price": "From RM 8/sqft",
+      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&h=400&fit=crop",
+      "features": [
+        "Weather-resistant",
+        "Vibrant colors",
+        "Custom sizes",
+        "Indoor/outdoor use"
+      ]
+    },
+    {
+      "id": "ADS-BUNTING",
+      "name": "Bunting Printing",
+      "category": "Ads Print",
+      "description": "Eye-catching bunting flags perfect for promotions, grand openings, and special events. Available in various shapes and sizes.",
+      "specification": "Material: Polyester/Satin Fabric, Printing: Dye-sublimation, Shape: Triangle/Rectangle/Custom, String: Included",
+      "size": "Standard: 20cm x 30cm per flag",
+      "price": "From RM 3/flag",
+      "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600&h=400&fit=crop",
+      "features": [
+        "Colorful designs",
+        "Durable fabric",
+        "Multiple shapes",
+        "Pre-strung option"
+      ]
+    },
+    {
+      "id": "ADS-BROCHURE",
+      "name": "Brochure Printing",
+      "category": "Ads Print",
+      "description": "Professional brochure printing with various folding options. Perfect for marketing materials and product catalogs.",
+      "specification": "Paper: 128gsm/157gsm/200gsm Art Card, Finish: Glossy/Matte lamination, Folding: Bi-fold/Tri-fold/Z-fold, Full-color CMYK",
+      "size": "A4, A5, DL sizes",
+      "price": "From RM 0.50/piece",
+      "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=600&h=400&fit=crop",
+      "features": [
+        "Premium paper quality",
+        "Multiple folding options",
+        "Lamination available",
+        "Full-color printing"
+      ]
+    },
+    {
+      "id": "ADS-LEAFLET",
+      "name": "Leaflet Printing",
+      "category": "Ads Print",
+      "description": "Cost-effective leaflet printing for mass distribution. Ideal for promotions, announcements, and direct marketing campaigns.",
+      "specification": "Paper: 80gsm/100gsm/128gsm, Finish: Glossy/Matte options, Single/Double sided, Full-color CMYK printing",
+      "size": "A4, A5, A6 sizes",
+      "price": "From RM 0.20/piece",
+      "image": "https://images.unsplash.com/photo-1553531384-cc64ac80f931?w=600&h=400&fit=crop",
+      "features": [
+        "Budget-friendly",
+        "Quick turnaround",
+        "High volume printing",
+        "Single/double sided"
+      ]
+    },
+    {
+      "id": "ADS-CATALOG",
+      "name": "Catalog Printing",
+      "category": "Ads Print",
+      "description": "Premium catalog printing with professional binding options. Showcase your products and services in style.",
+      "specification": "Paper: 128gsm-200gsm Art Paper, Cover: 250gsm-300gsm, Binding: Saddle stitch/Perfect binding/Wire-O, Full-color CMYK",
+      "size": "A4, A5 sizes",
+      "price": "From RM 5/piece",
+      "image": "https://images.unsplash.com/photo-1512314889357-e157c22f938d?w=600&h=400&fit=crop",
+      "features": [
+        "Professional binding",
+        "Premium paper stock",
+        "Custom page count",
+        "Full-color throughout"
+      ]
+    },
+    {
+      "id": "ADS-CORPORATE-GIFT",
+      "name": "Corporate Gift Printing",
+      "category": "Ads Print",
+      "description": "Custom printing on corporate gifts including mugs, pens, notebooks, t-shirts, and more. Perfect for branding and employee gifts.",
+      "specification": "Items: Mugs, Pens, Notebooks, T-shirts, USB drives, etc., Printing: Screen print/Digital/Embroidery, Customization: Logo and text",
+      "size": "Various items and sizes",
+      "price": "From RM 5/item",
+      "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=600&h=400&fit=crop",
+      "features": [
+        "Wide range of items",
+        "Custom branding",
+        "Bulk discounts",
+        "Premium quality"
+      ]
+    },
+    {
+      "id": "ADS-BILLBOARD",
+      "name": "Billboard Printing",
+      "category": "Ads Print",
+      "description": "Large format billboard printing for outdoor advertising. UV-resistant and weather-proof materials for long-lasting displays.",
+      "specification": "Material: Heavy-duty PVC/Mesh Banner, Printing: UV-resistant large format, Finish: Weather-proof, Installation: Available",
+      "size": "Custom sizes up to 20ft x 60ft",
+      "price": "From RM 12/sqft",
+      "image": "https://images.unsplash.com/photo-1533221378008-1865bc43a9cc?w=600&h=400&fit=crop",
+      "features": [
+        "UV-resistant",
+        "Weather-proof",
+        "Large format capability",
+        "Installation service"
+      ]
+    },
+    {
+      "id": "ADS-STICKER",
+      "name": "Sticker Printing",
+      "category": "Ads Print",
+      "description": "Custom sticker printing in various shapes, sizes, and finishes. Perfect for branding, packaging, and promotional giveaways.",
+      "specification": "Material: Vinyl/Paper, Printing: Digital/Screen print, Finish: Glossy/Matte/Transparent, Cut: Die-cut/Kiss-cut/Contour",
+      "size": "Custom shapes and sizes",
+      "price": "From RM 0.10/piece",
+      "image": "https://images.unsplash.com/photo-1611532736579-6b16e2b50449?w=600&h=400&fit=crop",
+      "features": [
+        "Custom shapes",
+        "Waterproof options",
+        "Various finishes",
+        "Bulk discounts"
+      ]
+    },
+    {
+      "id": "BILLBOARD-RENTAL-01",
+      "name": "Standard Billboard Rental",
+      "category": "Other Services",
+      "description": "Rent billboard space for outdoor advertising campaigns. High-traffic locations with maximum visibility.",
+      "specification": "Location: Highway/Urban areas, Duration: Monthly/Quarterly/Yearly, Installation: Included, Maintenance: Regular",
+      "size": "20ft x 10ft",
+      "price": "From RM 2,500/month",
+      "image": "https://images.unsplash.com/photo-1533221378008-1865bc43a9cc?w=600&h=400&fit=crop",
+      "features": [
+        "High-traffic locations",
+        "Professional installation",
+        "Maintenance included",
+        "Monthly rental"
+      ]
+    },
+    {
+      "id": "BILLBOARD-RENTAL-02",
+      "name": "Premium Billboard Rental",
+      "category": "Other Services",
+      "description": "Premium billboard locations at strategic high-visibility points including major intersections and shopping areas.",
+      "specification": "Location: Prime spots, Duration: Flexible terms, Installation: Full service, Lighting: Illuminated options",
+      "size": "30ft x 15ft",
+      "price": "From RM 4,500/month",
+      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&h=400&fit=crop",
+      "features": [
+        "Prime locations",
+        "Illuminated options",
+        "Large format",
+        "High visibility"
+      ]
+    },
+    {
+      "id": "BILLBOARD-RENTAL-03",
+      "name": "Digital Billboard Rental",
+      "category": "Other Services",
+      "description": "Modern digital billboard displays with rotating advertisements. Share screen time with other advertisers for cost-effective campaigns.",
+      "specification": "Type: LED Digital Display, Duration: Time-slot based, Content: Digital rotation, Updates: Remote management",
+      "size": "Various digital sizes",
+      "price": "From RM 1,500/month",
+      "image": "https://images.unsplash.com/photo-1551269901-5c5e14c25df7?w=600&h=400&fit=crop",
+      "features": [
+        "Digital LED display",
+        "Rotating ads",
+        "Remote updates",
+        "Cost-effective"
+      ]
+    },
+    {
+      "id": "SPECIAL-BOOTH-01",
+      "name": "Custom Exhibition Booth",
+      "category": "Other Services",
+      "description": "Fully customized exhibition booth design and build service. Tailored to your brand identity and exhibition requirements.",
+      "specification": "Design: Custom CAD design, Build: Full construction, Materials: Premium grade, Services: Turnkey solution",
+      "size": "Custom size (minimum 3x3m)",
+      "price": "From RM 15,000",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
+      "features": [
+        "Custom design",
+        "Turnkey solution",
+        "Premium materials",
+        "Professional installation"
+      ]
+    },
+    {
+      "id": "SPECIAL-BOOTH-02",
+      "name": "Modular Exhibition Booth",
+      "category": "Other Services",
+      "description": "Flexible modular booth system that can be reconfigured for different exhibition spaces. Reusable and adaptable design.",
+      "specification": "System: Modular aluminum frame, Panels: Interchangeable, Graphics: Replaceable, Storage: Included",
+      "size": "Flexible (3x3m to 6x6m)",
+      "price": "From RM 12,000",
+      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=600&h=400&fit=crop",
+      "features": [
+        "Modular design",
+        "Reconfigurable",
+        "Reusable system",
+        "Easy storage"
+      ]
+    },
+    {
+      "id": "SPECIAL-BOOTH-03",
+      "name": "Two-Story Exhibition Booth",
+      "category": "Other Services",
+      "description": "Impressive two-story booth structure for maximum impact. Features meeting rooms, storage, and prime viewing areas.",
+      "specification": "Levels: Two floors, Structure: Reinforced steel, Features: Meeting room + storage, Safety: Full compliance",
+      "size": "Minimum 6x6m footprint",
+      "price": "From RM 35,000",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "features": [
+        "Two-story structure",
+        "Meeting room included",
+        "Premium impact",
+        "Safety certified"
+      ]
+    },
+    {
+      "id": "SPECIAL-BOOTH-04",
+      "name": "Interactive Digital Booth",
+      "category": "Other Services",
+      "description": "High-tech exhibition booth featuring interactive displays, touchscreens, VR stations, and multimedia presentations.",
+      "specification": "Technology: Interactive screens + VR, Design: Modern tech-focused, AV: Professional system, Support: Technical staff",
+      "size": "Custom size (3x3m+)",
+      "price": "From RM 25,000",
+      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop",
+      "features": [
+        "Interactive technology",
+        "VR integration",
+        "Professional AV",
+        "Tech support included"
+      ]
+    },
+    {
+      "id": "SHELL-BOOTH-01",
+      "name": "Shell Scheme Booth - Basic",
+      "category": "Other Services",
+      "description": "Standard shell scheme booth package with basic walls, fascia board, and spotlights. Perfect for budget-conscious exhibitors.",
+      "specification": "Walls: Standard panels, Fascia: Company name, Lighting: 2 spotlights, Flooring: Carpet",
+      "size": "3x3m",
+      "price": "RM 2,500",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+      "features": [
+        "Basic setup",
+        "Fascia board",
+        "Standard lighting",
+        "Budget-friendly"
+      ]
+    },
+    {
+      "id": "SHELL-BOOTH-02",
+      "name": "Shell Scheme Booth - Standard",
+      "category": "Other Services",
+      "description": "Enhanced shell scheme with additional furniture, better lighting, and custom graphics panels.",
+      "specification": "Walls: White panels, Fascia: Printed, Lighting: 4 spotlights, Furniture: Counter + 2 chairs, Graphics: Custom panels",
+      "size": "3x3m",
+      "price": "RM 4,000",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "features": [
+        "Enhanced setup",
+        "Furniture included",
+        "Better lighting",
+        "Custom graphics"
+      ]
+    },
+    {
+      "id": "SHELL-BOOTH-03",
+      "name": "Shell Scheme Booth - Premium",
+      "category": "Other Services",
+      "description": "Premium shell scheme package with premium furniture, professional lighting, storage, and full graphic customization.",
+      "specification": "Walls: Premium finish, Fascia: 3D letters, Lighting: LED system, Furniture: Complete set, Storage: Lockable cabinet",
+      "size": "3x3m to 6x3m",
+      "price": "From RM 6,500",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
+      "features": [
+        "Premium finish",
+        "LED lighting",
+        "Complete furniture",
+        "Lockable storage"
+      ]
+    },
+    {
+      "id": "CARPENTRY-01",
+      "name": "Custom Booth Carpentry",
+      "category": "Other Services",
+      "description": "Professional carpentry services for custom booth construction. From design to installation, we build your vision.",
+      "specification": "Materials: Plywood/MDF/Solid wood, Finish: Paint/Laminate/Veneer, Service: Design + Build + Install, Crew: Professional",
+      "size": "Custom projects",
+      "price": "From RM 100/sqft",
+      "image": "https://images.unsplash.com/photo-1504148455328-c376907d081c?w=600&h=400&fit=crop",
+      "features": [
+        "Custom carpentry",
+        "Professional crew",
+        "Quality materials",
+        "Complete service"
+      ]
+    },
+    {
+      "id": "CARPENTRY-02",
+      "name": "Exhibition Counter & Furniture",
+      "category": "Other Services",
+      "description": "Custom-built counters, display cabinets, shelving units, and exhibition furniture to your specifications.",
+      "specification": "Items: Counters/Cabinets/Shelving, Materials: Premium wood products, Finish: Professional grade, Design: Custom",
+      "size": "Made to measure",
+      "price": "From RM 800/unit",
+      "image": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?w=600&h=400&fit=crop",
+      "features": [
+        "Custom furniture",
+        "Premium materials",
+        "Professional finish",
+        "Made to measure"
+      ]
+    },
+    {
+      "id": "CARPENTRY-03",
+      "name": "Display Fixtures & Props",
+      "category": "Other Services",
+      "description": "Specialized display fixtures, product stands, and custom props for exhibitions and retail displays.",
+      "specification": "Type: Display fixtures/Stands/Props, Build: Custom fabrication, Materials: Wood/Composite, Finish: Paint/Stain/Lacquer",
+      "size": "Custom size",
+      "price": "From RM 500/piece",
+      "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=600&h=400&fit=crop",
+      "features": [
+        "Custom fixtures",
+        "Product display stands",
+        "Creative props",
+        "Professional finish"
+      ]
+    },
+    {
+      "id": "CARPENTRY-04",
+      "name": "Booth Renovation & Refurbishment",
+      "category": "Other Services",
+      "description": "Renovation and refurbishment services for existing booth structures. Upgrade and modernize your exhibition presence.",
+      "specification": "Services: Repair/Update/Modify, Materials: Quality replacements, Work: On-site/Workshop, Timeline: Fast turnaround",
+      "size": "Existing structures",
+      "price": "From RM 3,000",
+      "image": "https://images.unsplash.com/photo-1581094271901-8022df4466f9?w=600&h=400&fit=crop",
+      "features": [
+        "Renovation service",
+        "Modernization",
+        "Quality upgrades",
+        "Fast turnaround"
+      ]
+    },
+    {
+      "id": "PROPS-01",
+      "name": "3D Display Props",
+      "category": "Other Services",
+      "description": "Eye-catching 3D props and sculptures for advertising and exhibitions. Custom designs to match your brand.",
+      "specification": "Materials: Foam/Fiberglass/Resin, Finish: Professional paint, Size: Custom, Design: 3D modeling",
+      "size": "Custom size",
+      "price": "From RM 2,000",
+      "image": "https://images.unsplash.com/photo-1551269901-5c5e14c25df7?w=600&h=400&fit=crop",
+      "features": [
+        "3D custom props",
+        "Professional finish",
+        "Lightweight materials",
+        "Brand customization"
+      ]
+    },
+    {
+      "id": "PROPS-02",
+      "name": "Product Replica Props",
+      "category": "Other Services",
+      "description": "Large-scale product replicas for promotions and advertising. Perfect for mall displays and outdoor campaigns.",
+      "specification": "Type: Oversized replicas, Materials: Lightweight foam/Fiberglass, Scale: Up to 10x, Finish: Photo-realistic",
+      "size": "Custom scale",
+      "price": "From RM 3,500",
+      "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600&h=400&fit=crop",
+      "features": [
+        "Oversized replicas",
+        "Photo-realistic finish",
+        "Lightweight",
+        "Eye-catching"
+      ]
+    },
+    {
+      "id": "PROPS-03",
+      "name": "Character Mascot Props",
+      "category": "Other Services",
+      "description": "Custom character and mascot props for brand activations, events, and promotional campaigns.",
+      "specification": "Type: Characters/Mascots, Materials: Foam/Fabric, Features: Photo opportunity ready, Storage: Collapsible options",
+      "size": "Life-size to oversized",
+      "price": "From RM 2,500",
+      "image": "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=600&h=400&fit=crop",
+      "features": [
+        "Custom mascots",
+        "Photo-ready",
+        "Brand characters",
+        "Collapsible storage"
+      ]
+    },
+    {
+      "id": "PROPS-04",
+      "name": "Themed Decoration Props",
+      "category": "Other Services",
+      "description": "Complete themed decoration props for events, exhibitions, and retail displays. Create immersive brand experiences.",
+      "specification": "Themes: Custom/Seasonal/Brand, Materials: Mixed media, Package: Complete set, Setup: Installation included",
+      "size": "Booth to event scale",
+      "price": "From RM 5,000",
+      "image": "https://images.unsplash.com/photo-1553531384-cc64ac80f931?w=600&h=400&fit=crop",
+      "features": [
+        "Complete theming",
+        "Immersive experience",
+        "Custom designs",
+        "Installation service"
+      ]
+    },
+    {
+      "id": "PROPS-05",
+      "name": "Retail Display Props",
+      "category": "Other Services",
+      "description": "Specialized props for retail window displays and in-store promotions. Seasonal and permanent installations available.",
+      "specification": "Type: Window/In-store props, Materials: Durable materials, Design: Attention-grabbing, Maintenance: Easy cleaning",
+      "size": "Retail scale",
+      "price": "From RM 1,500",
+      "image": "https://images.unsplash.com/photo-1512314889357-e157c22f938d?w=600&h=400&fit=crop",
+      "features": [
+        "Retail-focused",
+        "Durable design",
+        "Seasonal options",
+        "Easy maintenance"
+      ]
+    },
+    {
+      "id": "LED-SCREEN-01",
+      "name": "LED Screen Rental - Indoor",
+      "category": "Other Services",
+      "description": "High-resolution indoor LED screen rental for events, exhibitions, and presentations. Crystal clear display with professional setup.",
+      "specification": "Type: Indoor LED Panel, Resolution: HD/Full HD, Pixel Pitch: P2.5-P3.91, Brightness: 800-1200 nits, Setup: Professional installation",
+      "size": "Modular panels (custom size)",
+      "price": "From RM 800/sqm/day",
+      "image": "https://images.unsplash.com/photo-1551269901-5c5e14c25df7?w=600&h=400&fit=crop",
+      "features": [
+        "HD display",
+        "Modular system",
+        "Professional setup",
+        "Content management"
+      ]
+    },
+    {
+      "id": "LED-SCREEN-02",
+      "name": "LED Screen Rental - Outdoor",
+      "category": "Other Services",
+      "description": "Weather-resistant outdoor LED screen rental for large-scale events, concerts, and outdoor advertising campaigns.",
+      "specification": "Type: Outdoor LED Panel, Resolution: Full HD, Pixel Pitch: P4.81-P6.67, Brightness: 4500-6500 nits, Weather: IP65 rated",
+      "size": "Modular panels (custom size)",
+      "price": "From RM 1,200/sqm/day",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop",
+      "features": [
+        "Weather-resistant",
+        "High brightness",
+        "Large format",
+        "Outdoor-rated"
+      ]
+    },
+    {
+      "id": "LED-SCREEN-03",
+      "name": "LED Video Wall",
+      "category": "Other Services",
+      "description": "Premium LED video wall for exhibitions and showrooms. Seamless display with ultra-thin bezels for stunning visual impact.",
+      "specification": "Type: Video Wall, Resolution: 4K capable, Bezel: Ultra-thin, Control: Processor included, Support: Technical operator",
+      "size": "3x3 to 5x5 configuration",
+      "price": "From RM 3,500/day",
+      "image": "https://images.unsplash.com/photo-1591370874773-6702e8f12fd8?w=600&h=400&fit=crop",
+      "features": [
+        "4K capable",
+        "Seamless display",
+        "Thin bezels",
+        "Technical support"
+      ]
+    },
+    {
+      "id": "WELCOME-ARCH-01",
+      "name": "Welcome Arch - Stema System",
+      "category": "Other Services",
+      "description": "Professional Stema truss arch system for event entrances and stage setups. Modular aluminum structure with custom branding.",
+      "specification": "Material: Aluminum Stema truss, Structure: Modular system, Finish: Custom banner/fabric, Lighting: Optional LED lighting",
+      "size": "4m to 8m width",
+      "price": "From RM 2,500",
+      "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600&h=400&fit=crop",
+      "features": [
+        "Modular aluminum truss",
+        "Professional grade",
+        "Custom branding",
+        "LED lighting option"
+      ]
+    },
+    {
+      "id": "WELCOME-ARCH-02",
+      "name": "Welcome Arch - Wooden",
+      "category": "Other Services",
+      "description": "Elegant wooden welcome arch with custom carpentry and decorative elements. Perfect for weddings, corporate events, and exhibitions.",
+      "specification": "Material: Premium wood/Plywood, Finish: Paint/Stain/Natural, Design: Custom carpentry, Decoration: Floral mount points",
+      "size": "3m to 6m width",
+      "price": "From RM 1,800",
+      "image": "https://images.unsplash.com/photo-1519167758481-83f29da8c2a6?w=600&h=400&fit=crop",
+      "features": [
+        "Premium wood construction",
+        "Custom design",
+        "Elegant finish",
+        "Decoration-ready"
+      ]
+    },
+    {
+      "id": "WELCOME-ARCH-03",
+      "name": "Welcome Arch - Fabric",
+      "category": "Other Services",
+      "description": "Lightweight fabric welcome arch with tension frame system. Easy to transport and setup with vibrant full-color printing.",
+      "specification": "Material: Tension fabric + Frame, Printing: Dye-sublimation full-color, Frame: Aluminum lightweight, Setup: Tool-free assembly",
+      "size": "2.5m to 5m width",
+      "price": "From RM 1,200",
+      "image": "https://images.unsplash.com/photo-1464047736614-af63643285bf?w=600&h=400&fit=crop",
+      "features": [
+        "Lightweight fabric",
+        "Full-color printing",
+        "Easy transport",
+        "Quick setup"
+      ]
+    },
+    {
+      "id": "SKY-DANCER-01",
+      "name": "Sky Dancer - Standard",
+      "category": "Other Services",
+      "description": "Eye-catching inflatable sky dancer for promotions and grand openings. Includes blower and custom printing options.",
+      "specification": "Type: Inflatable tube dancer, Height: 20ft (6m), Material: Durable nylon, Blower: Included, Printing: Custom colors/logo",
+      "size": "20ft height",
+      "price": "From RM 800",
+      "image": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=600&h=400&fit=crop",
+      "features": [
+        "20ft tall",
+        "Attention-grabbing",
+        "Custom printing",
+        "Blower included"
+      ]
+    },
+    {
+      "id": "SKY-DANCER-02",
+      "name": "Sky Dancer - Giant",
+      "category": "Other Services",
+      "description": "Giant inflatable sky dancer for maximum visibility. Perfect for large events, car dealerships, and major promotions.",
+      "specification": "Type: Giant inflatable dancer, Height: 30ft (9m), Material: Heavy-duty nylon, Blower: Commercial grade, Branding: Full custom",
+      "size": "30ft height",
+      "price": "From RM 1,500",
+      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&h=400&fit=crop",
+      "features": [
+        "30ft giant size",
+        "Maximum visibility",
+        "Commercial blower",
+        "Full customization"
+      ]
+    },
+    {
+      "id": "SKY-DANCER-03",
+      "name": "Sky Dancer Rental",
+      "category": "Other Services",
+      "description": "Sky dancer rental service for short-term promotions and events. Includes delivery, setup, and collection.",
+      "specification": "Type: Rental service, Duration: Daily/Weekly, Include: Dancer + Blower + Setup, Service: Delivery & collection",
+      "size": "20ft or 30ft options",
+      "price": "From RM 150/day",
+      "image": "https://images.unsplash.com/photo-1555099962-4199c345e5dd?w=600&h=400&fit=crop",
+      "features": [
+        "Rental service",
+        "Setup included",
+        "Flexible duration",
+        "Delivery & collection"
+      ]
+    }
+  ]
+}
