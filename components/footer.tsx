@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Facebook, Instagram, MessageCircle, Mail, Phone, MapPin } from "lucide-react";
+import { Facebook, Instagram, MessageCircle, Phone, MapPin } from "lucide-react";
 import { navLinks, siteConfig } from "@/data/site-config";
 
 export function Footer() {
@@ -58,26 +58,6 @@ export function Footer() {
                   </a>
                 </li>
               ))}
-              <li className="flex items-start space-x-2 text-xs text-gray-300">
-                <Mail className="h-3.5 w-3.5 mt-0.5 flex-shrink-0" />
-                <div className="flex flex-wrap items-center gap-1">
-                  <span className="text-white font-medium">Email:</span>
-                  {siteConfig.contact.offices.map((office, index) => (
-                    <span key={index} className="inline-flex items-center">
-                      <span className="text-white font-medium">{index + 1}.</span>
-                      <a
-                        href={`mailto:${office.email}`}
-                        className="hover:text-white transition-colors ml-1"
-                      >
-                        {office.email}
-                      </a>
-                      {index < siteConfig.contact.offices.length - 1 && (
-                        <span className="ml-1"></span>
-                      )}
-                    </span>
-                  ))}
-                </div>
-              </li>
             </ul>
           </div>
 

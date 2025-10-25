@@ -48,9 +48,14 @@ export default function CompanyDetailsModal({
     message += `*Company Details:*\n`
     message += `Company: ${companyDetails.companyName}\n`
     message += `Contact Person: ${companyDetails.contactPerson}\n`
-    message += `Email: ${companyDetails.email}\n`
+    if (companyDetails.email) {
+      message += `Email: ${companyDetails.email}\n`
+    }
     message += `Phone: ${companyDetails.phone}\n`
-    message += `Address: ${companyDetails.address}\n\n`
+    if (companyDetails.address) {
+      message += `Address: ${companyDetails.address}\n`
+    }
+    message += `\n`
 
     message += `*Products Requested:*\n`
     message += `${'='.repeat(40)}\n\n`
@@ -88,25 +93,25 @@ export default function CompanyDetailsModal({
     e.preventDefault()
     setIsSubmitting(true)
 
-    // Validate all fields
+    // Validate only required fields
     if (
       !companyDetails.companyName ||
       !companyDetails.contactPerson ||
-      !companyDetails.email ||
-      !companyDetails.phone ||
-      !companyDetails.address
+      !companyDetails.phone
     ) {
-      toast.error('Please fill in all fields')
+      toast.error('Please fill in all required fields (Company Name, Contact Person, Phone Number)')
       setIsSubmitting(false)
       return
     }
 
-    // Validate email
-    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/
-    if (!emailRegex.test(companyDetails.email)) {
-      toast.error('Please enter a valid email address')
-      setIsSubmitting(false)
-      return
+    // Validate email only if provided
+    if (companyDetails.email) {
+      const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/
+      if (!emailRegex.test(companyDetails.email)) {
+        toast.error('Please enter a valid email address')
+        setIsSubmitting(false)
+        return
+      }
     }
 
     try {
@@ -166,7 +171,7 @@ export default function CompanyDetailsModal({
           <div className="mb-5">
             <h2 className="text-xl font-bold text-gray-900 mb-2">Company Details</h2>
             <p className="text-sm text-gray-600">
-              Please provide your company information to receive a detailed quotation.
+              Please provide your company information to receive a detailed quotation. Fields marked with <span className="text-red-500">*</span> are required.
             </p>
           </div>
 
@@ -209,7 +214,7 @@ export default function CompanyDetailsModal({
             {/* Email */}
             <div>
               <label htmlFor="email" className="block text-xs font-semibold text-gray-900 mb-1.5">
-                Email Address <span className="text-red-500">*</span>
+                Email Address <span className="text-gray-400 text-xs font-normal">(Optional)</span>
               </label>
               <input
                 type="email"
@@ -217,7 +222,6 @@ export default function CompanyDetailsModal({
                 name="email"
                 value={companyDetails.email}
                 onChange={handleChange}
-                required
                 className="w-full px-3 py-2.5 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent transition-all"
                 placeholder="company@example.com"
               />
@@ -243,14 +247,13 @@ export default function CompanyDetailsModal({
             {/* Address */}
             <div>
               <label htmlFor="address" className="block text-xs font-semibold text-gray-900 mb-1.5">
-                Company Address <span className="text-red-500">*</span>
+                Company Address <span className="text-gray-400 text-xs font-normal">(Optional)</span>
               </label>
               <textarea
                 id="address"
                 name="address"
                 value={companyDetails.address}
                 onChange={handleChange}
-                required
                 rows={3}
                 className="w-full px-3 py-2.5 text-sm border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent transition-all resize-none"
                 placeholder="Enter your company address"

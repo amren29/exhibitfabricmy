@@ -125,33 +125,20 @@ export default function ProductDetailModal({
                 </div>
               </div>
 
-              {/* Features */}
-              {product.features && product.features.length > 0 && (
+              {/* Keywords */}
+              {product.seoKeywords && product.seoKeywords.length > 0 && (
                 <div className="mb-6">
                   <h3 className="text-xl font-bold text-gray-900 mb-3">
-                    Key Features
+                    Keywords
                   </h3>
-                  <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
-                    {product.features.map((feature, index) => (
-                      <div
+                  <div className="flex flex-wrap gap-2">
+                    {product.seoKeywords.map((keyword, index) => (
+                      <span
                         key={index}
-                        className="flex items-start space-x-3 bg-gray-50 rounded-lg p-3"
+                        className="inline-block px-4 py-2 bg-primary/10 text-primary text-sm font-semibold rounded-full hover:bg-primary/20 transition-colors"
                       >
-                        <svg
-                          className="w-6 h-6 text-green-500 flex-shrink-0 mt-0.5"
-                          fill="none"
-                          stroke="currentColor"
-                          viewBox="0 0 24 24"
-                        >
-                          <path
-                            strokeLinecap="round"
-                            strokeLinejoin="round"
-                            strokeWidth={2}
-                            d="M5 13l4 4L19 7"
-                          />
-                        </svg>
-                        <span className="text-gray-700">{feature}</span>
-                      </div>
+                        {keyword}
+                      </span>
                     ))}
                   </div>
                 </div>

@@ -7,7 +7,8 @@ export interface Product {
   size: string;
   price: string;
   image: string;
-  features: string[];
+  weight?: string;
+  seoKeywords: string[];
 }
 
 export interface ProductData {

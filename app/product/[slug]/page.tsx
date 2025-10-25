@@ -277,30 +277,20 @@ export default function ProductDetailPage() {
                 </div>
               </div>
 
-              {/* Features Section */}
-              {product.features && product.features.length > 0 && (
+              {/* SEO Keywords Section */}
+              {product.seoKeywords && product.seoKeywords.length > 0 && (
                 <div className="mb-4">
-                  <h2 className="text-lg font-bold text-gray-900 mb-3">Key Features</h2>
-                  <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2">
-                    {product.features.map((feature, index) => (
-                      <li key={index} className="flex items-start">
-                        <svg
-                          className="w-4 h-4 text-primary mr-2 flex-shrink-0 mt-0.5"
-                          fill="none"
-                          stroke="currentColor"
-                          viewBox="0 0 24 24"
-                        >
-                          <path
-                            strokeLinecap="round"
-                            strokeLinejoin="round"
-                            strokeWidth={2}
-                            d="M5 13l4 4L19 7"
-                          />
-                        </svg>
-                        <span className="text-sm text-muted-foreground">{feature}</span>
-                      </li>
+                  <h2 className="text-lg font-bold text-gray-900 mb-3">Keywords</h2>
+                  <div className="flex flex-wrap gap-2">
+                    {product.seoKeywords.map((keyword, index) => (
+                      <span
+                        key={index}
+                        className="inline-block px-3 py-1.5 bg-primary/10 text-primary text-xs font-semibold rounded-full hover:bg-primary/20 transition-colors"
+                      >
+                        {keyword}
+                      </span>
                     ))}
-                  </ul>
+                  </div>
                 </div>
               )}
 
