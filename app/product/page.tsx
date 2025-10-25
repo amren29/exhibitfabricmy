@@ -292,7 +292,7 @@ export default function ProductPage() {
                     </Link>
                     <button
                       onClick={(e) => handleAddToCart(product, e)}
-                      className="flex-1 px-2.5 py-1.5 bg-green-600 text-white text-xs font-medium rounded-lg hover:shadow-lg transition-all duration-300 hover:scale-105"
+                      className="flex-1 px-2.5 py-1.5 border-2 border-blue-600 text-blue-600 bg-white text-xs font-medium rounded-lg hover:bg-blue-50 transition-all duration-300 hover:scale-105"
                     >
                       Quote
                     </button>
