@@ -16,1286 +16,6 @@
   ],
   "products": [
     {
-      "id": "POP-UP-3X3C",
-      "name": "Pop Up Curve 3x3",
-      "category": "Display System",
-      "description": "Curved pop-up display system with seamless fabric graphics. Perfect for creating eye-catching booth displays at exhibitions and trade shows.",
-      "specification": "Material: Tension Fabric, Frame: Aluminum Curve System, Printing: Dye-sublimation, Setup: Tool-free pop-up assembly",
-      "size": "344 cm (W) × 232 cm (H)",
-      "price": "RM 1750.00",
-      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=600&h=400&fit=crop",
-      "features": [
-        "Curved display design",
-        "Tool-free assembly",
-        "Lightweight at 26.2 kg",
-        "Includes carrying case"
-      ]
-    },
-    {
-      "id": "POP-UP-3X4C",
-      "name": "Pop Up Curve 3x4",
-      "category": "Display System",
-      "description": "Large curved pop-up display system for maximum visual impact. Ideal for larger booth spaces and brand showcases.",
-      "specification": "Material: Tension Fabric, Frame: Aluminum Curve System, Printing: Dye-sublimation, Setup: Tool-free pop-up assembly",
-      "size": "414 cm (W) × 232 cm (H)",
-      "price": "RM 2250.00",
-      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
-      "features": [
-        "Large curved display",
-        "Tool-free assembly",
-        "26.2 kg weight",
-        "Professional finish"
-      ]
-    },
-    {
-      "id": "POP-UP-2X3",
-      "name": "Pop Up Straight 2x3",
-      "category": "Display System",
-      "description": "Compact straight pop-up display perfect for smaller booth spaces. Easy setup with professional results.",
-      "specification": "Material: Tension Fabric, Frame: Aluminum Straight System, Printing: Dye-sublimation, Setup: Pop-up assembly",
-      "size": "284 cm (W) × 232 cm (H)",
-      "price": "RM 1500.00",
-      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop",
-      "features": [
-        "Straight display design",
-        "Compact size",
-        "26.2 kg weight",
-        "Quick setup"
-      ]
-    },
-    {
-      "id": "POP-UP-3X3",
-      "name": "Pop Up Straight 3x3",
-      "category": "Display System",
-      "description": "Standard straight pop-up display system. Most popular size for trade show booths and exhibitions.",
-      "specification": "Material: Tension Fabric, Frame: Aluminum Straight System, Printing: Dye-sublimation, Setup: Pop-up assembly",
-      "size": "359 cm (W) × 232 cm (H)",
-      "price": "RM 1750.00",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
-      "features": [
-        "Standard exhibition size",
-        "Straight design",
-        "26.2 kg weight",
-        "Easy transport"
-      ]
-    },
-    {
-      "id": "POP-UP-3X4",
-      "name": "Pop Up Straight 3x4",
-      "category": "Display System",
-      "description": "Large straight pop-up display for maximum coverage. Perfect for main booth backdrops.",
-      "specification": "Material: Tension Fabric, Frame: Aluminum Straight System, Printing: Dye-sublimation, Setup: Pop-up assembly",
-      "size": "434 cm (W) × 232 cm (H)",
-      "price": "RM 2250.00",
-      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
-      "features": [
-        "Large display area",
-        "Straight design",
-        "26.2 kg weight",
-        "Professional setup"
-      ]
-    },
-    {
-      "id": "PPT",
-      "name": "Pop Up Promotion Table",
-      "category": "Display System",
-      "description": "Portable promotional table with custom fabric graphics. Perfect for product demonstrations and customer interactions.",
-      "specification": "Material: Fabric Wrap, Frame: Aluminum, Printing: Full-color sublimation, Weight: 15.3 kg",
-      "size": "Printing area: 85 in × 35 in",
-      "price": "RM 625.00",
-      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
-      "features": [
-        "Lightweight at 15.3 kg",
-        "Custom fabric graphics",
-        "Portable design",
-        "Easy assembly"
-      ]
-    },
-    {
-      "id": "CASING",
-      "name": "Hard Casing Display",
-      "category": "Display System",
-      "description": "Durable hard casing display system with protective exterior. Ideal for frequent transport and setup.",
-      "specification": "Material: Hard Case + Fabric Graphics, Frame: Aluminum, Size: 184 cm × 80 cm, Weight: 12.1 kg",
-      "size": "184 cm × 80 cm",
-      "price": "RM 1000.00",
-      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
-      "features": [
-        "Hard protective casing",
-        "12.1 kg weight",
-        "Durable construction",
-        "Travel-ready"
-      ]
-    },
-    {
-      "id": "POP-UP-VELCRO",
-      "name": "Velcro Pop Up",
-      "category": "Display System",
-      "description": "Velcro-based pop-up display system for easy graphic changes. Optional side covers available.",
-      "specification": "Material: Velcro Fabric System, Frame: Aluminum, Size: 230 cm × 230 cm, Side cover: +RM 100",
-      "size": "230 cm × 230 cm",
-      "price": "RM 1750.00",
-      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=400&fit=crop",
-      "features": [
-        "Velcro attachment system",
-        "Easy graphic replacement",
-        "Square design",
-        "Optional side covers"
-      ]
-    },
-    {
-      "id": "POP-UP-SE-3X6.5",
-      "name": "Tension Straight 90x200",
-      "category": "Tension System - Straight",
-      "description": "Compact tension fabric display. Perfect for narrow spaces and side displays.",
-      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 5 kg",
-      "size": "90 cm (W) × 200 cm (H)",
-      "price": "RM 750.00 (Single Sided) / RM 1000.00 (Double Sided)",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
-      "features": [
-        "Lightweight 5 kg",
-        "Single or double sided",
-        "SEG fabric system",
-        "Narrow profile"
-      ]
-    },
-    {
-      "id": "POP-UP-SE-1X2",
-      "name": "Tension Straight 100x200",
-      "category": "Tension System - Straight",
-      "description": "Standard narrow tension display. Great for corridor and aisle applications.",
-      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 5 kg",
-      "size": "100 cm (W) × 200 cm (H)",
-      "price": "RM 1250.00 (Single Sided) / RM 1500.00 (Double Sided)",
-      "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=600&h=400&fit=crop",
-      "features": [
-        "5 kg weight",
-        "Versatile sizing",
-        "Professional finish",
-        "Easy setup"
-      ]
-    },
-    {
-      "id": "POP-UP-SE-6X6",
-      "name": "Tension Straight 180x180",
-      "category": "Tension System - Straight",
-      "description": "Square tension fabric display. Ideal for symmetrical booth designs.",
-      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 5.5 kg",
-      "size": "180 cm (W) × 180 cm (H)",
-      "price": "RM 1750.00 (Single Sided) / RM 2250.00 (Double Sided)",
-      "image": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=600&h=400&fit=crop",
-      "features": [
-        "Square design",
-        "5.5 kg weight",
-        "Symmetrical display",
-        "SEG system"
-      ]
-    },
-    {
-      "id": "POP-UP-SE-2.25X1.2",
-      "name": "Tension Straight 220x120",
-      "category": "Tension System - Straight",
-      "description": "Wide but shorter tension display. Perfect for counter backdrops and tabletop displays.",
-      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 5.3 kg",
-      "size": "220 cm (W) × 120 cm (H)",
-      "price": "RM 1500.00 (Single Sided) / RM 1750.00 (Double Sided)",
-      "image": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?w=600&h=400&fit=crop",
-      "features": [
-        "Wide format",
-        "Counter height",
-        "5.3 kg weight",
-        "Backdrop design"
-      ]
-    },
-    {
-      "id": "POP-UP-SE-6X8",
-      "name": "Tension Straight 240x180",
-      "category": "Tension System - Straight",
-      "description": "Large tension fabric display for impactful booth presentations.",
-      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 6 kg",
-      "size": "240 cm (W) × 180 cm (H)",
-      "price": "RM 2000.00 (Single Sided) / RM 2500.00 (Double Sided)",
-      "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=600&h=400&fit=crop",
-      "features": [
-        "Large display area",
-        "6 kg weight",
-        "Professional graphics",
-        "Versatile use"
-      ]
-    },
-    {
-      "id": "POP-UP-SE-8X8",
-      "name": "Tension Straight 245x225",
-      "category": "Tension System - Straight",
-      "description": "Standard exhibition height tension display. Most popular size for trade shows.",
-      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 6.5 kg",
-      "size": "245 cm (W) × 225 cm (H)",
-      "price": "RM 2000.00 (Single Sided) / RM 2500.00 (Double Sided)",
-      "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600&h=400&fit=crop",
-      "features": [
-        "Exhibition height",
-        "6.5 kg weight",
-        "Standard sizing",
-        "Professional finish"
-      ]
-    },
-    {
-      "id": "POP-UP-SE-10X8",
-      "name": "Tension Straight 295x225",
-      "category": "Tension System - Straight",
-      "description": "Wide tension display for main booth backdrops. Creates impressive visual impact.",
-      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 7 kg",
-      "size": "295 cm (W) × 225 cm (H)",
-      "price": "RM 2500.00 (Single Sided) / RM 3000.00 (Double Sided)",
-      "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=600&h=400&fit=crop",
-      "features": [
-        "Wide backdrop",
-        "7 kg weight",
-        "High visibility",
-        "SEG fabric"
-      ]
-    },
-    {
-      "id": "POP-UP-SE-2.25X4",
-      "name": "Tension Straight 400x225",
-      "category": "Tension System - Straight",
-      "description": "Extra-wide tension display for large booth spaces. Maximum brand exposure.",
-      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 7 kg",
-      "size": "400 cm (W) × 225 cm (H)",
-      "price": "RM 3750.00 (Single Sided) / RM 4375.00 (Double Sided)",
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop",
-      "features": [
-        "Extra wide display",
-        "7 kg weight",
-        "Large format",
-        "Modular system"
-      ]
-    },
-    {
-      "id": "POP-UP-SE-3X4",
-      "name": "Tension Straight 400x300",
-      "category": "Tension System - Straight",
-      "description": "Extra-wide and tall tension display. Premium size for flagship booth presentations.",
-      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 7 kg",
-      "size": "400 cm (W) × 300 cm (H)",
-      "price": "RM 4000.00 (Single Sided) / RM 4625.00 (Double Sided)",
-      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&h=400&fit=crop",
-      "features": [
-        "Premium size",
-        "Extra tall design",
-        "7 kg weight",
-        "Flagship displays"
-      ]
-    },
-    {
-      "id": "POP-UP-SE-2.25X5",
-      "name": "Tension Straight 500x225",
-      "category": "Tension System - Straight",
-      "description": "5-meter wide tension display for expansive booth designs.",
-      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 12.1 kg",
-      "size": "500 cm (W) × 225 cm (H)",
-      "price": "RM 4000.00 (Single Sided) / RM 4625.00 (Double Sided)",
-      "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=600&h=400&fit=crop",
-      "features": [
-        "5-meter width",
-        "12.1 kg weight",
-        "Expansive display",
-        "Modular design"
-      ]
-    },
-    {
-      "id": "POP-UP-SE-10X17",
-      "name": "Tension Straight 500x300",
-      "category": "Tension System - Straight",
-      "description": "5-meter wide, 3-meter tall premium display. Maximum impact for large exhibitions.",
-      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 12.1 kg",
-      "size": "500 cm (W) × 300 cm (H)",
-      "price": "RM 4250.00 (Single Sided) / RM 5000.00 (Double Sided)",
-      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600&h=400&fit=crop",
-      "features": [
-        "Premium large size",
-        "3m height",
-        "12.1 kg weight",
-        "Maximum impact"
-      ]
-    },
-    {
-      "id": "POP-UP-SE-2.25X6",
-      "name": "Tension Straight 600x225",
-      "category": "Tension System - Straight",
-      "description": "6-meter wide tension display for expansive brand walls.",
-      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 12.4 kg",
-      "size": "600 cm (W) × 225 cm (H)",
-      "price": "RM 4500.00 (Single Sided) / RM 5500.00 (Double Sided)",
-      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&h=400&fit=crop",
-      "features": [
-        "6-meter width",
-        "12.4 kg weight",
-        "Brand wall",
-        "Large format"
-      ]
-    },
-    {
-      "id": "POP-UP-SE-10X20",
-      "name": "Tension Straight 600x300",
-      "category": "Tension System - Straight",
-      "description": "Ultimate large-format tension display. 6m wide × 3m tall for maximum presence.",
-      "specification": "Material: SEG Tension Fabric, Frame: Aluminum, Printing: Single/Double sided, Weight: 12.4 kg",
-      "size": "600 cm (W) × 300 cm (H)",
-      "price": "RM 5000.00 (Single Sided) / RM 6250.00 (Double Sided)",
-      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&h=400&fit=crop",
-      "features": [
-        "Ultimate size",
-        "6m × 3m display",
-        "12.4 kg weight",
-        "Premium exhibitions"
-      ]
-    },
-    {
-      "id": "POP-UP-S.SHAPE",
-      "name": "S-Shape Curve Display",
-      "category": "Tension System - Curved & Special",
-      "description": "Unique S-shaped curved tension display for dynamic booth designs.",
-      "specification": "Material: SEG Tension Fabric, Frame: S-Curve Aluminum, Printing: Single/Double sided, Weight: 7 kg",
-      "size": "295 cm (W) × 225 cm (H)",
-      "price": "RM 3000.00 (Single Sided) / RM 3500.00 (Double Sided)",
-      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&h=400&fit=crop",
-      "features": [
-        "S-curve design",
-        "Unique shape",
-        "7 kg weight",
-        "Eye-catching"
-      ]
-    },
-    {
-      "id": "CURVE-8X8",
-      "name": "Curved Display 245x225",
-      "category": "Tension System - Curved & Special",
-      "description": "Standard curved tension display. Creates dimensional depth in booth design.",
-      "specification": "Material: SEG Tension Fabric, Frame: Curved Aluminum, Printing: Single/Double sided, Weight: 6.5 kg",
-      "size": "245 cm (W) × 225 cm (H)",
-      "price": "RM 2500.00 (Single Sided) / RM 3000.00 (Double Sided)",
-      "image": "https://images.unsplash.com/photo-1464938050520-ef2270bb8ce8?w=600&h=400&fit=crop",
-      "features": [
-        "Curved design",
-        "Standard size",
-        "6.5 kg weight",
-        "3D effect"
-      ]
-    },
-    {
-      "id": "CURVE-11.5X8",
-      "name": "Curved Display 345x225",
-      "category": "Tension System - Curved & Special",
-      "description": "Large curved tension display for impactful presentations.",
-      "specification": "Material: SEG Tension Fabric, Frame: Curved Aluminum, Printing: Single/Double sided, Weight: 7.5 kg",
-      "size": "345 cm (W) × 225 cm (H)",
-      "price": "RM 3500.00 (Single Sided) / RM 3750.00 (Double Sided)",
-      "image": "https://images.unsplash.com/photo-1478146896981-b80fe463b330?w=600&h=400&fit=crop",
-      "features": [
-        "Large curve",
-        "Wide display",
-        "7.5 kg weight",
-        "Impressive design"
-      ]
-    },
-    {
-      "id": "CURVE-11.8X8",
-      "name": "Curved Display 360x225",
-      "category": "Tension System - Curved & Special",
-      "description": "Extra-wide curved tension display for premium booth designs.",
-      "specification": "Material: SEG Tension Fabric, Frame: Curved Aluminum, Printing: Single/Double sided, Weight: 7.5 kg",
-      "size": "360 cm (W) × 225 cm (H)",
-      "price": "RM 4000.00 (Single Sided) / RM 4250.00 (Double Sided)",
-      "image": "https://images.unsplash.com/photo-1551818255-e6e10975bc17?w=600&h=400&fit=crop",
-      "features": [
-        "Extra-wide curve",
-        "Premium design",
-        "7.5 kg weight",
-        "High-end booths"
-      ]
-    },
-    {
-      "id": "POP-UP-S1",
-      "name": "S-Shape Display 1",
-      "category": "Tension System - Curved & Special",
-      "description": "Tall S-shaped display for vertical branding and wayfinding.",
-      "specification": "Material: SEG Tension Fabric, Frame: S-Shape Aluminum, Printing: Single/Double sided, Weight: 6 kg",
-      "size": "80 cm (W) × 275 cm (H)",
-      "price": "RM 1000.00 (Single Sided) / RM 1250.00 (Double Sided)",
-      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=600&h=400&fit=crop",
-      "features": [
-        "Tall S-shape",
-        "Vertical design",
-        "6 kg weight",
-        "Wayfinding use"
-      ]
-    },
-    {
-      "id": "POP-UP-S2",
-      "name": "S-Shape Display 2",
-      "category": "Tension System - Curved & Special",
-      "description": "Extra-tall S-shaped display for maximum vertical presence.",
-      "specification": "Material: SEG Tension Fabric, Frame: S-Shape Aluminum, Printing: Single/Double sided, Weight: 6 kg",
-      "size": "80 cm (W) × 300 cm (H)",
-      "price": "RM 1125.00 (Single Sided) / RM 1375.00 (Double Sided)",
-      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984?w=600&h=400&fit=crop",
-      "features": [
-        "Extra-tall S-shape",
-        "3m height",
-        "6 kg weight",
-        "Vertical branding"
-      ]
-    },
-    {
-      "id": "TENSION-ANGLE-90",
-      "name": "Tension Stand Angle 90cm",
-      "category": "Tension System - Curved & Special",
-      "description": "Angled tension display stand for corner and directional applications.",
-      "specification": "Material: SEG Tension Fabric, Frame: Angle Aluminum, Height: 225-255 cm adjustable, Weight: 7 kg",
-      "size": "90 cm (W) × 225-255 cm (H)",
-      "price": "RM 1000.00 (Single Sided) / RM 1125.00 (Double Sided)",
-      "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=600&h=400&fit=crop",
-      "features": [
-        "Angle display",
-        "Adjustable height",
-        "7 kg weight",
-        "Corner application"
-      ]
-    },
-    {
-      "id": "TENSION-ANGLE-120",
-      "name": "Tension Stand Angle 120cm",
-      "category": "Tension System - Curved & Special",
-      "description": "Wider angled tension display for larger corner spaces.",
-      "specification": "Material: SEG Tension Fabric, Frame: Angle Aluminum, Height: 225-255 cm adjustable, Weight: 7 kg",
-      "size": "120 cm (W) × 225-255 cm (H)",
-      "price": "RM 1250.00 (Single Sided) / RM 1375.00 (Double Sided)",
-      "image": "https://images.unsplash.com/photo-1510906594845-bc082582c8cc?w=600&h=400&fit=crop",
-      "features": [
-        "Wide angle display",
-        "Adjustable height",
-        "7 kg weight",
-        "Larger corners"
-      ]
-    },
-    {
-      "id": "FAST-TENSION-TABLE",
-      "name": "Fast Tension Table",
-      "category": "Tension System - Curved & Special",
-      "description": "Quick-setup tension fabric table cover. Available in square and round designs.",
-      "specification": "Material: Stretch Fabric, Sizes: Square 96×38 in / Round 68×38 in, Weight: 10 kg, Price includes print",
-      "size": "Square: 96×38 in / Round: 68×38 in",
-      "price": "RM 1250.00",
-      "image": "https://images.unsplash.com/photo-1523759734441-581b1a3e9bda?w=600&h=400&fit=crop",
-      "features": [
-        "Quick setup",
-        "Square or round",
-        "10 kg weight",
-        "Includes printing"
-      ]
-    },
-    {
-      "id": "TOWER-CURVE",
-      "name": "Tower Booth (Curve)",
-      "category": "Tension System - Curved & Special",
-      "description": "Curved tower display for vertical branding. Lightweight and portable.",
-      "specification": "Material: Tension Fabric, Frame: Curved Tower Aluminum, Printing: Single sided, Weight: 2.4 kg",
-      "size": "86 cm (W) × 205 cm (H)",
-      "price": "RM 650",
-      "image": "https://images.unsplash.com/photo-1604328702546-f3e2e5c59c90?w=600&h=400&fit=crop",
-      "features": [
-        "Tower design",
-        "Curved shape",
-        "Only 2.4 kg",
-        "Portable"
-      ]
-    },
-    {
-      "id": "TEN-TABLE",
-      "name": "Fast Tension Table Display",
-      "category": "Tension System - Booth & Structure",
-      "description": "Professional tension table cover with branded graphics. Square and round options available.",
-      "specification": "Material: Stretch Fabric, Sizes: 96×38 in (Sq), 68×38 in (Rd), Weight: 10 kg, Print included",
-      "size": "Square: 96×38 in / Round: 68×38 in",
-      "price": "RM 1250.00",
-      "image": "https://images.unsplash.com/photo-1534670007418-fbb7f6cf32c3?w=600&h=400&fit=crop",
-      "features": [
-        "Branded table cover",
-        "Square or round",
-        "10 kg weight",
-        "Print included"
-      ]
-    },
-    {
-      "id": "TEN-BD",
-      "name": "Tower Display (Curve)",
-      "category": "Tension System - Booth & Structure",
-      "description": "Freestanding curved tower for wayfinding and vertical branding.",
-      "specification": "Material: Tension Fabric, Frame: Curved Tower, Size: 86×205 cm, Weight: 2.4 kg",
-      "size": "86 cm × 205 cm",
-      "price": "RM 1625.00",
-      "image": "https://images.unsplash.com/photo-1579762593131-8c0feb45bd1f?w=600&h=400&fit=crop",
-      "features": [
-        "Freestanding tower",
-        "Curved design",
-        "2.4 kg only",
-        "Wayfinding"
-      ]
-    },
-    {
-      "id": "TEN-WB",
-      "name": "Tube Fabric Wall Box",
-      "category": "Tension System - Booth & Structure",
-      "description": "Large fabric wall box structure for creating booth walls and partitions.",
-      "specification": "Material: Tube Frame + Fabric, Size: 300×225×40 cm, Weight: 8 kg",
-      "size": "300 cm × 225 cm × 40 cm (D)",
-      "price": "RM 5000.00",
-      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=600&h=400&fit=crop",
-      "features": [
-        "Wall structure",
-        "Large format",
-        "8 kg weight",
-        "Booth partition"
-      ]
-    },
-    {
-      "id": "TEN-DU",
-      "name": "Tube Drum Shape Display",
-      "category": "Tension System - Booth & Structure",
-      "description": "Unique drum-shaped display structure for 360-degree branding.",
-      "specification": "Material: Tube Frame + Fabric, Size: 250×225×40 cm, Weight: 12 kg",
-      "size": "250 cm × 225 cm × 40 cm (D)",
-      "price": "RM 5500.00",
-      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
-      "features": [
-        "Drum shape",
-        "360° branding",
-        "12 kg weight",
-        "Unique design"
-      ]
-    },
-    {
-      "id": "TEN-GW",
-      "name": "Tube Gateway Structure",
-      "category": "Tension System - Booth & Structure",
-      "description": "Gateway arch structure for booth entrances and photo opportunities.",
-      "specification": "Material: Tube Frame + Fabric, Size: 300×225×100 cm, Weight: 11 kg",
-      "size": "300 cm × 225 cm × 100 cm (D)",
-      "price": "RM 6500.00",
-      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop",
-      "features": [
-        "Gateway arch",
-        "Entrance feature",
-        "11 kg weight",
-        "Photo backdrop"
-      ]
-    },
-    {
-      "id": "TEN-HBB",
-      "name": "Hanging Banner Box",
-      "category": "Tension System - Booth & Structure",
-      "description": "Suspended fabric box for overhead branding and ceiling displays.",
-      "specification": "Material: Tube Frame + Fabric, Size: 300×300×100 cm, Weight: 12 kg",
-      "size": "300 cm × 300 cm × 100 cm (D)",
-      "price": "RM 7500.00",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
-      "features": [
-        "Hanging display",
-        "Overhead branding",
-        "12 kg weight",
-        "Ceiling mount"
-      ]
-    },
-    {
-      "id": "TEN-CW",
-      "name": "Conference Wall Structure",
-      "category": "Tension System - Booth & Structure",
-      "description": "Modular wall structure for conference rooms and meeting spaces.",
-      "specification": "Material: Tube Frame + Fabric, Size: 300×225 cm, Weight: 8 kg",
-      "size": "300 cm × 225 cm",
-      "price": "RM 5250.00",
-      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
-      "features": [
-        "Conference wall",
-        "Modular design",
-        "8 kg weight",
-        "Meeting spaces"
-      ]
-    },
-    {
-      "id": "TEN-AC",
-      "name": "Tension Stand Design 3",
-      "category": "Tension System - Booth & Structure",
-      "description": "Advanced tension stand design for custom booth configurations.",
-      "specification": "Material: Tube Frame + Fabric, Size: 275×225×100 cm, Weight: 8 kg",
-      "size": "275 cm × 225 cm × 100 cm (D)",
-      "price": "RM 7500.00",
-      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
-      "features": [
-        "Custom design",
-        "Modular system",
-        "8 kg weight",
-        "Flexible config"
-      ]
-    },
-    {
-      "id": "TENSION-BOOTH-STAND",
-      "name": "Tension Booth Stand Combo S1/S2",
-      "category": "Tension System - Booth & Structure",
-      "description": "Complete booth stand combo with multiple display configurations.",
-      "specification": "Material: Tube Frame + Fabric, S1: 100×281 cm; S2: 200×235 cm, Print included",
-      "size": "S1: 100×281 cm / S2: 200×235 cm",
-      "price": "RM 11250.00",
-      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
-      "features": [
-        "Complete combo",
-        "Two configurations",
-        "Print included",
-        "Full booth solution"
-      ]
-    },
-    {
-      "id": "FLAG-3M",
-      "name": "Flag Stand (Teardrop) 3M",
-      "category": "Fabric System",
-      "description": "Standard teardrop flag for outdoor events and promotions. Lightweight and portable design with dye-sublimation printing.",
-      "specification": "Material: Dye-sublimation Fabric, Frame: Fiberglass pole, Base: Ground spike or water base, Weight: 4 kg",
-      "size": "3M height",
-      "price": "RM 120 (Frame only) / RM 250 (inc. print)",
-      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&h=400&fit=crop",
-      "features": [
-        "Teardrop shape",
-        "3M height",
-        "4 kg weight",
-        "Portable"
-      ]
-    },
-    {
-      "id": "FLAG-4M",
-      "name": "Flag Stand (Teardrop) 4M",
-      "category": "Fabric System",
-      "description": "Medium-height teardrop flag for enhanced visibility at outdoor events. Perfect for roadside promotions.",
-      "specification": "Material: Dye-sublimation Fabric, Frame: Fiberglass pole, Base: Ground spike or water base, Weight: 4 kg",
-      "size": "4M height",
-      "price": "RM 140 (Frame only) / RM 300 (inc. print)",
-      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&h=400&fit=crop",
-      "features": [
-        "Teardrop shape",
-        "4M height",
-        "4 kg weight",
-        "High visibility"
-      ]
-    },
-    {
-      "id": "FLAG-5M",
-      "name": "Flag Stand (Teardrop) 5M",
-      "category": "Fabric System",
-      "description": "Tall teardrop flag for maximum visibility. Ideal for large outdoor events and festivals.",
-      "specification": "Material: Dye-sublimation Fabric, Frame: Fiberglass pole, Base: Ground spike or water base, Weight: 4 kg",
-      "size": "5M height",
-      "price": "RM 160 (Frame only) / RM 350 (inc. print)",
-      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&h=400&fit=crop",
-      "features": [
-        "Teardrop shape",
-        "5M height",
-        "4 kg weight",
-        "Maximum visibility"
-      ]
-    },
-    {
-      "id": "FLAG-KNIFE-3M",
-      "name": "Flag Stand (Knife) 3M",
-      "category": "Fabric System",
-      "description": "Knife-style blade flag with sharp, modern design. Available in 3M, 4M, and 5M heights with same pricing as teardrop.",
-      "specification": "Material: Dye-sublimation Fabric, Frame: Fiberglass pole, Base: Ground spike or water base, Weight: 4 kg",
-      "size": "3M height",
-      "price": "RM 120 (Frame only) / RM 250 (inc. print)",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
-      "features": [
-        "Knife-style blade",
-        "3M height",
-        "4 kg weight",
-        "Modern design"
-      ]
-    },
-    {
-      "id": "FLAG-FEATHER-3M",
-      "name": "Flag Stand (Tail Feather) 3M",
-      "category": "Fabric System",
-      "description": "Feather-style flag with elegant curved design. Perfect for upscale events and branded displays.",
-      "specification": "Material: Dye-sublimation Fabric, Frame: Fiberglass pole, Base: Ground spike or water base, Weight: 4 kg",
-      "size": "3M height",
-      "price": "RM 120 (Frame only) / RM 250 (inc. print)",
-      "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=600&h=400&fit=crop",
-      "features": [
-        "Feather-style",
-        "3M height",
-        "4 kg weight",
-        "Elegant design"
-      ]
-    },
-    {
-      "id": "FLAG-AB",
-      "name": "Flying Flag Backpack",
-      "category": "Fabric System",
-      "description": "Wearable advertising flag backpack for mobile promotions. Perfect for street marketing and events.",
-      "specification": "Material: Dye-sublimation Fabric, Frame: Lightweight pole, Harness: Adjustable backpack, Weight: 1 kg",
-      "size": "67 cm × 115 cm",
-      "price": "RM 500.00",
-      "image": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=600&h=400&fit=crop",
-      "features": [
-        "Wearable design",
-        "Lightweight 1 kg",
-        "Mobile advertising",
-        "Adjustable harness"
-      ]
-    },
-    {
-      "id": "WBF",
-      "name": "Flying Flag Stand (Water-Based) 3M",
-      "category": "Fabric System",
-      "description": "Water-based flying flag stand for safe outdoor use. No ground penetration needed.",
-      "specification": "Material: Dye-sublimation Fabric, Frame: Fiberglass pole, Base: Water-fillable base, Weight: 1.2 kg (empty)",
-      "size": "3M height",
-      "price": "RM 112.50",
-      "image": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?w=600&h=400&fit=crop",
-      "features": [
-        "Water base",
-        "3M height",
-        "1.2 kg weight",
-        "Portable"
-      ]
-    },
-    {
-      "id": "WBF-5M",
-      "name": "Flying Flag Stand (Water-Based) 5M",
-      "category": "Fabric System",
-      "description": "Tall water-based flying flag stand for maximum visibility without ground stakes.",
-      "specification": "Material: Dye-sublimation Fabric, Frame: Fiberglass pole, Base: Water-fillable base, Weight: 5 kg (empty)",
-      "size": "5M height",
-      "price": "RM 625.00",
-      "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=600&h=400&fit=crop",
-      "features": [
-        "Water base",
-        "5M height",
-        "5 kg weight",
-        "High visibility"
-      ]
-    },
-    {
-      "id": "FLYING-FLAG-30",
-      "name": "Flying Flag Stand 30 in × 13 ft",
-      "category": "Fabric System",
-      "description": "Standard tall fabric display flag for outdoor promotions and events.",
-      "specification": "Material: Dye-sublimation Fabric, Frame: Fiberglass pole, Base: Ground spike, Weight: 4 kg",
-      "size": "30 in × 13 ft",
-      "price": "RM 250 (Frame only) / RM 350 (inc. print)",
-      "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600&h=400&fit=crop",
-      "features": [
-        "Tall display",
-        "30 in width",
-        "4 kg weight",
-        "Outdoor use"
-      ]
-    },
-    {
-      "id": "FLYING-FLAG-33",
-      "name": "Flying Flag Stand 33 in × 13 ft",
-      "category": "Fabric System",
-      "description": "Wider tall fabric display flag for enhanced visibility and branding.",
-      "specification": "Material: Dye-sublimation Fabric, Frame: Fiberglass pole, Base: Ground spike, Weight: 4 kg",
-      "size": "33 in × 13 ft",
-      "price": "RM 250 (Frame only) / RM 400 (inc. print)",
-      "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=600&h=400&fit=crop",
-      "features": [
-        "Tall display",
-        "33 in width",
-        "4 kg weight",
-        "Wide format"
-      ]
-    },
-    {
-      "id": "OFAB",
-      "name": "Outdoor Fabric A Board",
-      "category": "Fabric System",
-      "description": "Outdoor fabric A-board for promotions and wayfinding. Wind-resistant mesh fabric design.",
-      "specification": "Material: Mesh Fabric, Frame: Metal A-frame, Printing: Full-color, Weight: 10 kg",
-      "size": "160 cm × 90 cm",
-      "price": "RM 625.00",
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop",
-      "features": [
-        "A-board design",
-        "Wind-resistant",
-        "10 kg weight",
-        "Outdoor use"
-      ]
-    },
-    {
-      "id": "F.A-STAND",
-      "name": "Mesh Fabric A Stand",
-      "category": "Fabric System",
-      "description": "Light, semi-transparent mesh fabric stand for outdoor displays. Allows wind to pass through.",
-      "specification": "Material: Mesh Fabric, Frame: Lightweight aluminum, Printing: Full-color, Weight: 0.5 kg",
-      "size": "2 m × 1 m",
-      "price": "RM 625.00",
-      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&h=400&fit=crop",
-      "features": [
-        "Mesh fabric",
-        "Semi-transparent",
-        "Only 0.5 kg",
-        "Wind-resistant"
-      ]
-    },
-    {
-      "id": "APT",
-      "name": "Aluminium Promotion Table",
-      "category": "Promotional System",
-      "description": "Premium aluminum promotion counter with custom graphics. Professional display for product demonstrations and customer interactions.",
-      "specification": "Material: Aluminum frame + Fabric graphics, Printing: Dye-sublimation, Weight: 10.2 kg",
-      "size": "Top 60.5×25.5 cm • Center 50.5×86.5 cm • Side 23×86.5 cm",
-      "price": "RM 600.00",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
-      "features": [
-        "Aluminum construction",
-        "Professional finish",
-        "10.2 kg weight",
-        "Custom graphics"
-      ]
-    },
-    {
-      "id": "APT-WO-WHEEL",
-      "name": "Aluminium Promotion Table (Without Wheels)",
-      "category": "Promotional System",
-      "description": "Premium aluminum promotion counter without wheels for stationary displays. Same specifications as standard APT.",
-      "specification": "Material: Aluminum frame + Fabric graphics, Printing: Dye-sublimation, Weight: 10.2 kg",
-      "size": "Top 60.5×25.5 cm • Center 50.5×86.5 cm • Side 23×86.5 cm",
-      "price": "RM 600.00",
-      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
-      "features": [
-        "Aluminum construction",
-        "Stationary design",
-        "10.2 kg weight",
-        "Professional display"
-      ]
-    },
-    {
-      "id": "IPT",
-      "name": "Iron Promotion Table",
-      "category": "Promotional System",
-      "description": "Budget-friendly metal promotion counter for cost-effective displays and product showcases.",
-      "specification": "Material: Iron frame + Fabric graphics, Printing: Dye-sublimation, Weight: 7.3 kg",
-      "size": "Top 80×20 cm • Center 70×70 cm • Side 30×70 cm",
-      "price": "RM 250.00",
-      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
-      "features": [
-        "Budget-friendly",
-        "Iron construction",
-        "7.3 kg weight",
-        "Durable design"
-      ]
-    },
-    {
-      "id": "PT",
-      "name": "Promotion Table (Square)",
-      "category": "Promotional System",
-      "description": "Square promotion table with flat-front design. Perfect for product displays and sampling.",
-      "specification": "Material: Metal frame + Fabric graphics, Printing: Dye-sublimation, Weight: 7 kg",
-      "size": "Top 81×30 cm • Bottom 182.5×81 cm",
-      "price": "RM 350.00",
-      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
-      "features": [
-        "Square design",
-        "Flat-front",
-        "7 kg weight",
-        "Versatile use"
-      ]
-    },
-    {
-      "id": "LDS-TABLE-A",
-      "name": "Table Lucky Draw Stand (Large)",
-      "category": "Promotional System",
-      "description": "Large tabletop lucky draw drum with acrylic or metal finish. Perfect for promotions and contests.",
-      "specification": "Material: Acrylic/Metal, Size: 80×80 cm, Weight: 5 kg",
-      "size": "80 cm × 80 cm",
-      "price": "RM 120 (Frame only) / RM 130 (inc. print)",
-      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=400&fit=crop",
-      "features": [
-        "Large size",
-        "Acrylic/metal",
-        "5 kg weight",
-        "Table-top"
-      ]
-    },
-    {
-      "id": "LDS-TABLE-B",
-      "name": "Table Lucky Draw Stand (Small)",
-      "category": "Promotional System",
-      "description": "Compact tabletop lucky draw drum for smaller events and promotions.",
-      "specification": "Material: Acrylic/Metal, Size: 59.7×59.7 cm, Weight: 5 kg",
-      "size": "59.7 cm × 59.7 cm",
-      "price": "RM 60 (Frame only) / RM 70 (inc. print)",
-      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=600&h=400&fit=crop",
-      "features": [
-        "Compact size",
-        "Acrylic/metal",
-        "5 kg weight",
-        "Budget-friendly"
-      ]
-    },
-    {
-      "id": "LDS-60CM",
-      "name": "Lucky Draw Stand (Floor) 60cm",
-      "category": "Promotional System",
-      "description": "Freestanding floor lucky draw drum for events and promotions. 60cm size.",
-      "specification": "Material: Metal drum, Frame: Floor stand, Weight: 2 kg",
-      "size": "60 cm diameter",
-      "price": "RM 100",
-      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
-      "features": [
-        "Floor standing",
-        "60cm drum",
-        "2 kg weight",
-        "Lottery drum"
-      ]
-    },
-    {
-      "id": "LDS-80CM",
-      "name": "Lucky Draw Stand (Floor) 80cm",
-      "category": "Promotional System",
-      "description": "Large freestanding floor lucky draw drum for bigger events. 80cm size.",
-      "specification": "Material: Metal drum, Frame: Floor stand, Weight: 2 kg",
-      "size": "80 cm diameter",
-      "price": "RM 170",
-      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop",
-      "features": [
-        "Floor standing",
-        "80cm drum",
-        "2 kg weight",
-        "Large capacity"
-      ]
-    },
-    {
-      "id": "CT3-STAND",
-      "name": "Tripod Stand",
-      "category": "Display Stand",
-      "description": "Basic adjustable tripod stand for banners and displays. Simple and reliable design.",
-      "specification": "Material: Metal tripod, Height: Max 6 ft adjustable, Weight: 1 kg",
-      "size": "Custom × Max 6 ft",
-      "price": "RM 37.50",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
-      "features": [
-        "Adjustable height",
-        "Tripod design",
-        "1 kg weight",
-        "Budget-friendly"
-      ]
-    },
-    {
-      "id": "T-STAND-RB",
-      "name": "T-Stand (Round Base)",
-      "category": "Display Stand",
-      "description": "T-Stand with weighted round base for stability. Ideal for indoor displays.",
-      "specification": "Material: Metal stand, Base: Weighted round base, Height: Max 6 ft, Weight: 1.8 kg",
-      "size": "Custom × Max 6 ft",
-      "price": "RM 62.50",
-      "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=600&h=400&fit=crop",
-      "features": [
-        "Round base",
-        "Weighted design",
-        "1.8 kg weight",
-        "Stable display"
-      ]
-    },
-    {
-      "id": "T-STAND-WB",
-      "name": "T-Stand (Water Base)",
-      "category": "Display Stand",
-      "description": "T-Stand with water-fillable base for outdoor use. No ground penetration required.",
-      "specification": "Material: Metal stand, Base: Water-fillable, Height: Max 6 ft, Weight: 1.8 kg",
-      "size": "Custom × Max 6 ft",
-      "price": "RM 25",
-      "image": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=600&h=400&fit=crop",
-      "features": [
-        "Water base",
-        "Outdoor use",
-        "1.8 kg weight",
-        "Portable"
-      ]
-    },
-    {
-      "id": "X-STAND-32",
-      "name": "X-Stand (Gear)",
-      "category": "Display Stand",
-      "description": "Classic gear X-frame banner stand. Lightweight and portable for quick setup.",
-      "specification": "Material: Metal X-frame, Banner sizes: 2×5 ft / 2×6 ft, Weight: 0.5 kg",
-      "size": "2×5 ft / 2×6 ft",
-      "price": "RM 37.50",
-      "image": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?w=600&h=400&fit=crop",
-      "features": [
-        "X-frame design",
-        "Lightweight 0.5 kg",
-        "Quick setup",
-        "Portable"
-      ]
-    },
-    {
-      "id": "X-STAND-3C",
-      "name": "X-Stand (Korea)",
-      "category": "Display Stand",
-      "description": "Reinforced Korean-type X-stand with superior stability. Premium construction.",
-      "specification": "Material: Reinforced metal X-frame, Banner size: 2.5×6 ft, Weight: 1.1 kg",
-      "size": "2.5×6 ft",
-      "price": "RM 62.50",
-      "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=600&h=400&fit=crop",
-      "features": [
-        "Korean type",
-        "Reinforced frame",
-        "1.1 kg weight",
-        "Premium quality"
-      ]
-    },
-    {
-      "id": "X-STAND-MINI-A4",
-      "name": "Mini X-Stand (A4)",
-      "category": "Display Stand",
-      "description": "Table-size A4 banner stand for countertop displays and point-of-sale.",
-      "specification": "Material: Metal mini X-frame, Banner size: A4, Weight: 0.2 kg",
-      "size": "A4",
-      "price": "RM 12.50",
-      "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600&h=400&fit=crop",
-      "features": [
-        "A4 size",
-        "Table-top",
-        "Only 0.2 kg",
-        "Budget-friendly"
-      ]
-    },
-    {
-      "id": "X-STAND-MINI-A3",
-      "name": "Mini X-Stand (A3)",
-      "category": "Display Stand",
-      "description": "Table-size A3 banner stand for larger countertop displays.",
-      "specification": "Material: Metal mini X-frame, Banner size: A3, Weight: 0.2 kg",
-      "size": "A3",
-      "price": "RM 5 (Frame only) / RM 9 (inc. print)",
-      "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=600&h=400&fit=crop",
-      "features": [
-        "A3 size",
-        "Table-top",
-        "Only 0.2 kg",
-        "Versatile use"
-      ]
-    },
-    {
-      "id": "X-STAND-BPACK",
-      "name": "Backpack X-Stand",
-      "category": "Display Stand",
-      "description": "Portable wearable banner with backpack carrying system. Perfect for mobile advertising.",
-      "specification": "Material: Lightweight X-frame + Backpack, Banner size: 45×120 cm, Weight: 0.5 kg",
-      "size": "45 cm × 120 cm",
-      "price": "RM 100",
-      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop",
-      "features": [
-        "Wearable design",
-        "Backpack system",
-        "0.5 kg weight",
-        "Mobile advertising"
-      ]
-    },
-    {
-      "id": "EWS",
-      "name": "Easel Wooden Stand (Small)",
-      "category": "Display Stand",
-      "description": "Natural wood easel stand for elegant displays. 1.5m height.",
-      "specification": "Material: Natural wood, Height: 1.5 m, Weight: 2 kg",
-      "size": "1.5 m height",
-      "price": "RM 40",
-      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&h=400&fit=crop",
-      "features": [
-        "Natural wood",
-        "1.5m height",
-        "2 kg weight",
-        "Elegant design"
-      ]
-    },
-    {
-      "id": "EWS-1.7M",
-      "name": "Easel Wooden Stand (Large)",
-      "category": "Display Stand",
-      "description": "Large natural wood easel stand for bigger displays. 1.7m height.",
-      "specification": "Material: Natural wood, Height: 1.7 m, Weight: 3 kg",
-      "size": "1.7 m height",
-      "price": "RM 60",
-      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
-      "features": [
-        "Natural wood",
-        "1.7m height",
-        "3 kg weight",
-        "Large format"
-      ]
-    },
-    {
-      "id": "PS-B",
-      "name": "Poster Stand",
-      "category": "Display Stand",
-      "description": "Simple metal frame poster stand for A1 size displays. Basic and functional.",
-      "specification": "Material: Metal frame, Poster size: A1, Weight: 1 kg",
-      "size": "A1 Size",
-      "price": "RM 20",
-      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
-      "features": [
-        "A1 size",
-        "Metal frame",
-        "1 kg weight",
-        "Simple design"
-      ]
-    },
-    {
-      "id": "DS-POSTER-STAND",
-      "name": "Double Side Poster Stand",
-      "category": "Display Stand",
-      "description": "Dual-side poster stand for maximum visibility. Display on both sides.",
-      "specification": "Material: Metal frame, Poster size: Custom max 6 ft, Weight: 3 kg",
-      "size": "Custom × Max 6 ft",
-      "price": "RM 100.00",
-      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
-      "features": [
-        "Double-sided",
-        "Custom size",
-        "3 kg weight",
-        "High visibility"
-      ]
-    },
-    {
-      "id": "RPS",
-      "name": "Rotating Poster Stand",
-      "category": "Display Stand",
-      "description": "Rotating poster stand with spinning top for dynamic displays. A1 size.",
-      "specification": "Material: Metal frame, Poster size: A1, Weight: 3.4 kg, Feature: Rotating top",
-      "size": "A1 Size",
-      "price": "RM 40 / RM 60",
-      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
-      "features": [
-        "Rotating top",
-        "A1 size",
-        "3.4 kg weight",
-        "Dynamic display"
-      ]
-    },
-    {
-      "id": "DS-S",
-      "name": "Door Stand (Small)",
-      "category": "Display Stand",
-      "description": "Swing-type door frame stand for entrances and walkways. 80×180 cm size.",
-      "specification": "Material: Metal frame, Size: 80×180 cm, Weight: 4 kg",
-      "size": "80 cm × 180 cm",
-      "price": "RM 35",
-      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=400&fit=crop",
-      "features": [
-        "Swing-type",
-        "Door frame",
-        "4 kg weight",
-        "Entrance display"
-      ]
-    },
-    {
-      "id": "ABS",
-      "name": "A-Board Stand",
-      "category": "Display Stand",
-      "description": "Metal sandwich board A-frame for sidewalk and entrance displays.",
-      "specification": "Material: Metal A-frame, Size: 60×80 cm, Weight: 2.4 kg",
-      "size": "60 cm × 80 cm",
-      "price": "RM 60 (w/o board) / RM 80 (with board)",
-      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=600&h=400&fit=crop",
-      "features": [
-        "A-board design",
-        "Sidewalk display",
-        "2.4 kg weight",
-        "Sandwich board"
-      ]
-    },
-    {
-      "id": "PS-A3",
-      "name": "A3 Poster Stand",
-      "category": "Display Stand",
-      "description": "Table poster stand for A3 size displays. Perfect for countertop promotions.",
-      "specification": "Material: Metal frame, Poster size: A3, Weight: 3.2 kg",
-      "size": "A3 Size",
-      "price": "RM 80",
-      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
-      "features": [
-        "A3 size",
-        "Table-top",
-        "3.2 kg weight",
-        "Countertop display"
-      ]
-    },
-    {
-      "id": "ZZ-STAND",
-      "name": "Zig Zag Stand",
-      "category": "Display Stand",
-      "description": "Literature rack with zig-zag folding design for brochures and flyers. A4 size.",
-      "specification": "Material: Metal frame, Document size: A4, Weight: 5.2 kg",
-      "size": "A4 Size",
-      "price": "RM 500.00",
-      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop",
-      "features": [
-        "Zig-zag design",
-        "Literature rack",
-        "5.2 kg weight",
-        "A4 documents"
-      ]
-    },
-    {
-      "id": "IBT",
-      "name": "Iron Brochure Table",
-      "category": "Display Stand",
-      "description": "Small info stand table for brochures and promotional materials. A3 size.",
-      "specification": "Material: Iron frame, Document size: A3, Weight: 5 kg",
-      "size": "A3 Size",
-      "price": "RM 200",
-      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop",
-      "features": [
-        "A3 size",
-        "Info table",
-        "5 kg weight",
-        "Brochure display"
-      ]
-    },
-    {
-      "id": "BRO-STAND",
-      "name": "Brochure Stand",
-      "category": "Display Stand",
-      "description": "Floor display stand for A4 brochures and marketing materials. Multi-tier design.",
-      "specification": "Material: Metal frame, Document size: A4, Weight: 5.1 kg",
-      "size": "A4 Size",
-      "price": "RM 625.00",
-      "image": "https://images.unsplash.com/photo-1484788984921-03950022c9ef?w=600&h=400&fit=crop",
-      "features": [
-        "Floor standing",
-        "A4 documents",
-        "5.1 kg weight",
-        "Multi-tier"
-      ]
-    },
-    {
-      "id": "A-STAND-HB",
-      "name": "A-Stand (H-B)",
-      "category": "Display Stand",
-      "description": "Foldable A-frame stand with banner support. Custom size up to 6.5 ft height.",
-      "specification": "Material: Metal A-frame, Height: Max 6.5 ft, Weight: 1.1 kg",
-      "size": "Custom × 6.5 ft",
-      "price": "Contact for pricing",
-      "image": "https://images.unsplash.com/photo-1531973576160-7125cd663d86?w=600&h=400&fit=crop",
-      "features": [
-        "Foldable design",
-        "6.5 ft max height",
-        "1.1 kg weight",
-        "Custom size"
-      ]
-    },
-    {
       "id": "BOOTH-3X3-01",
       "name": "Exhibition Booth 3x3 - Essential",
       "category": "Exhibition Booth 3x3",
@@ -3149,6 +1869,2137 @@
         "Setup included",
         "Flexible duration",
         "Delivery & collection"
+      ]
+    },
+    {
+      "id": "CT3-STAND",
+      "code": "CT3-STAND",
+      "name": "Tripod Stand",
+      "category": "Display Stand",
+      "description": "Versatile tripod stand for custom-sized banners up to 6 feet high. Lightweight and portable solution for events and exhibitions.",
+      "specification": "Material: Aluminum, Adjustable height up to 6ft, Suitable for custom width banners",
+      "size": "Custom W × max 6 ft H",
+      "weight": "1.00 KG",
+      "price": "RM 37.50",
+      "image": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?w=600&h=400&fit=crop",
+      "features": [
+        "Lightweight at 1kg",
+        "Adjustable height",
+        "Custom width support",
+        "Easy setup"
+      ]
+    },
+    {
+      "id": "T-STAND-RB",
+      "code": "T-STAND (R/B)",
+      "name": "T-Stand Round Base",
+      "category": "Display Stand",
+      "description": "Stable T-stand with round base for custom banners. Professional display solution with sturdy construction.",
+      "specification": "Material: Aluminum with round base, Height adjustable up to 6ft",
+      "size": "Custom W × max 6 ft H",
+      "weight": "1.80 KG",
+      "price": "RM 62.50",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
+      "features": [
+        "Round base for stability",
+        "1.8kg weight",
+        "Adjustable height",
+        "Professional finish"
+      ]
+    },
+    {
+      "id": "X-STAND-32",
+      "code": "X-STAND (32)",
+      "name": "X-Stand Gear",
+      "category": "Display Stand",
+      "description": "Compact X-Stand with gear adjustment system. Perfect for budget-friendly banner displays.",
+      "specification": "Material: Steel frame with gear adjustment, Folding design",
+      "size": "2 ft W × 5 ft H",
+      "weight": "0.50 KG",
+      "price": "RM 37.50",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&h=400&fit=crop",
+      "features": [
+        "Ultra-lightweight 0.5kg",
+        "Gear adjustment",
+        "Foldable design",
+        "Budget-friendly"
+      ]
+    },
+    {
+      "id": "X-STAND-3C",
+      "code": "X-STAND (3C)",
+      "name": "X-Stand Korea",
+      "category": "Display Stand",
+      "description": "Premium Korean-style X-Stand with larger display area. Enhanced stability and professional appearance.",
+      "specification": "Material: Premium aluminum frame, Korean design",
+      "size": "2.5 ft W × 6 ft H",
+      "weight": "1.10 KG",
+      "price": "RM 62.50",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=600&h=400&fit=crop",
+      "features": [
+        "Korean premium design",
+        "Larger display area",
+        "Enhanced stability",
+        "Professional grade"
+      ]
+    },
+    {
+      "id": "X-STAND-MINI-A4",
+      "code": "X-STAND(MINI)-A4",
+      "name": "Mini X-Stand A4",
+      "category": "Display Stand",
+      "description": "Desktop mini X-Stand for A4-sized posters. Perfect for countertop displays and small promotional materials.",
+      "specification": "Material: Plastic/Light aluminum, A4 poster size",
+      "size": "A4",
+      "weight": "0.20 KG",
+      "price": "RM 12.50",
+      "image": "https://images.unsplash.com/photo-1586769852836-bc069f19e1b6?w=600&h=400&fit=crop",
+      "features": [
+        "Desktop size",
+        "A4 format",
+        "Ultra-light 0.2kg",
+        "Affordable solution"
+      ]
+    },
+    {
+      "id": "X-STAND-MINI-A3",
+      "code": "X-STAND(MINI)-A3",
+      "name": "Mini X-Stand A3",
+      "category": "Display Stand",
+      "description": "Desktop mini X-Stand for A3-sized posters. Ideal for table displays and point-of-sale promotions.",
+      "specification": "Material: Plastic/Light aluminum, A3 poster size",
+      "size": "A3",
+      "weight": "0.20 KG",
+      "price": "RM 12.50",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&h=400&fit=crop",
+      "features": [
+        "Desktop size",
+        "A3 format",
+        "Ultra-light 0.2kg",
+        "Easy portability"
+      ]
+    },
+    {
+      "id": "X-STAND-WATER-TANK",
+      "code": "X-STAND(WATER-TANK)",
+      "name": "X-Stand Water Tank",
+      "category": "Display Stand",
+      "description": "Heavy-duty X-Stand with water tank base for outdoor stability. Weather-resistant solution for outdoor events.",
+      "specification": "Material: Steel frame with water-fillable base, Outdoor-rated",
+      "size": "2 ft W × 5–6 ft H",
+      "weight": "2.00 KG",
+      "price": "RM 150.00",
+      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&h=400&fit=crop",
+      "features": [
+        "Water tank base",
+        "Outdoor stability",
+        "Weather-resistant",
+        "Adjustable height"
+      ]
+    },
+    {
+      "id": "X-STAND-BPACK",
+      "code": "X-STAND-B.PACK",
+      "name": "Backpack X-Stand",
+      "category": "Display Stand",
+      "description": "Innovative backpack-style X-Stand with integrated carrying system. Ultimate portability for mobile promotions.",
+      "specification": "Material: Aluminum frame with fabric backpack, Integrated carrying system",
+      "size": "45 × 120 cm",
+      "weight": "0.50 KG",
+      "price": "RM 250.00",
+      "image": "https://images.unsplash.com/photo-1553531087-6c1e00b6d1b3?w=600&h=400&fit=crop",
+      "features": [
+        "Backpack design",
+        "Ultra-portable",
+        "Hands-free carrying",
+        "Mobile promotion"
+      ]
+    },
+    {
+      "id": "A-STAND-HB",
+      "code": "A-STAND (H-B)",
+      "name": "A-Stand",
+      "category": "Display Stand",
+      "description": "Classic A-Stand for custom banners. Versatile indoor display solution with easy setup.",
+      "specification": "Material: Aluminum A-frame, Adjustable height",
+      "size": "Custom W × max 6.5 ft H",
+      "weight": "1.10 KG",
+      "price": "RM 37.50",
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600&h=400&fit=crop",
+      "features": [
+        "A-frame design",
+        "Custom width",
+        "Lightweight 1.1kg",
+        "Easy assembly"
+      ]
+    },
+    {
+      "id": "EWS-1.5M",
+      "code": "EWS-1.5M",
+      "name": "Wooden Easel 1.5 m",
+      "category": "Display Stand",
+      "description": "Classic wooden easel for artistic displays and presentations. Elegant natural wood finish.",
+      "specification": "Material: Natural wood, Classic easel design",
+      "size": "Custom W × 32 in H",
+      "weight": "2.00 KG",
+      "price": "RM 100.00",
+      "image": "https://images.unsplash.com/photo-1578489758854-f134a358f08b?w=600&h=400&fit=crop",
+      "features": [
+        "Natural wood",
+        "Classic design",
+        "Artistic display",
+        "Elegant finish"
+      ]
+    },
+    {
+      "id": "EWS-1.7M",
+      "code": "EWS-1.7M",
+      "name": "Wooden Easel 1.7 m",
+      "category": "Display Stand",
+      "description": "Large wooden easel for bigger displays and artwork. Premium wood construction with adjustable height.",
+      "specification": "Material: Premium natural wood, Adjustable height easel",
+      "size": "Custom W × max 5 ft H",
+      "weight": "3.00 KG",
+      "price": "RM 150.00",
+      "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&h=400&fit=crop",
+      "features": [
+        "Large size",
+        "Premium wood",
+        "Adjustable height",
+        "Sturdy construction"
+      ]
+    },
+    {
+      "id": "PS-B",
+      "code": "PS-(B)",
+      "name": "Metal Poster Stand",
+      "category": "Display Stand",
+      "description": "Heavy-duty metal poster stand for A2 displays. Professional grade with weighted base.",
+      "specification": "Material: Heavy-duty metal, A2 size holder, Weighted base",
+      "size": "A2",
+      "weight": "3.40 KG",
+      "price": "RM 150.00",
+      "image": "https://images.unsplash.com/photo-1573496546735-c0f9abda8ac3?w=600&h=400&fit=crop",
+      "features": [
+        "Heavy-duty metal",
+        "A2 format",
+        "Weighted base",
+        "Premium quality"
+      ]
+    },
+    {
+      "id": "PS",
+      "code": "PS",
+      "name": "Poster Stand A1",
+      "category": "Display Stand",
+      "description": "Standard poster stand for A1-sized displays. Affordable and practical solution for indoor promotions.",
+      "specification": "Material: Aluminum/Steel, A1 size holder",
+      "size": "A1",
+      "weight": "1.00 KG",
+      "price": "RM 50.00",
+      "image": "https://images.unsplash.com/photo-1573497161161-c3e73707e25c?w=600&h=400&fit=crop",
+      "features": [
+        "A1 format",
+        "Lightweight 1kg",
+        "Budget-friendly",
+        "Indoor use"
+      ]
+    },
+    {
+      "id": "DS-POSTER-STAND",
+      "code": "DS.POSTER STAND",
+      "name": "Double-side Poster",
+      "category": "Display Stand",
+      "description": "Double-sided poster stand for maximum visibility. Display different messages on each side.",
+      "specification": "Material: Aluminum frame, Double-sided display, Adjustable height",
+      "size": "Custom W × max 6 ft H",
+      "weight": "3.00 KG",
+      "price": "RM 100.00",
+      "image": "https://images.unsplash.com/photo-1560264357-8d9202250f21?w=600&h=400&fit=crop",
+      "features": [
+        "Double-sided",
+        "Maximum visibility",
+        "Custom width",
+        "Adjustable height"
+      ]
+    },
+    {
+      "id": "RPS",
+      "code": "RPS",
+      "name": "Rotating Poster Stand",
+      "category": "Display Stand",
+      "description": "Rotating poster stand for A1 displays. 360-degree rotation for enhanced visibility.",
+      "specification": "Material: Metal with rotating mechanism, A1 size, 360° rotation",
+      "size": "A1",
+      "weight": "3.00 KG",
+      "price": "RM 100.00",
+      "image": "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=600&h=400&fit=crop",
+      "features": [
+        "360° rotation",
+        "A1 format",
+        "Enhanced visibility",
+        "Smooth mechanism"
+      ]
+    },
+    {
+      "id": "DS-S-L",
+      "code": "DS(S) / DS(L)",
+      "name": "Door Stand",
+      "category": "Display Stand",
+      "description": "Door-mounted display stand for entrance promotions. Easy installation without tools.",
+      "specification": "Material: Aluminum/Plastic, Door mounting system",
+      "size": "80 × 180 cm",
+      "weight": "2.00 KG",
+      "price": "RM 87.50",
+      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=600&h=400&fit=crop",
+      "features": [
+        "Door mounting",
+        "Tool-free install",
+        "Entrance display",
+        "2kg weight"
+      ]
+    },
+    {
+      "id": "LDS-TABLE-A",
+      "code": "LDS-TABLE-A",
+      "name": "Lucky-Draw Table A",
+      "category": "Display Stand",
+      "description": "Premium lucky draw table with acrylic drum. Transparent design with smooth rotation mechanism.",
+      "specification": "Material: Acrylic drum with metal stand, Premium quality, Smooth rotation",
+      "size": "60 × 60 cm",
+      "weight": "4.00 KG",
+      "price": "RM 300.00",
+      "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600&h=400&fit=crop",
+      "features": [
+        "Acrylic drum",
+        "Smooth rotation",
+        "Premium quality",
+        "Transparent design"
+      ]
+    },
+    {
+      "id": "LDS-TABLE-B",
+      "code": "LDS-TABLE-B",
+      "name": "Lucky-Draw Table B",
+      "category": "Display Stand",
+      "description": "Standard lucky draw table for events. Affordable solution for promotional activities.",
+      "specification": "Material: Plastic drum with metal stand, Standard quality",
+      "size": "60 × 60 cm",
+      "weight": "4.00 KG",
+      "price": "RM 150.00",
+      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop",
+      "features": [
+        "Standard quality",
+        "Affordable",
+        "Event solution",
+        "Easy rotation"
+      ]
+    },
+    {
+      "id": "ABS",
+      "code": "ABS",
+      "name": "A-Board Stand",
+      "category": "Display Stand",
+      "description": "Classic A-Board sidewalk sign. Weather-resistant for outdoor storefronts and events.",
+      "specification": "Material: Metal/Plastic frame with poster holders, Weather-resistant",
+      "size": "60 × 80 cm",
+      "weight": "2.40 KG",
+      "price": "RM 150.00",
+      "priceDouble": "RM 200.00",
+      "image": "https://images.unsplash.com/photo-1590649880765-91b1956d8276?w=600&h=400&fit=crop",
+      "features": [
+        "A-Board design",
+        "Weather-resistant",
+        "Sidewalk display",
+        "Easy update"
+      ]
+    },
+    {
+      "id": "LDS-60CM",
+      "code": "LDS-60CM",
+      "name": "Lucky-Draw Stand S",
+      "category": "Display Stand",
+      "description": "Small lucky draw stand with drum. Compact size perfect for tabletop placement.",
+      "specification": "Material: Acrylic drum with metal frame, Compact design",
+      "size": "59.7 × 59.7 cm",
+      "weight": "5.00 KG",
+      "price": "RM 250.00",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
+      "features": [
+        "Compact size",
+        "Tabletop use",
+        "Acrylic drum",
+        "5kg weight"
+      ]
+    },
+    {
+      "id": "LDS-80CM",
+      "code": "LDS-80CM",
+      "name": "Lucky-Draw Stand L",
+      "category": "Display Stand",
+      "description": "Large lucky draw stand for major events. Free-standing design with stable base.",
+      "specification": "Material: Acrylic drum with heavy-duty metal frame, Free-standing",
+      "size": "80 × 80 cm",
+      "weight": "5.00 KG",
+      "price": "RM 375.00",
+      "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=600&h=400&fit=crop",
+      "features": [
+        "Large size",
+        "Free-standing",
+        "Heavy-duty",
+        "Major events"
+      ]
+    },
+    {
+      "id": "HANGER-DS-ABOARD",
+      "code": "HANGER-DS-ABOARD",
+      "name": "Hanger Double A-Board",
+      "category": "Display Stand",
+      "description": "Innovative hanger display with double A-Board functionality. Versatile merchandising solution.",
+      "specification": "Material: Metal frame with hanger bar and poster holders",
+      "size": "60 × 80 cm",
+      "weight": "2.40 KG",
+      "price": "RM 250.00",
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=400&fit=crop",
+      "features": [
+        "Hanger display",
+        "Double-sided",
+        "Merchandising",
+        "Versatile use"
+      ]
+    },
+    {
+      "id": "PS-A3",
+      "code": "PS-A3",
+      "name": "A3 Poster Stand",
+      "category": "Display Stand",
+      "description": "Premium A3 poster stand with weighted base. Professional presentation solution.",
+      "specification": "Material: Premium metal, A3 size, Weighted base",
+      "size": "A3",
+      "weight": "3.20 KG",
+      "price": "RM 200.00",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "features": [
+        "A3 format",
+        "Premium metal",
+        "Weighted base",
+        "Professional"
+      ]
+    },
+    {
+      "id": "ZZ-STAND",
+      "code": "ZZ-STAND",
+      "name": "Zig-Zag no box",
+      "category": "Display Stand",
+      "description": "Zig-zag brochure display stand. Multi-tier literature holder without carrying case.",
+      "specification": "Material: Metal frame with A4 pockets, Multi-tier design",
+      "size": "A4",
+      "weight": "5.20 KG",
+      "price": "RM 500.00",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+      "features": [
+        "Zig-zag design",
+        "Multi-tier",
+        "A4 pockets",
+        "Literature display"
+      ]
+    },
+    {
+      "id": "ZZ-STAND-AB",
+      "code": "ZZ-STAND(AB)",
+      "name": "Zig-Zag with Alu-box",
+      "category": "Display Stand",
+      "description": "Zig-zag brochure stand with aluminum carrying case. Premium presentation with transport solution.",
+      "specification": "Material: Metal frame with A4 pockets, Includes aluminum case",
+      "size": "A4",
+      "weight": "5.20 KG",
+      "price": "RM 625.00",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop",
+      "features": [
+        "Aluminum case",
+        "Premium quality",
+        "Easy transport",
+        "Professional"
+      ]
+    },
+    {
+      "id": "IBT",
+      "code": "IBT",
+      "name": "Iron Brochure Table",
+      "category": "Display Stand",
+      "description": "Compact iron brochure table for literature distribution. Sturdy metal construction.",
+      "specification": "Material: Iron frame with A3 display area",
+      "size": "A3",
+      "weight": "5.00 KG",
+      "price": "RM 500.00",
+      "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=600&h=400&fit=crop",
+      "features": [
+        "Iron construction",
+        "A3 display",
+        "Sturdy design",
+        "Compact size"
+      ]
+    },
+    {
+      "id": "BRO-STAND",
+      "code": "BRO-STAND",
+      "name": "Brochure Stand",
+      "category": "Display Stand",
+      "description": "Professional brochure stand with multiple A4 pockets. Ideal for marketing materials distribution.",
+      "specification": "Material: Metal frame with multiple A4 pockets",
+      "size": "A4",
+      "weight": "5.10 KG",
+      "price": "RM 625.00",
+      "image": "https://images.unsplash.com/photo-1553531087-6c1e00b6d1b3?w=600&h=400&fit=crop",
+      "features": [
+        "Multiple pockets",
+        "A4 format",
+        "Professional",
+        "Marketing display"
+      ]
+    },
+    {
+      "id": "ROLL-80",
+      "code": "ROLL-80",
+      "name": "Roll-Up 80 cm (Basic)",
+      "category": "Roll-Up System",
+      "description": "Basic 80cm roll-up banner stand. Affordable solution for indoor promotions and displays.",
+      "specification": "Material: Aluminum base with spring mechanism, Basic quality, PET/PVC banner material",
+      "size": "80 × 200 cm",
+      "weight": "2.20 KG",
+      "price": "RM 150.00",
+      "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=600&h=400&fit=crop",
+      "features": [
+        "Basic quality",
+        "Affordable",
+        "2.2kg weight",
+        "Spring mechanism"
+      ]
+    },
+    {
+      "id": "ROLL-85",
+      "code": "ROLL-85",
+      "name": "Roll-Up 85 cm (Basic)",
+      "category": "Roll-Up System",
+      "description": "Basic 85cm roll-up banner stand. Standard width for versatile indoor displays.",
+      "specification": "Material: Aluminum base with spring mechanism, Basic quality",
+      "size": "85 × 200 cm",
+      "weight": "2.30 KG",
+      "price": "RM 175.00",
+      "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&h=400&fit=crop",
+      "features": [
+        "Standard width",
+        "Indoor display",
+        "2.3kg weight",
+        "Affordable"
+      ]
+    },
+    {
+      "id": "ROLL-100",
+      "code": "ROLL-100",
+      "name": "Roll-Up 100 cm",
+      "category": "Roll-Up System",
+      "description": "1-meter roll-up banner stand. Popular size for trade shows and retail displays.",
+      "specification": "Material: Aluminum base with spring mechanism, Standard quality",
+      "size": "100 × 200 cm",
+      "weight": "2.50 KG",
+      "price": "RM 200.00",
+      "image": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?w=600&h=400&fit=crop",
+      "features": [
+        "1-meter width",
+        "Popular size",
+        "Trade shows",
+        "2.5kg weight"
+      ]
+    },
+    {
+      "id": "ROLL-120",
+      "code": "ROLL-120",
+      "name": "Roll-Up 120 cm",
+      "category": "Roll-Up System",
+      "description": "1.2-meter roll-up banner for enhanced visibility. Wider display area for impact messaging.",
+      "specification": "Material: Aluminum base with spring mechanism, Enhanced width",
+      "size": "120 × 200 cm",
+      "weight": "2.70 KG",
+      "price": "RM 250.00",
+      "image": "https://images.unsplash.com/photo-1553531087-6c1e00b6d1b3?w=600&h=400&fit=crop",
+      "features": [
+        "Wide display",
+        "Enhanced visibility",
+        "2.7kg weight",
+        "Impact messaging"
+      ]
+    },
+    {
+      "id": "ROLL-150",
+      "code": "ROLL-150",
+      "name": "Roll-Up 150 cm",
+      "category": "Roll-Up System",
+      "description": "1.5-meter roll-up banner for maximum impact. Large format display for prominent placements.",
+      "specification": "Material: Aluminum base with spring mechanism, Large format",
+      "size": "150 × 200 cm",
+      "weight": "3.00 KG",
+      "price": "RM 300.00",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=600&h=400&fit=crop",
+      "features": [
+        "Maximum width",
+        "Large format",
+        "3kg weight",
+        "Prominent display"
+      ]
+    },
+    {
+      "id": "ROLL-DOUBLE",
+      "code": "ROLL-DOUBLE",
+      "name": "Double Side Roll-Up",
+      "category": "Roll-Up System",
+      "description": "Double-sided roll-up banner stand. Display two messages for maximum visibility from all angles.",
+      "specification": "Material: Aluminum base with dual spring mechanisms, Double-sided printing",
+      "size": "85 × 200 cm",
+      "weight": "3.20 KG",
+      "price": "RM 375.00",
+      "image": "https://images.unsplash.com/photo-1560264357-8d9202250f21?w=600&h=400&fit=crop",
+      "features": [
+        "Double-sided",
+        "Dual messages",
+        "360° visibility",
+        "3.2kg weight"
+      ]
+    },
+    {
+      "id": "ROLL-PREM-85",
+      "code": "ROLL-PREM-85",
+      "name": "Premium Roll-Up 85 cm",
+      "category": "Roll-Up System",
+      "description": "Premium 85cm roll-up with enhanced stability. Professional-grade construction and smooth mechanism.",
+      "specification": "Material: Premium aluminum base, Enhanced spring mechanism, Professional quality",
+      "size": "85 × 200 cm",
+      "weight": "3.00 KG",
+      "price": "RM 375.00",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "features": [
+        "Premium quality",
+        "Enhanced stability",
+        "Smooth mechanism",
+        "Professional grade"
+      ]
+    },
+    {
+      "id": "ROLL-PREM-120",
+      "code": "ROLL-PREM-120",
+      "name": "Premium Roll-Up 120 cm",
+      "category": "Roll-Up System",
+      "description": "Premium 120cm roll-up for professional presentations. Wide format with superior build quality.",
+      "specification": "Material: Premium aluminum base, Enhanced spring mechanism, Wide format",
+      "size": "120 × 200 cm",
+      "weight": "3.50 KG",
+      "price": "RM 450.00",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
+      "features": [
+        "Wide format",
+        "Premium build",
+        "Professional",
+        "3.5kg weight"
+      ]
+    },
+    {
+      "id": "ROLL-LUX-85",
+      "code": "ROLL-LUX-85",
+      "name": "Luxury Roll-Up 85 cm",
+      "category": "Roll-Up System",
+      "description": "Luxury 85cm roll-up with premium finish. Top-tier construction with elegant design.",
+      "specification": "Material: Luxury aluminum base with anodized finish, Premium mechanism",
+      "size": "85 × 200 cm",
+      "weight": "4.00 KG",
+      "price": "RM 500.00",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+      "features": [
+        "Luxury finish",
+        "Anodized aluminum",
+        "Elegant design",
+        "Top-tier quality"
+      ]
+    },
+    {
+      "id": "ROLL-LUX-120",
+      "code": "ROLL-LUX-120",
+      "name": "Luxury Roll-Up 120 cm",
+      "category": "Roll-Up System",
+      "description": "Luxury 120cm roll-up with premium finish. Wide format with top-tier construction and elegant design.",
+      "specification": "Material: Luxury aluminum base with anodized finish, Wide format, Premium mechanism",
+      "size": "120 × 200 cm",
+      "weight": "4.30 KG",
+      "price": "RM 600.00",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop",
+      "features": [
+        "Wide luxury format",
+        "Premium finish",
+        "Elegant design",
+        "4.3kg weight"
+      ]
+    },
+    {
+      "id": "MINI-ROLL-A4",
+      "code": "MINI-ROLL-A4",
+      "name": "Mini Roll-Up A4",
+      "category": "Roll-Up System",
+      "description": "Desktop mini roll-up for A4 displays. Perfect for countertop promotions and small spaces.",
+      "specification": "Material: Compact aluminum base, A4 size, Desktop design",
+      "size": "A4",
+      "weight": "0.30 KG",
+      "price": "RM 37.50",
+      "image": "https://images.unsplash.com/photo-1586769852836-bc069f19e1b6?w=600&h=400&fit=crop",
+      "features": [
+        "Desktop size",
+        "A4 format",
+        "Ultra-light 0.3kg",
+        "Countertop display"
+      ]
+    },
+    {
+      "id": "MINI-ROLL-A3",
+      "code": "MINI-ROLL-A3",
+      "name": "Mini Roll-Up A3",
+      "category": "Roll-Up System",
+      "description": "Desktop mini roll-up for A3 displays. Larger desktop format for enhanced visibility.",
+      "specification": "Material: Compact aluminum base, A3 size, Desktop design",
+      "size": "A3",
+      "weight": "0.40 KG",
+      "price": "RM 50.00",
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=600&h=400&fit=crop",
+      "features": [
+        "Desktop size",
+        "A3 format",
+        "0.4kg weight",
+        "Enhanced visibility"
+      ]
+    },
+    {
+      "id": "TABLE-ROLL-A4",
+      "code": "TABLE-ROLL-A4",
+      "name": "Table Roll-Up A4",
+      "category": "Roll-Up System",
+      "description": "Table-top roll-up stand for A4 presentations. Compact solution for desk displays and meetings.",
+      "specification": "Material: Table-top aluminum base, A4 size",
+      "size": "A4",
+      "weight": "0.40 KG",
+      "price": "RM 37.50",
+      "image": "https://images.unsplash.com/photo-1573496546735-c0f9abda8ac3?w=600&h=400&fit=crop",
+      "features": [
+        "Table-top",
+        "A4 format",
+        "0.4kg weight",
+        "Meeting display"
+      ]
+    },
+    {
+      "id": "TABLE-ROLL-A3",
+      "code": "TABLE-ROLL-A3",
+      "name": "Table Roll-Up A3",
+      "category": "Roll-Up System",
+      "description": "Table-top roll-up stand for A3 presentations. Larger table format for presentations and meetings.",
+      "specification": "Material: Table-top aluminum base, A3 size",
+      "size": "A3",
+      "weight": "0.50 KG",
+      "price": "RM 50.00",
+      "image": "https://images.unsplash.com/photo-1573497161161-c3e73707e25c?w=600&h=400&fit=crop",
+      "features": [
+        "Table-top",
+        "A3 format",
+        "0.5kg weight",
+        "Presentation display"
+      ]
+    },
+    {
+      "id": "OUTDOOR-ROLL",
+      "code": "OUTDOOR-ROLL",
+      "name": "Outdoor Roll-Up",
+      "category": "Roll-Up System",
+      "description": "Heavy-duty outdoor roll-up banner. Weather-resistant with weighted base for outdoor events.",
+      "specification": "Material: Heavy-duty aluminum with weighted base, Weather-resistant, UV-protected banner",
+      "size": "80 × 200 cm",
+      "weight": "6.00 KG",
+      "price": "RM 625.00",
+      "image": "https://images.unsplash.com/photo-1590649880765-91b1956d8276?w=600&h=400&fit=crop",
+      "features": [
+        "Weather-resistant",
+        "Weighted base",
+        "UV-protected",
+        "6kg heavy-duty"
+      ]
+    },
+    {
+      "id": "D-ROLL-85",
+      "code": "D-ROLL-85",
+      "name": "Deluxe Roll-Up 85 cm",
+      "category": "Roll-Up System",
+      "description": "Deluxe 85cm roll-up with enhanced features. Mid-tier quality with professional appearance.",
+      "specification": "Material: Deluxe aluminum base, Enhanced mechanism, Professional finish",
+      "size": "85 × 200 cm",
+      "weight": "3.00 KG",
+      "price": "RM 300.00",
+      "image": "https://images.unsplash.com/photo-1560264357-8d9202250f21?w=600&h=400&fit=crop",
+      "features": [
+        "Deluxe quality",
+        "Enhanced features",
+        "Professional",
+        "3kg weight"
+      ]
+    },
+    {
+      "id": "D-ROLL-120",
+      "code": "D-ROLL-120",
+      "name": "Deluxe Roll-Up 120 cm",
+      "category": "Roll-Up System",
+      "description": "Deluxe 120cm roll-up with enhanced features. Wide format with mid-tier quality construction.",
+      "specification": "Material: Deluxe aluminum base, Wide format, Enhanced mechanism",
+      "size": "120 × 200 cm",
+      "weight": "3.50 KG",
+      "price": "RM 375.00",
+      "image": "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=600&h=400&fit=crop",
+      "features": [
+        "Wide deluxe format",
+        "Enhanced quality",
+        "Professional",
+        "3.5kg weight"
+      ]
+    },
+    {
+      "id": "ECO-ROLL-80",
+      "code": "ECO-ROLL-80",
+      "name": "Eco Roll-Up 80 cm",
+      "category": "Roll-Up System",
+      "description": "Economy 80cm roll-up banner. Budget-friendly solution for short-term promotions.",
+      "specification": "Material: Economy aluminum base, Basic mechanism, Budget quality",
+      "size": "80 × 200 cm",
+      "weight": "2.00 KG",
+      "price": "RM 125.00",
+      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=600&h=400&fit=crop",
+      "features": [
+        "Economy price",
+        "Budget-friendly",
+        "2kg weight",
+        "Short-term use"
+      ]
+    },
+    {
+      "id": "ECO-ROLL-85",
+      "code": "ECO-ROLL-85",
+      "name": "Eco Roll-Up 85 cm",
+      "category": "Roll-Up System",
+      "description": "Economy 85cm roll-up banner. Affordable standard width for budget-conscious promotions.",
+      "specification": "Material: Economy aluminum base, Basic mechanism, Budget quality",
+      "size": "85 × 200 cm",
+      "weight": "2.20 KG",
+      "price": "RM 150.00",
+      "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600&h=400&fit=crop",
+      "features": [
+        "Economy price",
+        "Standard width",
+        "2.2kg weight",
+        "Budget solution"
+      ]
+    },
+    {
+      "id": "FB-243",
+      "code": "FB-243",
+      "name": "Straight Fabric Backdrop 240×230 cm",
+      "category": "Fabric System",
+      "description": "2.4m straight fabric backdrop with SEG frame. Seamless tension fabric display for professional presentations.",
+      "specification": "Material: Tension fabric with SEG aluminum frame, Dye-sublimation printing, Tool-free assembly",
+      "size": "240 × 230 cm",
+      "weight": "5.00 KG",
+      "price": "RM 1,250.00",
+      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=600&h=400&fit=crop",
+      "features": [
+        "SEG frame",
+        "Seamless fabric",
+        "Tool-free setup",
+        "Professional finish"
+      ]
+    },
+    {
+      "id": "FB-303",
+      "code": "FB-303",
+      "name": "Straight Fabric Backdrop 300×230 cm",
+      "category": "Fabric System",
+      "description": "3-meter straight fabric backdrop. Standard exhibition width for impactful displays.",
+      "specification": "Material: Tension fabric with SEG aluminum frame, Dye-sublimation printing, 3m width",
+      "size": "300 × 230 cm",
+      "weight": "6.00 KG",
+      "price": "RM 1,500.00",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
+      "features": [
+        "3m width",
+        "Exhibition standard",
+        "SEG frame",
+        "6kg weight"
+      ]
+    },
+    {
+      "id": "FB-604",
+      "code": "FB-604",
+      "name": "Straight Fabric Backdrop 600×230 cm",
+      "category": "Fabric System",
+      "description": "6-meter straight fabric backdrop. Large format for major exhibition backdrops and main displays.",
+      "specification": "Material: Tension fabric with SEG aluminum frame, Dye-sublimation printing, Extra-wide 6m",
+      "size": "600 × 230 cm",
+      "weight": "10.00 KG",
+      "price": "RM 2,500.00",
+      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop",
+      "features": [
+        "6m extra-wide",
+        "Large format",
+        "Major exhibitions",
+        "10kg weight"
+      ]
+    },
+    {
+      "id": "FB-CURVE-304",
+      "code": "FB-CURVE-304",
+      "name": "Curved Fabric Backdrop 300×230 cm",
+      "category": "Fabric System",
+      "description": "3-meter curved fabric backdrop. Elegant curved design for enhanced visual appeal.",
+      "specification": "Material: Tension fabric with curved SEG frame, Dye-sublimation printing, Curved design",
+      "size": "300 × 230 cm",
+      "weight": "7.00 KG",
+      "price": "RM 1,750.00",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "features": [
+        "Curved design",
+        "3m width",
+        "Visual appeal",
+        "7kg weight"
+      ]
+    },
+    {
+      "id": "FB-CURVE-604",
+      "code": "FB-CURVE-604",
+      "name": "Curved Fabric Backdrop 600×230 cm",
+      "category": "Fabric System",
+      "description": "6-meter curved fabric backdrop. Large curved format for premium exhibition displays.",
+      "specification": "Material: Tension fabric with curved SEG frame, Dye-sublimation printing, Extra-wide curved",
+      "size": "600 × 230 cm",
+      "weight": "12.00 KG",
+      "price": "RM 2,750.00",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+      "features": [
+        "6m curved",
+        "Premium design",
+        "Large format",
+        "12kg weight"
+      ]
+    },
+    {
+      "id": "FB-U-304",
+      "code": "FB-U-304",
+      "name": "U-Shape Fabric Booth 300×230 cm",
+      "category": "Fabric System",
+      "description": "Complete U-shape fabric booth system. Three-wall enclosed booth for private meeting spaces.",
+      "specification": "Material: Tension fabric with SEG frame, 3-wall U-configuration, Complete booth system",
+      "size": "300 × 230 cm",
+      "weight": "15.00 KG",
+      "price": "RM 3,500.00",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
+      "features": [
+        "U-shape booth",
+        "3-wall system",
+        "Private space",
+        "15kg weight"
+      ]
+    },
+    {
+      "id": "FB-C-303",
+      "code": "FB-C-303",
+      "name": "C-Shape Fabric Booth 300×230 cm",
+      "category": "Fabric System",
+      "description": "C-shape fabric booth configuration. Semi-enclosed booth design for versatile displays.",
+      "specification": "Material: Tension fabric with SEG frame, C-configuration, Semi-enclosed design",
+      "size": "300 × 230 cm",
+      "weight": "14.00 KG",
+      "price": "RM 3,000.00",
+      "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=600&h=400&fit=crop",
+      "features": [
+        "C-shape booth",
+        "Semi-enclosed",
+        "Versatile design",
+        "14kg weight"
+      ]
+    },
+    {
+      "id": "FB-S-303",
+      "code": "FB-S-303",
+      "name": "S-Shape Fabric Booth 300×230 cm",
+      "category": "Fabric System",
+      "description": "S-shape fabric booth with creative curved design. Unique configuration for modern displays.",
+      "specification": "Material: Tension fabric with SEG frame, S-configuration, Creative design",
+      "size": "300 × 230 cm",
+      "weight": "14.00 KG",
+      "price": "RM 3,000.00",
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=400&fit=crop",
+      "features": [
+        "S-shape design",
+        "Creative layout",
+        "Modern booth",
+        "14kg weight"
+      ]
+    },
+    {
+      "id": "FB-ARC",
+      "code": "FB-ARC",
+      "name": "Fabric Arch",
+      "category": "Fabric System",
+      "description": "Fabric arch structure for entrance displays. Eye-catching archway for booth entrances and walkways.",
+      "specification": "Material: Tension fabric with curved arch frame, Entrance structure",
+      "size": "300 × 230 cm",
+      "weight": "10.00 KG",
+      "price": "RM 2,500.00",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "features": [
+        "Arch structure",
+        "Entrance display",
+        "Eye-catching",
+        "10kg weight"
+      ]
+    },
+    {
+      "id": "FB-ARC-DOOR",
+      "code": "FB-ARC-DOOR",
+      "name": "Fabric Arch with Door",
+      "category": "Fabric System",
+      "description": "Fabric arch with integrated door panel. Complete entrance solution with access control.",
+      "specification": "Material: Tension fabric arch with door panel, Complete entrance system",
+      "size": "300 × 230 cm",
+      "weight": "12.00 KG",
+      "price": "RM 3,000.00",
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600&h=400&fit=crop",
+      "features": [
+        "Integrated door",
+        "Complete entrance",
+        "Access control",
+        "12kg weight"
+      ]
+    },
+    {
+      "id": "FB-COUNTER-S",
+      "code": "FB-COUNTER-S",
+      "name": "Fabric Counter (Small)",
+      "category": "Fabric System",
+      "description": "Small fabric counter with tension graphic wrap. Compact reception counter for booth setups.",
+      "specification": "Material: Tension fabric with counter frame, Square design, Compact size",
+      "size": "100 × 100 cm",
+      "weight": "6.00 KG",
+      "price": "RM 750.00",
+      "image": "https://images.unsplash.com/photo-1560264357-8d9202250f21?w=600&h=400&fit=crop",
+      "features": [
+        "Small counter",
+        "Fabric wrap",
+        "Compact size",
+        "6kg weight"
+      ]
+    },
+    {
+      "id": "FB-COUNTER-L",
+      "code": "FB-COUNTER-L",
+      "name": "Fabric Counter (Large)",
+      "category": "Fabric System",
+      "description": "Large fabric counter for reception areas. Extended counter space with fabric graphic wrap.",
+      "specification": "Material: Tension fabric with extended counter frame, Large size",
+      "size": "150 × 100 cm",
+      "weight": "7.00 KG",
+      "price": "RM 1,000.00",
+      "image": "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=600&h=400&fit=crop",
+      "features": [
+        "Large counter",
+        "Extended space",
+        "Reception area",
+        "7kg weight"
+      ]
+    },
+    {
+      "id": "FB-COUNTER-RND",
+      "code": "FB-COUNTER-RND",
+      "name": "Fabric Counter (Round)",
+      "category": "Fabric System",
+      "description": "Round fabric counter with 360-degree graphics. Circular design for central display positions.",
+      "specification": "Material: Tension fabric with round frame, 360° graphics, Diameter 60cm",
+      "size": "Dia 60 × 100 cm",
+      "weight": "6.00 KG",
+      "price": "RM 1,000.00",
+      "image": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?w=600&h=400&fit=crop",
+      "features": [
+        "Round design",
+        "360° graphics",
+        "Central display",
+        "6kg weight"
+      ]
+    },
+    {
+      "id": "FB-COUNTER-CURVE",
+      "code": "FB-COUNTER-CURVE",
+      "name": "Fabric Counter (Curved)",
+      "category": "Fabric System",
+      "description": "Curved fabric counter with elegant design. Curved front panel for modern reception areas.",
+      "specification": "Material: Tension fabric with curved frame, Modern design",
+      "size": "150 × 100 cm",
+      "weight": "7.00 KG",
+      "price": "RM 1,000.00",
+      "image": "https://images.unsplash.com/photo-1553531087-6c1e00b6d1b3?w=600&h=400&fit=crop",
+      "features": [
+        "Curved design",
+        "Elegant look",
+        "Modern reception",
+        "7kg weight"
+      ]
+    },
+    {
+      "id": "FB-TOWER",
+      "code": "FB-TOWER",
+      "name": "Fabric Tower Stand",
+      "category": "Fabric System",
+      "description": "Tall fabric tower for visibility from distance. Vertical tower display for booth identification.",
+      "specification": "Material: Tension fabric with tall tower frame, High-visibility design",
+      "size": "80 × 230 cm",
+      "weight": "8.00 KG",
+      "price": "RM 1,500.00",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=600&h=400&fit=crop",
+      "features": [
+        "Tall tower",
+        "High visibility",
+        "Booth ID",
+        "8kg weight"
+      ]
+    },
+    {
+      "id": "FB-TRI-TOWER",
+      "code": "FB-TRI-TOWER",
+      "name": "Triangular Fabric Tower",
+      "category": "Fabric System",
+      "description": "Triangular fabric tower with three-sided graphics. Unique tower shape for 360-degree branding.",
+      "specification": "Material: Tension fabric with triangular frame, 3-sided graphics",
+      "size": "100 × 230 cm",
+      "weight": "8.00 KG",
+      "price": "RM 1,750.00",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
+      "features": [
+        "Triangular shape",
+        "3-sided graphics",
+        "360° branding",
+        "8kg weight"
+      ]
+    },
+    {
+      "id": "FB-ARC-TOWER",
+      "code": "FB-ARC-TOWER",
+      "name": "Arch Tower",
+      "category": "Fabric System",
+      "description": "Arch-shaped fabric tower structure. Decorative arch tower for booth corners and entrances.",
+      "specification": "Material: Tension fabric with arch tower frame, Decorative design",
+      "size": "250 × 250 cm",
+      "weight": "12.00 KG",
+      "price": "RM 2,000.00",
+      "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=600&h=400&fit=crop",
+      "features": [
+        "Arch tower",
+        "Decorative",
+        "Corner display",
+        "12kg weight"
+      ]
+    },
+    {
+      "id": "FB-BOOTH-KIT-A",
+      "code": "FB-BOOTH-KIT-A",
+      "name": "Booth Kit A (3×3 m)",
+      "category": "Fabric System",
+      "description": "Complete 3×3m fabric booth kit. All-inclusive booth package with backdrop, counter, and accessories.",
+      "specification": "Material: Complete tension fabric system, 3×3m booth, Includes backdrop, counter, lighting",
+      "size": "3×3 m",
+      "weight": "18.00 KG",
+      "price": "RM 5,500.00",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "features": [
+        "Complete kit",
+        "3×3m booth",
+        "All-inclusive",
+        "18kg weight"
+      ]
+    },
+    {
+      "id": "FB-BOOTH-KIT-B",
+      "code": "FB-BOOTH-KIT-B",
+      "name": "Booth Kit B (3×3 m)",
+      "category": "Fabric System",
+      "description": "Enhanced 3×3m fabric booth kit with premium features. Upgraded booth package with additional displays.",
+      "specification": "Material: Premium tension fabric system, 3×3m booth, Enhanced features",
+      "size": "3×3 m",
+      "weight": "20.00 KG",
+      "price": "RM 6,000.00",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+      "features": [
+        "Enhanced kit",
+        "Premium features",
+        "Additional displays",
+        "20kg weight"
+      ]
+    },
+    {
+      "id": "FB-BOOTH-KIT-C",
+      "code": "FB-BOOTH-KIT-C",
+      "name": "Booth Kit C (3×3 m)",
+      "category": "Fabric System",
+      "description": "Deluxe 3×3m fabric booth kit with maximum features. Top-tier booth package with comprehensive setup.",
+      "specification": "Material: Deluxe tension fabric system, 3×3m booth, Maximum features",
+      "size": "3×3 m",
+      "weight": "22.00 KG",
+      "price": "RM 6,500.00",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop",
+      "features": [
+        "Deluxe kit",
+        "Maximum features",
+        "Comprehensive",
+        "22kg weight"
+      ]
+    },
+    {
+      "id": "APT-APTW",
+      "code": "APT / APTW",
+      "name": "Alum Promotion Table",
+      "category": "Promotional System",
+      "description": "Aluminum promotion table with graphic wrap. Premium quality portable promotion counter.",
+      "specification": "Material: Aluminum frame with fabric/vinyl wrap, Portable design, As per catalog specs",
+      "size": "As per catalog",
+      "weight": "10.20 KG",
+      "price": "RM 600.00",
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=400&fit=crop",
+      "features": [
+        "Aluminum frame",
+        "Graphic wrap",
+        "Premium quality",
+        "10.2kg weight"
+      ]
+    },
+    {
+      "id": "IPT",
+      "code": "IPT",
+      "name": "Iron Promotion Table",
+      "category": "Promotional System",
+      "description": "Iron promotion table with fold-out design. Affordable and sturdy promotion counter solution.",
+      "specification": "Material: Iron frame with fold-out top, Budget-friendly, As per catalog specs",
+      "size": "As per catalog",
+      "weight": "7.30 KG",
+      "price": "RM 250.00",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "features": [
+        "Iron frame",
+        "Fold-out design",
+        "Affordable",
+        "7.3kg weight"
+      ]
+    },
+    {
+      "id": "PT",
+      "code": "PT",
+      "name": "Promotion Table Square",
+      "category": "Promotional System",
+      "description": "Square promotion table with graphic panels. Versatile promotion counter for events.",
+      "specification": "Material: Frame with graphic panels, Square design, As per catalog specs",
+      "size": "As per catalog",
+      "weight": "7.00 KG",
+      "price": "RM 350.00",
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600&h=400&fit=crop",
+      "features": [
+        "Square design",
+        "Graphic panels",
+        "Versatile",
+        "7kg weight"
+      ]
+    },
+    {
+      "id": "POP-UP-COUNTER-1",
+      "code": "POP-UP COUNTER 1",
+      "name": "Pop-Up Counter 1",
+      "category": "Promotional System",
+      "description": "Compact pop-up counter with fabric graphics. Portable counter solution with easy setup.",
+      "specification": "Material: Pop-up frame with tension fabric, Compact size",
+      "size": "100 × 100 cm",
+      "weight": "8.00 KG",
+      "price": "RM 1,000.00",
+      "image": "https://images.unsplash.com/photo-1560264357-8d9202250f21?w=600&h=400&fit=crop",
+      "features": [
+        "Pop-up design",
+        "Fabric graphics",
+        "Compact size",
+        "8kg weight"
+      ]
+    },
+    {
+      "id": "POP-UP-COUNTER-2",
+      "code": "POP-UP COUNTER 2",
+      "name": "Pop-Up Counter 2",
+      "category": "Promotional System",
+      "description": "Medium pop-up counter with enhanced width. Larger counter space with fabric wrap.",
+      "specification": "Material: Pop-up frame with tension fabric, Medium size",
+      "size": "120 × 100 cm",
+      "weight": "9.00 KG",
+      "price": "RM 1,250.00",
+      "image": "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=600&h=400&fit=crop",
+      "features": [
+        "Medium size",
+        "Enhanced width",
+        "Fabric wrap",
+        "9kg weight"
+      ]
+    },
+    {
+      "id": "POP-UP-COUNTER-3",
+      "code": "POP-UP COUNTER 3",
+      "name": "Pop-Up Counter 3",
+      "category": "Promotional System",
+      "description": "Large pop-up counter with maximum width. Extra-wide counter for busy event areas.",
+      "specification": "Material: Pop-up frame with tension fabric, Large size",
+      "size": "150 × 100 cm",
+      "weight": "10.00 KG",
+      "price": "RM 1,500.00",
+      "image": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?w=600&h=400&fit=crop",
+      "features": [
+        "Large size",
+        "Maximum width",
+        "Event areas",
+        "10kg weight"
+      ]
+    },
+    {
+      "id": "DISPLAY-KIOSK-S",
+      "code": "DISPLAY KIOSK S",
+      "name": "Display Kiosk Small",
+      "category": "Promotional System",
+      "description": "Small display kiosk with lockable storage. Compact kiosk for product displays and information.",
+      "specification": "Material: Aluminum/wood frame with lockable cabinet, Compact size",
+      "size": "60 × 60 × 180 cm",
+      "weight": "12.00 KG",
+      "price": "RM 1,750.00",
+      "image": "https://images.unsplash.com/photo-1553531087-6c1e00b6d1b3?w=600&h=400&fit=crop",
+      "features": [
+        "Lockable storage",
+        "Compact kiosk",
+        "Product display",
+        "12kg weight"
+      ]
+    },
+    {
+      "id": "DISPLAY-KIOSK-L",
+      "code": "DISPLAY KIOSK L",
+      "name": "Display Kiosk Large",
+      "category": "Promotional System",
+      "description": "Large display kiosk with extensive storage. Spacious kiosk for comprehensive product showcases.",
+      "specification": "Material: Aluminum/wood frame with lockable cabinet, Large size",
+      "size": "80 × 80 × 180 cm",
+      "weight": "15.00 KG",
+      "price": "RM 2,250.00",
+      "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=600&h=400&fit=crop",
+      "features": [
+        "Large size",
+        "Extensive storage",
+        "Comprehensive display",
+        "15kg weight"
+      ]
+    },
+    {
+      "id": "ROLLING-PROMO-TABLE",
+      "code": "ROLLING PROMO TABLE",
+      "name": "Rolling Promo Table",
+      "category": "Promotional System",
+      "description": "Rolling promotion table with wheels. Mobile promotion counter for flexible positioning.",
+      "specification": "Material: Frame with wheels and graphic panels, Mobile design",
+      "size": "100 × 60 × 90 cm",
+      "weight": "7.50 KG",
+      "price": "RM 875.00",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
+      "features": [
+        "Rolling wheels",
+        "Mobile",
+        "Flexible positioning",
+        "7.5kg weight"
+      ]
+    },
+    {
+      "id": "FOLDABLE-PROMO-TABLE",
+      "code": "FOLDABLE PROMO TABLE",
+      "name": "Foldable Promotion Table",
+      "category": "Promotional System",
+      "description": "Foldable promotion table for easy transport. Collapsible design with graphic panels.",
+      "specification": "Material: Foldable frame with graphic panels, Collapsible design",
+      "size": "100 × 60 × 90 cm",
+      "weight": "6.00 KG",
+      "price": "RM 750.00",
+      "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=600&h=400&fit=crop",
+      "features": [
+        "Foldable",
+        "Easy transport",
+        "Collapsible",
+        "6kg weight"
+      ]
+    },
+    {
+      "id": "POPUP-3X3C",
+      "code": "POPUP-3×3C",
+      "name": "Pop-Up Curve 3×3",
+      "category": "Display System",
+      "description": "Curved pop-up display system with seamless fabric graphics. Perfect for creating eye-catching booth displays at exhibitions and trade shows.",
+      "specification": "Material: Tension Fabric, Frame: Aluminum Curve System, Printing: Dye-sublimation, Setup: Tool-free pop-up assembly",
+      "size": "344 × 232 cm",
+      "weight": "26.20 KG",
+      "price": "RM 1,750.00",
+      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=600&h=400&fit=crop",
+      "features": [
+        "Curved display design",
+        "Tool-free assembly",
+        "Lightweight at 26.2 kg",
+        "Includes carrying case"
+      ]
+    },
+    {
+      "id": "POPUP-3X4C",
+      "code": "POPUP-3×4C",
+      "name": "Pop-Up Curve 3×4",
+      "category": "Display System",
+      "description": "Large curved pop-up display system for maximum visual impact. Ideal for larger booth spaces and brand showcases.",
+      "specification": "Material: Tension Fabric, Frame: Aluminum Curve System, Printing: Dye-sublimation, Setup: Tool-free pop-up assembly",
+      "size": "414 × 232 cm",
+      "weight": "26.20 KG",
+      "price": "RM 2,250.00",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
+      "features": [
+        "Large curved display",
+        "Tool-free assembly",
+        "26.2 kg weight",
+        "Professional finish"
+      ]
+    },
+    {
+      "id": "POPUP-2X3",
+      "code": "POPUP-2×3",
+      "name": "Pop-Up Straight 2×3",
+      "category": "Display System",
+      "description": "Compact straight pop-up display perfect for smaller booth spaces. Easy setup with professional results.",
+      "specification": "Material: Tension Fabric, Frame: Aluminum Straight System, Printing: Dye-sublimation, Setup: Pop-up assembly",
+      "size": "284 × 232 cm",
+      "weight": "26.20 KG",
+      "price": "RM 1,500.00",
+      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop",
+      "features": [
+        "Straight display design",
+        "Compact size",
+        "26.2 kg weight",
+        "Quick setup"
+      ]
+    },
+    {
+      "id": "POPUP-3X3",
+      "code": "POPUP-3×3",
+      "name": "Pop-Up Straight 3×3",
+      "category": "Display System",
+      "description": "Standard straight pop-up display system. Most popular size for trade show booths and exhibitions.",
+      "specification": "Material: Tension Fabric, Frame: Aluminum Straight System, Printing: Dye-sublimation, Setup: Pop-up assembly",
+      "size": "359 × 232 cm",
+      "weight": "26.20 KG",
+      "price": "RM 1,750.00",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "features": [
+        "Standard exhibition size",
+        "Straight design",
+        "26.2 kg weight",
+        "Easy transport"
+      ]
+    },
+    {
+      "id": "POPUP-3X4",
+      "code": "POPUP-3×4",
+      "name": "Pop-Up Straight 3×4",
+      "category": "Display System",
+      "description": "Large straight pop-up display for maximum coverage. Perfect for main booth backdrops.",
+      "specification": "Material: Tension Fabric, Frame: Aluminum Straight System, Printing: Dye-sublimation, Setup: Pop-up assembly",
+      "size": "434 × 232 cm",
+      "weight": "26.20 KG",
+      "price": "RM 2,250.00",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+      "features": [
+        "Large display area",
+        "Straight design",
+        "26.2 kg weight",
+        "Professional setup"
+      ]
+    },
+    {
+      "id": "CASING",
+      "code": "CASING",
+      "name": "Hard Casing only",
+      "category": "Display System",
+      "description": "Hard carrying case for display systems. Protective transport solution for pop-up and fabric systems.",
+      "specification": "Material: Hard plastic/aluminum case, Protective padding",
+      "size": "184 × 80 cm",
+      "weight": "12.10 KG",
+      "price": "RM 1,000.00",
+      "image": "https://images.unsplash.com/photo-1578489758854-f134a358f08b?w=600&h=400&fit=crop",
+      "features": [
+        "Hard case",
+        "Protective padding",
+        "Transport solution",
+        "12.1kg weight"
+      ]
+    },
+    {
+      "id": "POPUP-VELCRO",
+      "code": "POPUP-VELCRO",
+      "name": "Velcro Pop-Up",
+      "category": "Display System",
+      "description": "Pop-up display with velcro attachment system. Quick-change graphics with velcro backing.",
+      "specification": "Material: Pop-up frame with velcro system, Quick-change graphics",
+      "size": "230 × 230 cm",
+      "weight": "—",
+      "price": "RM 1,750.00",
+      "image": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?w=600&h=400&fit=crop",
+      "features": [
+        "Velcro system",
+        "Quick-change",
+        "Easy graphics update",
+        "Versatile"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-6X6",
+      "code": "POP UP-S.E (6×6)",
+      "name": "Tension 180×180 cm",
+      "category": "Tension System - Straight",
+      "description": "Compact tension fabric display with SEG frame. Perfect for smaller exhibition spaces.",
+      "specification": "Material: Tension fabric with SEG aluminum frame, Dye-sublimation printing, Compact size",
+      "size": "180 × 180 cm",
+      "weight": "5.50 KG",
+      "price": "RM 1,750.00",
+      "priceDouble": "RM 2,250.00",
+      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=600&h=400&fit=crop",
+      "features": [
+        "Compact tension",
+        "SEG frame",
+        "5.5kg weight",
+        "Small spaces"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-6X8",
+      "code": "POP UP-S.E (6×8)",
+      "name": "Tension 240×180 cm",
+      "category": "Tension System - Straight",
+      "description": "Medium tension fabric display with wider format. Balanced size for versatile applications.",
+      "specification": "Material: Tension fabric with SEG frame, Medium format, Dye-sublimation",
+      "size": "240 × 180 cm",
+      "weight": "6.00 KG",
+      "price": "RM 2,000.00",
+      "priceDouble": "RM 2,500.00",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
+      "features": [
+        "Medium format",
+        "Wider display",
+        "6kg weight",
+        "Versatile"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-8X8",
+      "code": "POP UP-S.E (8×8)",
+      "name": "Tension 245×225 cm",
+      "category": "Tension System - Straight",
+      "description": "Standard tension fabric backdrop. Popular exhibition size with professional finish.",
+      "specification": "Material: Tension fabric with SEG frame, Standard exhibition size",
+      "size": "245 × 225 cm",
+      "weight": "6.50 KG",
+      "price": "RM 2,000.00",
+      "priceDouble": "RM 2,500.00",
+      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop",
+      "features": [
+        "Standard size",
+        "Exhibition grade",
+        "6.5kg weight",
+        "Professional"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-10X8",
+      "code": "POP UP-S.E (10×8)",
+      "name": "Tension 295×225 cm",
+      "category": "Tension System - Straight",
+      "description": "Large tension fabric display approaching 3-meter width. Enhanced visibility for major displays.",
+      "specification": "Material: Tension fabric with SEG frame, Large format, Near 3m width",
+      "size": "295 × 225 cm",
+      "weight": "7.00 KG",
+      "price": "RM 2,500.00",
+      "priceDouble": "RM 3,000.00",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "features": [
+        "Large format",
+        "Near 3m width",
+        "7kg weight",
+        "Enhanced visibility"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-2.25X4",
+      "code": "POP UP-S.E (2.25×4)",
+      "name": "Tension 400×225 cm",
+      "category": "Tension System - Straight",
+      "description": "4-meter tension fabric backdrop. Extra-wide format for major exhibition displays.",
+      "specification": "Material: Tension fabric with SEG frame, Extra-wide 4m format",
+      "size": "400 × 225 cm",
+      "weight": "7.00 KG",
+      "price": "RM 3,750.00",
+      "priceDouble": "RM 4,375.00",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+      "features": [
+        "4m width",
+        "Extra-wide",
+        "Major displays",
+        "7kg weight"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-2.25X5",
+      "code": "POP UP-S.E (2.25×5)",
+      "name": "Tension 500×225 cm",
+      "category": "Tension System - Straight",
+      "description": "5-meter tension fabric backdrop. Large format for premium exhibition spaces.",
+      "specification": "Material: Tension fabric with SEG frame, 5m large format",
+      "size": "500 × 225 cm",
+      "weight": "12.10 KG",
+      "price": "RM 4,000.00",
+      "priceDouble": "RM 4,625.00",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop",
+      "features": [
+        "5m width",
+        "Large format",
+        "Premium spaces",
+        "12.1kg weight"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-10X17",
+      "code": "POP UP-S.E (10×17)",
+      "name": "Tension 500×300 cm",
+      "category": "Tension System - Straight",
+      "description": "5-meter extra-tall tension backdrop. Maximum height and width for impressive displays.",
+      "specification": "Material: Tension fabric with SEG frame, 5m × 3m extra-tall",
+      "size": "500 × 300 cm",
+      "weight": "12.10 KG",
+      "price": "RM 4,250.00",
+      "priceDouble": "RM 5,000.00",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
+      "features": [
+        "Extra-tall 3m",
+        "5m width",
+        "Impressive scale",
+        "12.1kg weight"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-2.25X6",
+      "code": "POP UP-S.E (2.25×6)",
+      "name": "Tension 600×225 cm",
+      "category": "Tension System - Straight",
+      "description": "6-meter tension fabric backdrop. Extra-large format for major exhibition backdrops.",
+      "specification": "Material: Tension fabric with SEG frame, 6m extra-large format",
+      "size": "600 × 225 cm",
+      "weight": "12.40 KG",
+      "price": "RM 4,500.00",
+      "priceDouble": "RM 5,500.00",
+      "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=600&h=400&fit=crop",
+      "features": [
+        "6m width",
+        "Extra-large",
+        "Major backdrops",
+        "12.4kg weight"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-10X20",
+      "code": "POP UP-S.E (10×20)",
+      "name": "Tension 600×300 cm",
+      "category": "Tension System - Straight",
+      "description": "6-meter extra-tall tension backdrop. Maximum dimensions for flagship exhibition displays.",
+      "specification": "Material: Tension fabric with SEG frame, 6m × 3m maximum size",
+      "size": "600 × 300 cm",
+      "weight": "12.40 KG",
+      "price": "RM 5,000.00",
+      "priceDouble": "RM 6,250.00",
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=400&fit=crop",
+      "features": [
+        "Maximum size",
+        "6m × 3m",
+        "Flagship displays",
+        "12.4kg weight"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-2.5X6.5",
+      "code": "POP UP-S.E (2.5×6.5)",
+      "name": "Tension 80×200 cm",
+      "category": "Tension System - Straight",
+      "description": "Compact 80cm tension banner. Space-saving solution similar to roll-up size.",
+      "specification": "Material: Tension fabric with SEG frame, Compact 80cm width",
+      "size": "80 × 200 cm",
+      "weight": "5.00 KG",
+      "price": "RM 750.00",
+      "priceDouble": "RM 1,000.00",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "features": [
+        "Compact 80cm",
+        "Space-saving",
+        "Banner size",
+        "5kg weight"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-3X6.5",
+      "code": "POP UP-S.E (3×6.5)",
+      "name": "Tension 90×200 cm",
+      "category": "Tension System - Straight",
+      "description": "90cm tension banner for enhanced visibility. Slightly wider than standard roll-up.",
+      "specification": "Material: Tension fabric with SEG frame, 90cm enhanced width",
+      "size": "90 × 200 cm",
+      "weight": "5.00 KG",
+      "price": "RM 750.00",
+      "priceDouble": "RM 1,000.00",
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600&h=400&fit=crop",
+      "features": [
+        "90cm width",
+        "Enhanced visibility",
+        "Banner format",
+        "5kg weight"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-1X2",
+      "code": "POP UP-S.E (1×2)",
+      "name": "Tension 100×200 cm",
+      "category": "Tension System - Straight",
+      "description": "1-meter tension banner. Standard width for professional displays.",
+      "specification": "Material: Tension fabric with SEG frame, 1m standard width",
+      "size": "100 × 200 cm",
+      "weight": "5.00 KG",
+      "price": "RM 1,250.00",
+      "priceDouble": "RM 1,500.00",
+      "image": "https://images.unsplash.com/photo-1560264357-8d9202250f21?w=600&h=400&fit=crop",
+      "features": [
+        "1m standard",
+        "Professional",
+        "Banner display",
+        "5kg weight"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-4X6.5",
+      "code": "POP UP-S.E (4×6.5)",
+      "name": "Tension 120×200 cm",
+      "category": "Tension System - Straight",
+      "description": "1.2-meter tension banner. Wider banner for increased impact.",
+      "specification": "Material: Tension fabric with SEG frame, 1.2m wider format",
+      "size": "120 × 200 cm",
+      "weight": "5.00 KG",
+      "price": "RM 1,000.00",
+      "priceDouble": "RM 1,375.00",
+      "image": "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=600&h=400&fit=crop",
+      "features": [
+        "1.2m width",
+        "Wider banner",
+        "Increased impact",
+        "5kg weight"
+      ]
+    },
+    {
+      "id": "POP-UP-SE-5X6.5",
+      "code": "POP UP-S.E (5×6.5)",
+      "name": "Tension 150×200 cm",
+      "category": "Tension System - Straight",
+      "description": "1.5-meter tension banner. Large banner format for maximum visibility.",
+      "specification": "Material: Tension fabric with SEG frame, 1.5m large format",
+      "size": "150 × 200 cm",
+      "weight": "5.20 KG",
+      "price": "RM 1,250.00",
+      "priceDouble": "RM 1,625.00",
+      "image": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?w=600&h=400&fit=crop",
+      "features": [
+        "1.5m large",
+        "Maximum visibility",
+        "Banner format",
+        "5.2kg weight"
+      ]
+    },
+    {
+      "id": "POP-UP-S-SHAPE",
+      "code": "POP UP-S.SHAPE",
+      "name": "S-Shape 295×225 cm",
+      "category": "Tension System - Curved & Special",
+      "description": "S-shaped tension fabric display. Creative curved configuration for modern booth designs.",
+      "specification": "Material: Tension fabric with curved SEG frame, S-shaped design, Creative layout",
+      "size": "295 × 225 cm",
+      "weight": "7.00 KG",
+      "price": "RM 3,000.00",
+      "priceDouble": "RM 3,500.00",
+      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=600&h=400&fit=crop",
+      "features": [
+        "S-shape design",
+        "Creative curved",
+        "Modern booth",
+        "7kg weight"
+      ]
+    },
+    {
+      "id": "CURVE-8X8",
+      "code": "CURVE(8×8)",
+      "name": "Curve 245×225 cm",
+      "category": "Tension System - Curved & Special",
+      "description": "Standard curved tension backdrop. Elegant curve design for enhanced visual appeal.",
+      "specification": "Material: Tension fabric with curved SEG frame, Standard exhibition curve",
+      "size": "245 × 225 cm",
+      "weight": "6.50 KG",
+      "price": "RM 2,500.00",
+      "priceDouble": "RM 3,000.00",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
+      "features": [
+        "Standard curve",
+        "Elegant design",
+        "Visual appeal",
+        "6.5kg weight"
+      ]
+    },
+    {
+      "id": "CURVE-11.5X8",
+      "code": "CURVE(11.5×8)",
+      "name": "Curve 345×225 cm",
+      "category": "Tension System - Curved & Special",
+      "description": "Large curved tension backdrop approaching 3.5 meters. Enhanced curved display for premium booths.",
+      "specification": "Material: Tension fabric with large curved frame, 3.5m width",
+      "size": "345 × 225 cm",
+      "weight": "7.50 KG",
+      "price": "RM 3,500.00",
+      "priceDouble": "RM 3,750.00",
+      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop",
+      "features": [
+        "Large curve",
+        "3.5m width",
+        "Premium booths",
+        "7.5kg weight"
+      ]
+    },
+    {
+      "id": "CURVE-11.8X8",
+      "code": "CURVE(11.8×8)",
+      "name": "Curve 360×225 cm",
+      "category": "Tension System - Curved & Special",
+      "description": "3.6-meter curved tension backdrop. Extra-large curved display for flagship exhibitions.",
+      "specification": "Material: Tension fabric with extra-large curved frame, 3.6m width",
+      "size": "360 × 225 cm",
+      "weight": "7.50 KG",
+      "price": "RM 4,000.00",
+      "priceDouble": "RM 4,250.00",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "features": [
+        "Extra-large curve",
+        "3.6m width",
+        "Flagship display",
+        "7.5kg weight"
+      ]
+    },
+    {
+      "id": "POP-UP-S1",
+      "code": "POP UP-S1",
+      "name": "Tension 80×275/300 cm",
+      "category": "Tension System - Curved & Special",
+      "description": "Tall 80cm tension tower display. Vertical format for space-efficient high visibility.",
+      "specification": "Material: Tension fabric with tall SEG frame, Vertical tower design, Up to 3m height",
+      "size": "80 × 275/300 cm",
+      "weight": "6.00 KG",
+      "price": "RM 1,000.00",
+      "priceDouble": "RM 1,125.00",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+      "features": [
+        "Tall tower",
+        "Vertical format",
+        "Space-efficient",
+        "6kg weight"
+      ]
+    },
+    {
+      "id": "POP-UP-S2",
+      "code": "POP UP-S2",
+      "name": "Tension 80×275/300 cm",
+      "category": "Tension System - Curved & Special",
+      "description": "Premium tall 80cm tension tower. Enhanced tall display with premium features.",
+      "specification": "Material: Premium tension fabric with tall frame, Enhanced vertical display",
+      "size": "80 × 275/300 cm",
+      "weight": "6.00 KG",
+      "price": "RM 1,250.00",
+      "priceDouble": "RM 1,375.00",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop",
+      "features": [
+        "Premium tower",
+        "Enhanced display",
+        "Tall format",
+        "6kg weight"
+      ]
+    },
+    {
+      "id": "TENSION-ANGLE-90",
+      "code": "TENSION-ANGLE 90",
+      "name": "Angle 90×(225/255) cm",
+      "category": "Tension System - Curved & Special",
+      "description": "90cm angled tension display. Corner-friendly design for L-shaped booth configurations.",
+      "specification": "Material: Tension fabric with angled frame, Corner design, Adjustable height",
+      "size": "90 × 225/255 cm",
+      "weight": "7.00 KG",
+      "price": "RM 1,000.00",
+      "priceDouble": "RM 1,125.00",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
+      "features": [
+        "Angled design",
+        "Corner display",
+        "L-shaped booth",
+        "7kg weight"
+      ]
+    },
+    {
+      "id": "TENSION-ANGLE-120",
+      "code": "TENSION-ANGLE 120",
+      "name": "Angle 120×(225/255) cm",
+      "category": "Tension System - Curved & Special",
+      "description": "1.2-meter angled tension display. Wider corner display for enhanced L-shaped booth impact.",
+      "specification": "Material: Tension fabric with angled frame, Wider corner design",
+      "size": "120 × 225/255 cm",
+      "weight": "7.00 KG",
+      "price": "RM 1,250.00",
+      "priceDouble": "RM 1,375.00",
+      "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=600&h=400&fit=crop",
+      "features": [
+        "Wider angle",
+        "Corner display",
+        "Enhanced impact",
+        "7kg weight"
+      ]
+    },
+    {
+      "id": "TEN-TABLE",
+      "code": "TEN-TABLE",
+      "name": "Fast Tension Table",
+      "category": "Tension System - Curved & Special",
+      "description": "Tension fabric table throw with frame. Professional table covering with fabric graphics.",
+      "specification": "Material: Tension fabric with table frame, Available in 96×38 in or 68×38 in",
+      "size": "96×38 in / 68×38 in",
+      "weight": "10.00 KG",
+      "price": "RM 1,250.00",
+      "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&h=400&fit=crop",
+      "features": [
+        "Table covering",
+        "Fabric graphics",
+        "Professional",
+        "10kg weight"
+      ]
+    },
+    {
+      "id": "TEN-BD",
+      "code": "TEN-BD",
+      "name": "Tower (Curve)",
+      "category": "Tension System - Curved & Special",
+      "description": "Curved tension tower display. Elegant curved tower for booth identification.",
+      "specification": "Material: Tension fabric with curved tower frame, Vertical curved design",
+      "size": "86 × 205 cm",
+      "weight": "2.40 KG",
+      "price": "RM 1,625.00",
+      "image": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=600&h=400&fit=crop",
+      "features": [
+        "Curved tower",
+        "Booth ID",
+        "Elegant design",
+        "2.4kg weight"
+      ]
+    },
+    {
+      "id": "TEN-LI",
+      "code": "TEN-LI",
+      "name": "Literature Stand",
+      "category": "Tension System - Curved & Special",
+      "description": "Tension fabric literature stand with brochure holder. Combines display graphics with literature distribution.",
+      "specification": "Material: Tension fabric with literature holder, Multi-functional design",
+      "size": "36 × 222 cm",
+      "weight": "2.50 KG",
+      "price": "RM 1,125.00",
+      "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600&h=400&fit=crop",
+      "features": [
+        "Literature holder",
+        "Multi-functional",
+        "Display + brochures",
+        "2.5kg weight"
+      ]
+    },
+    {
+      "id": "SR",
+      "code": "SR",
+      "name": "Shelves Rack with Tube",
+      "category": "Tension System - Curved & Special",
+      "description": "Shelving system with tension fabric backing. Product display shelves with branded backdrop.",
+      "specification": "Material: Metal shelves with tension fabric backdrop, Tube frame system",
+      "size": "—",
+      "weight": "9.50 KG",
+      "price": "RM 1,125.00",
+      "image": "https://images.unsplash.com/photo-1560264357-8d9202250f21?w=600&h=400&fit=crop",
+      "features": [
+        "Shelving system",
+        "Product display",
+        "Fabric backdrop",
+        "9.5kg weight"
+      ]
+    },
+    {
+      "id": "TEN-GW",
+      "code": "TEN-GW",
+      "name": "Tube Gateway",
+      "category": "Tension System - Booth & Structure",
+      "description": "Tension fabric gateway structure. Grand entrance archway with full fabric branding.",
+      "specification": "Material: Tension fabric with tube frame, Gateway arch structure, 3D design",
+      "size": "300×225×100 cm",
+      "weight": "11.00 KG",
+      "price": "RM 6,250.00",
+      "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=600&h=400&fit=crop",
+      "features": [
+        "Gateway arch",
+        "Grand entrance",
+        "3D structure",
+        "11kg weight"
+      ]
+    },
+    {
+      "id": "TEN-CW",
+      "code": "TEN-CW",
+      "name": "Tube Conference Wall",
+      "category": "Tension System - Booth & Structure",
+      "description": "Tension fabric conference wall system. Modular wall system for creating meeting spaces.",
+      "specification": "Material: Tension fabric with tube frame, Conference wall configuration",
+      "size": "300×225 cm",
+      "weight": "8.00 KG",
+      "price": "RM 7,500.00",
+      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=600&h=400&fit=crop",
+      "features": [
+        "Conference wall",
+        "Modular system",
+        "Meeting spaces",
+        "8kg weight"
+      ]
+    },
+    {
+      "id": "TEN-HBB",
+      "code": "TEN-HBB",
+      "name": "Hanger Banner Box",
+      "category": "Tension System - Booth & Structure",
+      "description": "Hanging banner box with tension fabric. Ceiling-hung display cube for overhead branding.",
+      "specification": "Material: Tension fabric with box frame, Hanging system, 3D cube design",
+      "size": "300×300×100 cm",
+      "weight": "12.00 KG",
+      "price": "RM 7,500.00",
+      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop",
+      "features": [
+        "Hanging cube",
+        "Ceiling display",
+        "Overhead branding",
+        "12kg weight"
+      ]
+    },
+    {
+      "id": "TEN-WB",
+      "code": "TEN-WB",
+      "name": "Fabric Wall Box",
+      "category": "Tension System - Booth & Structure",
+      "description": "Tension fabric wall box structure. 3D fabric wall for dimensional booth displays.",
+      "specification": "Material: Tension fabric with 3D box frame, Double-sided option available",
+      "size": "300×225×40 cm",
+      "weight": "8.00 KG",
+      "price": "RM 5,250.00",
+      "priceDouble": "RM 6,500.00",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
+      "features": [
+        "3D wall box",
+        "Dimensional display",
+        "Double-sided option",
+        "8kg weight"
+      ]
+    },
+    {
+      "id": "TEN-DU",
+      "code": "TEN-DU",
+      "name": "Drum Shape Display",
+      "category": "Tension System - Booth & Structure",
+      "description": "Circular drum-shaped tension display. Unique cylindrical structure for 360-degree branding.",
+      "specification": "Material: Tension fabric with circular drum frame, 360° display",
+      "size": "250×225×40 cm",
+      "weight": "12.00 KG",
+      "price": "RM 7,500.00",
+      "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
+      "features": [
+        "Drum shape",
+        "Circular design",
+        "360° branding",
+        "12kg weight"
+      ]
+    },
+    {
+      "id": "TEN-AC",
+      "code": "TEN-AC",
+      "name": "Arch Structure",
+      "category": "Tension System - Booth & Structure",
+      "description": "Tension fabric arch structure. Elegant archway for booth entrances and focal points.",
+      "specification": "Material: Tension fabric with arch frame, Entrance archway design",
+      "size": "300×225×100 cm",
+      "weight": "8.90 KG",
+      "price": "RM 5,000.00",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop",
+      "features": [
+        "Arch structure",
+        "Entrance display",
+        "Elegant design",
+        "8.9kg weight"
+      ]
+    },
+    {
+      "id": "TEN-D3",
+      "code": "TEN-D3",
+      "name": "Design-3 Combo",
+      "category": "Tension System - Booth & Structure",
+      "description": "Combination tension display system. Multi-element booth package with backdrop and accents.",
+      "specification": "Material: Tension fabric combo system, Multiple elements, Double-sided option",
+      "size": "275×225×100 cm",
+      "weight": "8.00 KG",
+      "price": "RM 2,000.00",
+      "priceDouble": "RM 1,500.00",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
+      "features": [
+        "Combo system",
+        "Multi-element",
+        "Booth package",
+        "8kg weight"
+      ]
+    },
+    {
+      "id": "TENSION-BOOTH",
+      "code": "TENSION BOOTH",
+      "name": "Full Tension Booth",
+      "category": "Tension System - Booth & Structure",
+      "description": "Complete tension fabric booth system. All-inclusive tension booth with comprehensive setup.",
+      "specification": "Material: Complete tension fabric system, Full booth configuration, Comprehensive package",
+      "size": "—",
+      "weight": "—",
+      "price": "RM 11,250.00",
+      "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=600&h=400&fit=crop",
+      "features": [
+        "Full booth",
+        "Complete system",
+        "All-inclusive",
+        "Comprehensive"
       ]
     }
   ]
