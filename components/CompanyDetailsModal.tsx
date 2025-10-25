@@ -148,7 +148,7 @@ export default function CompanyDetailsModal({
   if (!isOpen) return null
 
   return (
-    <div className="fixed inset-0 z-50 overflow-y-auto">
+    <div className="fixed inset-0 z-[120] overflow-y-auto">
       {/* Backdrop */}
       <div
         className="fixed inset-0 bg-black bg-opacity-50 transition-opacity"
@@ -157,7 +157,7 @@ export default function CompanyDetailsModal({
 
       {/* Modal */}
       <div className="flex min-h-full items-center justify-center p-4">
-        <div className="relative bg-white rounded-2xl shadow-xl max-w-2xl w-full p-6 transform transition-all">
+        <div className="relative bg-white rounded-2xl shadow-xl max-w-2xl w-full p-6 transform transition-all z-[130]">
           {/* Close Button */}
           <button
             onClick={onClose}
