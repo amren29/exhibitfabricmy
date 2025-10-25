@@ -2078,7 +2078,7 @@
       "specification": "Material: Heavy-duty metal, A2 size holder, Weighted base",
       "size": "A2",
       "weight": "3.40 KG",
-      "price": "RM 150.00",
+      "price": "RM 50.00",
       "image": "https://images.unsplash.com/photo-1573496546735-c0f9abda8ac3?w=600&h=400&fit=crop",
       "features": [
         "Heavy-duty metal",
@@ -2367,7 +2367,7 @@
       "specification": "Material: Aluminum base with spring mechanism, Basic quality, PET/PVC banner material",
       "size": "80 × 200 cm",
       "weight": "2.20 KG",
-      "price": "RM 150.00",
+      "price": "RM 100.00",
       "image": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?w=600&h=400&fit=crop",
       "features": [
         "Basic quality",
@@ -2385,7 +2385,7 @@
       "specification": "Material: Aluminum base with spring mechanism, Basic quality",
       "size": "85 × 200 cm",
       "weight": "2.30 KG",
-      "price": "RM 175.00",
+      "price": "RM 100.00",
       "image": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=600&h=400&fit=crop",
       "features": [
         "Standard width",
@@ -2403,7 +2403,7 @@
       "specification": "Material: Aluminum base with spring mechanism, Standard quality",
       "size": "100 × 200 cm",
       "weight": "2.50 KG",
-      "price": "RM 200.00",
+      "price": "RM 100.00",
       "image": "https://images.unsplash.com/photo-1517457373958-b7bdd4587205?w=600&h=400&fit=crop",
       "features": [
         "1-meter width",
@@ -2421,7 +2421,7 @@
       "specification": "Material: Aluminum base with spring mechanism, Enhanced width",
       "size": "120 × 200 cm",
       "weight": "2.70 KG",
-      "price": "RM 250.00",
+      "price": "RM 100.00",
       "image": "https://images.unsplash.com/photo-1553531087-6c1e00b6d1b3?w=600&h=400&fit=crop",
       "features": [
         "Wide display",
@@ -2439,7 +2439,7 @@
       "specification": "Material: Aluminum base with spring mechanism, Large format",
       "size": "150 × 200 cm",
       "weight": "3.00 KG",
-      "price": "RM 300.00",
+      "price": "RM 100.00",
       "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=600&h=400&fit=crop",
       "features": [
         "Maximum width",
@@ -2475,7 +2475,7 @@
       "specification": "Material: Premium aluminum base, Enhanced spring mechanism, Professional quality",
       "size": "85 × 200 cm",
       "weight": "3.00 KG",
-      "price": "RM 375.00",
+      "price": "RM 175.00",
       "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
       "features": [
         "Premium quality",
@@ -2493,7 +2493,7 @@
       "specification": "Material: Premium aluminum base, Enhanced spring mechanism, Wide format",
       "size": "120 × 200 cm",
       "weight": "3.50 KG",
-      "price": "RM 450.00",
+      "price": "RM 225.00",
       "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
       "features": [
         "Wide format",
@@ -2511,7 +2511,7 @@
       "specification": "Material: Luxury aluminum base with anodized finish, Premium mechanism",
       "size": "85 × 200 cm",
       "weight": "4.00 KG",
-      "price": "RM 500.00",
+      "price": "RM 300.00",
       "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
       "features": [
         "Luxury finish",
@@ -2529,7 +2529,7 @@
       "specification": "Material: Luxury aluminum base with anodized finish, Wide format, Premium mechanism",
       "size": "120 × 200 cm",
       "weight": "4.30 KG",
-      "price": "RM 600.00",
+      "price": "RM 625.00",
       "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop",
       "features": [
         "Wide luxury format",
@@ -2655,7 +2655,7 @@
       "specification": "Material: Deluxe aluminum base, Wide format, Enhanced mechanism",
       "size": "120 × 200 cm",
       "weight": "3.50 KG",
-      "price": "RM 375.00",
+      "price": "RM 625.00",
       "image": "https://images.unsplash.com/photo-1568992687947-868a62a9f521?w=600&h=400&fit=crop",
       "features": [
         "Wide deluxe format",
@@ -2673,7 +2673,7 @@
       "specification": "Material: Economy aluminum base, Basic mechanism, Budget quality",
       "size": "80 × 200 cm",
       "weight": "2.00 KG",
-      "price": "RM 125.00",
+      "price": "RM 75.00",
       "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=600&h=400&fit=crop",
       "features": [
         "Economy price",
@@ -2691,7 +2691,7 @@
       "specification": "Material: Economy aluminum base, Basic mechanism, Budget quality",
       "size": "85 × 200 cm",
       "weight": "2.20 KG",
-      "price": "RM 150.00",
+      "price": "RM 82.50",
       "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600&h=400&fit=crop",
       "features": [
         "Economy price",
@@ -3718,7 +3718,7 @@
       "size": "80 × 275/300 cm",
       "weight": "6.00 KG",
       "price": "RM 1,000.00",
-      "priceDouble": "RM 1,125.00",
+      "priceDouble": "RM 1,250.00",
       "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
       "features": [
         "Tall tower",
@@ -3736,7 +3736,7 @@
       "specification": "Material: Premium tension fabric with tall frame, Enhanced vertical display",
       "size": "80 × 275/300 cm",
       "weight": "6.00 KG",
-      "price": "RM 1,250.00",
+      "price": "RM 1,125.00",
       "priceDouble": "RM 1,375.00",
       "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop",
       "features": [
@@ -3829,7 +3829,7 @@
       "specification": "Material: Tension fabric with literature holder, Multi-functional design",
       "size": "36 × 222 cm",
       "weight": "2.50 KG",
-      "price": "RM 1,125.00",
+      "price": "RM 1,500.00",
       "image": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=600&h=400&fit=crop",
       "features": [
         "Literature holder",
@@ -3865,7 +3865,7 @@
       "specification": "Material: Tension fabric with tube frame, Gateway arch structure, 3D design",
       "size": "300×225×100 cm",
       "weight": "11.00 KG",
-      "price": "RM 6,250.00",
+      "price": "RM 7,500.00",
       "image": "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=600&h=400&fit=crop",
       "features": [
         "Gateway arch",
@@ -3901,7 +3901,7 @@
       "specification": "Material: Tension fabric with box frame, Hanging system, 3D cube design",
       "size": "300×300×100 cm",
       "weight": "12.00 KG",
-      "price": "RM 7,500.00",
+      "price": "RM 5,000.00",
       "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop",
       "features": [
         "Hanging cube",
@@ -3919,7 +3919,7 @@
       "specification": "Material: Tension fabric with 3D box frame, Double-sided option available",
       "size": "300×225×40 cm",
       "weight": "8.00 KG",
-      "price": "RM 5,250.00",
+      "price": "RM 7,500.00",
       "priceDouble": "RM 6,500.00",
       "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&h=400&fit=crop",
       "features": [
@@ -3938,7 +3938,7 @@
       "specification": "Material: Tension fabric with circular drum frame, 360° display",
       "size": "250×225×40 cm",
       "weight": "12.00 KG",
-      "price": "RM 7,500.00",
+      "price": "RM 6,250.00",
       "image": "https://images.unsplash.com/photo-1497366811353-6870744d04b2?w=600&h=400&fit=crop",
       "features": [
         "Drum shape",
@@ -3956,7 +3956,7 @@
       "specification": "Material: Tension fabric with arch frame, Entrance archway design",
       "size": "300×225×100 cm",
       "weight": "8.90 KG",
-      "price": "RM 5,000.00",
+      "price": "RM 5,500.00",
       "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&h=400&fit=crop",
       "features": [
         "Arch structure",
@@ -3974,8 +3974,8 @@
       "specification": "Material: Tension fabric combo system, Multiple elements, Double-sided option",
       "size": "275×225×100 cm",
       "weight": "8.00 KG",
-      "price": "RM 2,000.00",
-      "priceDouble": "RM 1,500.00",
+      "price": "RM 6,500.00",
+      "priceDouble": "RM 5,250.00",
       "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=400&fit=crop",
       "features": [
         "Combo system",
