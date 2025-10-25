@@ -5,12 +5,15 @@ import Link from 'next/link';
 import { Product } from '@/types/product';
 import productsData from '@/data/products.json';
 import { parsePriceOptions } from '@/lib/utils';
+import { useCart } from '@/contexts/CartContext';
+import { toast } from 'sonner';
 
 export default function ProductPage() {
   const [selectedCategory, setSelectedCategory] = useState<string>('All');
   const [isMobileFilterOpen, setIsMobileFilterOpen] = useState(false);
   const [currentPage, setCurrentPage] = useState(1);
   const [productsPerPage, setProductsPerPage] = useState(12);
+  const { addToCart, openCart } = useCart();
 
   const categories = ['All', ...productsData.categories];
 
@@ -54,6 +57,29 @@ export default function ProductPage() {
   const handlePageChange = (page: number) => {
     setCurrentPage(page);
     window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
+  const handleAddToCart = (product: Product, e: React.MouseEvent) => {
+    e.preventDefault();
+    e.stopPropagation();
+
+    const priceOptions = parsePriceOptions(product.price);
+    const firstPrice = priceOptions[0]?.value || product.price;
+
+    addToCart({
+      id: product.id,
+      name: product.name,
+      category: product.category,
+      price: firstPrice,
+      image: '',
+      priceOption: priceOptions[0]?.label,
+    });
+
+    toast.success('Added to cart', {
+      description: `${product.name} has been added to your cart.`,
+    });
+
+    openCart();
   };
 
   return (
@@ -203,50 +229,49 @@ export default function ProductPage() {
 
             <div className="grid grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
               {paginatedProducts.map((product) => (
-                <Link
+                <div
                   key={product.id}
-                  href={`/product/${product.id}`}
-                  className="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-2xl transition-all duration-300 cursor-pointer group hover:scale-105"
+                  className="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-2xl transition-all duration-300 group hover:scale-105"
                 >
-                  {/* Product Image */}
-                  <div className="relative h-48 bg-gray-100 overflow-hidden">
-                    <div className="absolute inset-0 flex items-center justify-center">
-                      <div className="text-gray-400 text-center p-4">
-                        <svg
-                          className="w-16 h-16 mx-auto mb-2 opacity-50"
-                          fill="none"
-                          stroke="currentColor"
-                          viewBox="0 0 24 24"
-                        >
-                          <path
-                            strokeLinecap="round"
-                            strokeLinejoin="round"
-                            strokeWidth={1.5}
-                            d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"
-                          />
-                        </svg>
-                        <p className="text-xs font-medium">{product.id}</p>
+                  <Link href={`/product/${product.id}`}>
+                    {/* Product Image */}
+                    <div className="relative h-48 bg-gray-100 overflow-hidden cursor-pointer">
+                      <div className="absolute inset-0 flex items-center justify-center">
+                        <div className="text-gray-400 text-center p-4">
+                          <svg
+                            className="w-16 h-16 mx-auto mb-2 opacity-50"
+                            fill="none"
+                            stroke="currentColor"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              strokeLinecap="round"
+                              strokeLinejoin="round"
+                              strokeWidth={1.5}
+                              d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"
+                            />
+                          </svg>
+                          <p className="text-xs font-medium">{product.id}</p>
+                        </div>
                       </div>
+                      {/* Gradient overlay on hover */}
+                      <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
                     </div>
-                    {/* Gradient overlay on hover */}
-                    <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
-                  </div>
 
-                  {/* Product Info */}
-                  <div className="p-4">
-                    <div className="mb-2">
-                      <span className="inline-block px-2 py-1 bg-primary/10 text-primary text-xs font-semibold rounded-full">
-                        {product.category}
-                      </span>
-                    </div>
-                    <h3 className="text-sm font-bold text-gray-900 mb-1 group-hover:text-[#0056D2] transition-colors line-clamp-1">
-                      {product.name}
-                    </h3>
-                    <p className="text-gray-600 text-xs mb-2 line-clamp-2">
-                      {product.description}
-                    </p>
-                    <div className="flex items-center justify-between">
-                      <div>
+                    {/* Product Info */}
+                    <div className="p-4 cursor-pointer">
+                      <div className="mb-2">
+                        <span className="inline-block px-2 py-1 bg-primary/10 text-primary text-xs font-semibold rounded-full">
+                          {product.category}
+                        </span>
+                      </div>
+                      <h3 className="text-sm font-bold text-gray-900 mb-1 group-hover:text-[#0056D2] transition-colors line-clamp-1">
+                        {product.name}
+                      </h3>
+                      <p className="text-gray-600 text-xs mb-2 line-clamp-2">
+                        {product.description}
+                      </p>
+                      <div className="mb-2">
                         <div className="text-sm font-bold text-primary">
                           {parsePriceOptions(product.price).length > 1 && (
                             <span className="text-xs font-normal text-gray-500 mr-1">From</span>
@@ -254,12 +279,25 @@ export default function ProductPage() {
                           {parsePriceOptions(product.price)[0]?.value || product.price}
                         </div>
                       </div>
-                      <button className="px-2.5 py-1.5 bg-primary text-white text-xs font-medium rounded-lg hover:shadow-lg transition-all duration-300 hover:scale-105">
-                        View
-                      </button>
                     </div>
+                  </Link>
+
+                  {/* Action Buttons */}
+                  <div className="px-4 pb-4 flex gap-2">
+                    <Link
+                      href={`/product/${product.id}`}
+                      className="flex-1 px-2.5 py-1.5 bg-primary text-white text-xs font-medium rounded-lg hover:shadow-lg transition-all duration-300 hover:scale-105 text-center"
+                    >
+                      View
+                    </Link>
+                    <button
+                      onClick={(e) => handleAddToCart(product, e)}
+                      className="flex-1 px-2.5 py-1.5 bg-green-600 text-white text-xs font-medium rounded-lg hover:shadow-lg transition-all duration-300 hover:scale-105"
+                    >
+                      Quote
+                    </button>
                   </div>
-                </Link>
+                </div>
               ))}
             </div>
 

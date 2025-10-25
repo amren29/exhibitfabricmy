@@ -3,16 +3,17 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
-import { Menu, X, ShoppingCart } from "lucide-react";
+import { Menu, X, ShoppingCart, Search } from "lucide-react";
 import { navLinks, siteConfig } from "@/data/site-config";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 import { useCart } from "@/contexts/CartContext";
+import { CartSidebar } from "@/components/CartSidebar";
 
 export function Navbar() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const pathname = usePathname();
-  const { getTotalItems } = useCart();
+  const { getTotalItems, isCartOpen, openCart, closeCart } = useCart();
   const totalItems = getTotalItems();
 
   return (
@@ -44,8 +45,14 @@ export function Navbar() {
                 {link.label}
               </Link>
             ))}
-            <Link
-              href="/cart"
+            <button
+              className="text-muted-foreground hover:text-primary transition-colors"
+              aria-label="Search"
+            >
+              <Search className="h-5 w-5" />
+            </button>
+            <button
+              onClick={openCart}
               className="relative"
               aria-label={`Shopping cart with ${totalItems} items`}
             >
@@ -55,16 +62,19 @@ export function Navbar() {
                   {totalItems}
                 </span>
               )}
-            </Link>
-            <Button variant="gradient" size="sm" asChild>
-              <Link href="/contact">Get a Quote</Link>
-            </Button>
+            </button>
           </div>
 
           {/* Mobile Menu Button & Cart */}
           <div className="md:hidden flex items-center space-x-4">
-            <Link
-              href="/cart"
+            <button
+              className="text-muted-foreground"
+              aria-label="Search"
+            >
+              <Search className="h-5 w-5" />
+            </button>
+            <button
+              onClick={openCart}
               className="relative"
               aria-label={`Shopping cart with ${totalItems} items`}
             >
@@ -74,7 +84,7 @@ export function Navbar() {
                   {totalItems}
                 </span>
               )}
-            </Link>
+            </button>
             <button
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
               aria-label="Toggle menu"
@@ -107,15 +117,13 @@ export function Navbar() {
                   {link.label}
                 </Link>
               ))}
-              <Button variant="gradient" size="sm" className="w-full" asChild>
-                <Link href="/contact" onClick={() => setMobileMenuOpen(false)}>
-                  Get a Quote
-                </Link>
-              </Button>
             </div>
           </div>
         )}
       </div>
+
+      {/* Cart Sidebar */}
+      <CartSidebar isOpen={isCartOpen} onClose={closeCart} />
     </nav>
   );
 }
