@@ -199,15 +199,12 @@ export function CartSidebar({ isOpen, onClose }: CartSidebarProps) {
 
             <button
               onClick={handleRequestQuotation}
-              className="w-full mb-2 px-4 py-3 bg-green-600 hover:bg-green-700 text-white font-medium rounded-lg flex items-center justify-center gap-2 transition-colors"
+              className="w-full mb-2 px-4 py-3 bg-green-600 hover:bg-green-700 text-white font-medium rounded-lg transition-colors"
             >
-              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z" />
-              </svg>
-              Request Quotation via WhatsApp
+              Request Quotation
             </button>
 
-            <div className="flex gap-2 mb-4">
+            <div className="flex gap-2">
               <button
                 onClick={onClose}
                 className="flex-1 px-4 py-3 bg-white hover:bg-gray-50 text-gray-900 font-medium rounded-lg border border-gray-300 transition-colors"
@@ -226,21 +223,6 @@ export function CartSidebar({ isOpen, onClose }: CartSidebarProps) {
               >
                 <Trash2 className="w-4 h-4" />
               </button>
-            </div>
-
-            <div className="space-y-1 text-xs text-gray-600">
-              <div className="flex items-center gap-1.5">
-                <span>•</span>
-                <span>Free quotation and consultation</span>
-              </div>
-              <div className="flex items-center gap-1.5">
-                <span>•</span>
-                <span>Bulk pricing available</span>
-              </div>
-              <div className="flex items-center gap-1.5">
-                <span>•</span>
-                <span>Custom branding options</span>
-              </div>
             </div>
           </div>
         )}
