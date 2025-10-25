@@ -45,39 +45,38 @@ export function Footer() {
                 <span>{siteConfig.contact.address}</span>
               </li>
               {siteConfig.contact.offices.map((office, index) => (
-                <li key={index} className="space-y-1">
-                  <div className="flex items-center space-x-2 text-xs text-gray-300">
-                    <Phone className="h-3.5 w-3.5 flex-shrink-0" />
-                    <span className="text-white font-medium">
-                      {office.location.replace(" (HQ)", "").replace(" (Branch)", "")}:
-                    </span>
-                    <a
-                      href={`tel:${office.phone.replace(/\s/g, "")}`}
-                      className="hover:text-white transition-colors"
-                    >
-                      {office.phone}
-                    </a>
-                  </div>
-                  <div className="flex items-center space-x-2 text-xs text-gray-300 ml-5">
-                    <Mail className="h-3.5 w-3.5 flex-shrink-0" />
-                    <a
-                      href={`mailto:${office.email}`}
-                      className="hover:text-white transition-colors"
-                    >
-                      {office.email}
-                    </a>
-                  </div>
+                <li key={index} className="flex items-center space-x-2 text-xs text-gray-300">
+                  <Phone className="h-3.5 w-3.5 flex-shrink-0" />
+                  <span className="text-white font-medium">
+                    {office.location.replace(" (HQ)", "").replace(" (Branch)", "")}:
+                  </span>
+                  <a
+                    href={`tel:${office.phone.replace(/\s/g, "")}`}
+                    className="hover:text-white transition-colors"
+                  >
+                    {office.phone}
+                  </a>
                 </li>
               ))}
-              <li className="flex items-center space-x-2 text-xs text-gray-300">
-                <Mail className="h-3.5 w-3.5 flex-shrink-0" />
-                <span className="text-white font-medium">HQ:</span>
-                <a
-                  href={`mailto:${siteConfig.contact.email}`}
-                  className="hover:text-white transition-colors"
-                >
-                  {siteConfig.contact.email}
-                </a>
+              <li className="flex items-start space-x-2 text-xs text-gray-300">
+                <Mail className="h-3.5 w-3.5 mt-0.5 flex-shrink-0" />
+                <div className="flex flex-wrap items-center gap-1">
+                  <span className="text-white font-medium">Email:</span>
+                  {siteConfig.contact.offices.map((office, index) => (
+                    <span key={index} className="inline-flex items-center">
+                      <span className="text-white font-medium">{index + 1}.</span>
+                      <a
+                        href={`mailto:${office.email}`}
+                        className="hover:text-white transition-colors ml-1"
+                      >
+                        {office.email}
+                      </a>
+                      {index < siteConfig.contact.offices.length - 1 && (
+                        <span className="ml-1"></span>
+                      )}
+                    </span>
+                  ))}
+                </div>
               </li>
             </ul>
           </div>
